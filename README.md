@@ -1,13 +1,7 @@
-[Bicoin Run Art](https://www.bitcoinrun.art)
+[Bitcoin Run Art](https://www.bitcoinrun.art)
 ---
 
 **Bitcoin Runs** made by 💓 and 🏃
-
-
-
-## We are on Opensea.io
-TODO - add link here
-
 
 
 ## Skins (color variations)

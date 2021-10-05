@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Bitcoin Run Art"
 title_separator          : "-"
-subtitle                 : 🎨 made with 💓 🏃
+subtitle                 : 🎨 with 💓 🏃
 name                     : "BitcoinRunArt"
-description              : "An amazing website."
+description              : "Drawing ₿itcoins on World Map, one run at a time ₿🏃💓"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"

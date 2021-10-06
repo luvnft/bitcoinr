@@ -14,7 +14,7 @@ gallery:
 
 ## About ₿🏃🎨
 
-**Everybody** is aware of the formidable runs bitcoin had in the last decade. At [BitcoinRun.art](https://www.bitcoinrun.art)
+**Everybody** is aware of the formidable runs bitcoin had in the last decade. At [BitcoinRun.Art](https://www.bitcoinrun.art)
  we want to make **every body** and **soul** aware of bitcoin ₿, running benefits and art. 
  
  **How?** By running Bitcoin shaped routes and drawing them on navigation maps.
@@ -48,8 +48,8 @@ If you want to take part in this Bitcoin Run, it is very easy. Choose a place, a
   
 Then you have two options:
  - **if you are a "techie"** you can submit directly a pull request on this
- project on Github with a post similar to [Berne Run](/berne/) ([source code]()) and [get in contact with us ✉️](mailto:ama@codepedia.org)
-to tell us your story.
+ project on Github with a post similar to [Berne Run](/berne/) ([source code](https://github.com/BitcoinRunArt/bitcoinrun.art/blob/main/_pages/berne.md))
+  and [get in contact with us ✉️](mailto:ama@codepedia.org) to tell us your story.
  - **if you are NOT a techie** just [get in contact with us ✉️](mailto:ama@codepedia.org)
 
 We are looking forward to your Bitcoin Running 🙏🏽 🙏

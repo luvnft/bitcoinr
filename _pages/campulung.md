@@ -31,7 +31,7 @@ It took me around an hour for around 8.2 km:
 
 > 👉 [Complete details](https://connect.garmin.com/modern/activity/7472617145)
 
-Funny enough each time I come back to Câmpulung I walk more or less the same route as this Bitcoin Run and I take pictures.
+Funny enough, once a year when I come back to Câmpulung, I walk more or less the same route as this Bitcoin Run, and I take pictures.
 Here are some pictures from this particular bitcoin run.  
  
 ## Bitcoin Run City Tour Pictures
@@ -46,9 +46,9 @@ The start point is at [Casa de cultură Tudor Mușatescu (en. "Culture House Tud
   <figcaption>Culture House Tudor Mușatescu</figcaption>
 </figure>
 
-Vis-à-vis at the northern end of the Pardon Boulevard, which is currently closed for renovations,
+Vis-à-vis, at the northern end of the Pardon Boulevard (currently closed for renovations),
  I run by [Biserica Sfantu Nicolae (en. St. Nicholas Church)](https://goo.gl/maps/tNzspc4Pshks2iNM7),
-  the place where I got married and baptized my smaller son:
+  the place where I got married and baptized my smaller son in:
 
 <figure class="image">
   <a href="/assets/images/runs/campulung/city/resized/2-900x1200-biserica-sf-nicolae-with-pin.jpeg">
@@ -68,8 +68,9 @@ sadly still a reminder of [communist times](https://en.wikipedia.org/wiki/Social
   <figcaption>Hotel Muscelul</figcaption>
 </figure>
 
-Across the road from the hotel you can find the best "merdenele" in town, some say country,
+Across the road from the hotel you can find the best "merdenele" (cheese pastry) in town, some say in the country,
  at ["Patiseria Iepurașul" (en. Bunny Pastry)](https://www.iepurasul.ro/)
+ 
 <figure class="image">
   <a href="/assets/images/runs/campulung/city/resized/4-900x675-0-patiseria-iepurasul-cu-pin.jpeg">
     <img src="/assets/images/runs/campulung/city/resized/4-900x675-0-patiseria-iepurasul-cu-pin.jpeg" alt="Patiseria Iepurașul">
@@ -77,7 +78,7 @@ Across the road from the hotel you can find the best "merdenele" in town, some s
   <figcaption>Patiseria Iepurașul</figcaption>
 </figure>
 
-Next to the pastry you can visit the [City Museum](https://muzeulcampulung.ro/), to learn about the [town history](https://en.wikipedia.org/wiki/C%C3%A2mpulung)
+Next to the pastry you can visit the [City Museum](https://muzeulcampulung.ro/), to learn about the [town's history](https://en.wikipedia.org/wiki/C%C3%A2mpulung)
 and see some old weapons and stuffed animals:
 
 <figure class="image">
@@ -96,7 +97,8 @@ and see some old weapons and stuffed animals:
   <figcaption>Central Square Câmpulung</figcaption>
 </figure>
 
-The [town hall](https://www.primariacampulung.ro/), a closer look
+The [town hall](https://www.primariacampulung.ro/), a closer look:
+
 <figure class="image">
   <a href="/assets/images/runs/campulung/city/resized/5-900x675-1-primaria-campulung-cu-pin.jpeg">
     <img src="/assets/images/runs/campulung/city/resized/5-900x675-1-primaria-campulung-cu-pin.jpeg" alt="Town Hall">
@@ -104,7 +106,7 @@ The [town hall](https://www.primariacampulung.ro/), a closer look
   <figcaption>Town Hall</figcaption>
 </figure>
 
-On top of the **B** I cross the first bridge on my run, from which you can see **Varful Mateiaș** (en. Mateiaș Summit).
+On top of the **B** I cross the first bridge on my run, from which you can see **Vârful Mateiaș** (en. Mateiaș Summit).
  This is where some bloody fights took place in the first world war. You can visit there the [Mausoleul de la Mateiaș](https://ro.wikipedia.org/wiki/Mausoleul_de_la_Mateia%C8%99),
 a place dedicated to those fallen in battle:
 
@@ -112,7 +114,7 @@ a place dedicated to those fallen in battle:
   <a href="/assets/images/runs/campulung/city/resized/6-900x675-varful-mateias-podul-turn-cu-pin.jpeg">
     <img src="/assets/images/runs/campulung/city/resized/6-900x675-varful-mateias-podul-turn-cu-pin.jpeg" alt="View Râul Targului & Varful Mateias">
   </a>
-  <figcaption>View Râul Targului & Varful Mateiaș</figcaption>
+  <figcaption>View Râul Targului & Vârful Mateiaș</figcaption>
 </figure>
 
 
@@ -136,6 +138,7 @@ mountains
 </figure>
 
 Behind you can see the highest hill in Romania, Mățău (1017 m) 
+
 <figure class="image">
   <a href="/assets/images/runs/campulung/city/resized/9-900x698-varful-matau-cu-pin.jpeg">
     <img src="/assets/images/runs/campulung/city/resized/9-900x698-varful-matau-cu-pin.jpeg" alt="Dealul Mățău">
@@ -152,7 +155,8 @@ Going little further down the B, I leave behind the [Biserica Flămânda (en. Fl
   <figcaption>Biserica Flămânda</figcaption>
 </figure>
 
-In the down right corner of B I pass by the high school I attended and spent four wonderful years in, Dinicu Golescu:
+In the down right corner of B I pass by the high school I attended and spent four wonderful years in, Dinicu Golescu High School:
+
 <figure class="image">
   <a href="/assets/images/runs/campulung/city/resized/11-900x1200-liceul-dinicu-golescu-cu-pin.jpeg">
     <img src="/assets/images/runs/campulung/city/resized/11-900x1200-liceul-dinicu-golescu-cu-pin.jpeg" alt="Dinicu Golescu High School">
@@ -161,7 +165,9 @@ In the down right corner of B I pass by the high school I attended and spent fou
 </figure>
   
 
-Next to Dinicu Golescu High School, I took a peek at the [Negru Vodă Monastery](https://ro.wikipedia.org/wiki/M%C4%83n%C4%83stirea_Negru_Vod%C4%83) 14th century:
+Next to Dinicu Golescu High School, I took a peek at the [Negru Vodă Monastery](https://ro.wikipedia.org/wiki/M%C4%83n%C4%83stirea_Negru_Vod%C4%83),
+ from 14th century:
+
 <figure class="image">
   <a href="/assets/images/runs/campulung/city/resized/12-900x675-manastirea-negru-voda-cu-pin.jpeg">
     <img src="/assets/images/runs/campulung/city/resized/12-900x675-manastirea-negru-voda-cu-pin.jpeg" alt="Negru Vodă Monastery">
@@ -171,8 +177,9 @@ Next to Dinicu Golescu High School, I took a peek at the [Negru Vodă Monastery]
   
 
 
-On the way back to city center I pass by the Grand Royal Hotel, an architectural masterpiece, left to the forces
+On the way back to city center I pass by the Grand Royal Hotel, an architectural masterpiece, left unfortunately to the forces
 of degradation
+
 <figure class="image">
   <a href="/assets/images/runs/campulung/city/resized/13-900x675-hotelul-central-statuia-eroilor-cu-pin.jpeg">
     <img src="/assets/images/runs/campulung/city/resized/13-900x675-hotelul-central-statuia-eroilor-cu-pin.jpeg" alt="Royal Square and Hotel">
@@ -180,7 +187,8 @@ of degradation
   <figcaption>Royal Square and Hotel</figcaption>
 </figure>
 
-Close to the Pardon Boulevard there is the public garden Merci, built in 1885
+Close to the Pardon Boulevard there is the public garden Merci, built in 1885. It is close to my parents house, 
+and it has also a playground where I hang out with my kids sometimes:
 
 <figure class="image">
   <a href="/assets/images/runs/campulung/city/resized/14-900x675-gradina-publica-pardon-cu-pin.jpeg">
@@ -190,16 +198,17 @@ Close to the Pardon Boulevard there is the public garden Merci, built in 1885
 </figure>
   
 
-Nearing the end of my run I am passing the last bridge and I take a last picture. In the city river (ro. Râul Targului),
- I used to bathe when I was little, Crețulescu Park where I used to ride my back and an old train station:
+Nearing the end of my bitcoin run I pass the last bridge, and I take a last picture.
+ I used to bathe in Râul Târgului (en. Town's River) when I was little and in Crețulescu Park I used to ride my back in:
  
 <figure class="image">
   <a href="/assets/images/runs/campulung/city/resized/15-900x-675-parcul-cretulescu-raul-targului-calea-ferata-cu-pin.jpeg">
-    <img src="/assets/images/runs/campulung/city/resized/15-900x-675-parcul-cretulescu-raul-targului-calea-ferata-cu-pin.jpeg" alt="Crețulescu Park and Town River">
+    <img src="/assets/images/runs/campulung/city/resized/15-900x-675-parcul-cretulescu-raul-targului-calea-ferata-cu-pin.jpeg" alt="Crețulescu Park & Râul Târgului">
   </a>
-  <figcaption>Crețulescu Park and Town River</figcaption>
+  <figcaption>Crețulescu Park & Râul Târgului</figcaption>
 </figure>
 
-This is probably the most emotional and for me the most valuable bitcoin run I'll do. Hope you want to discover Câmpulung Muscel now. 
+This is probably the most emotional and to me the most valuable bitcoin. Câmpulung has still a lot of hidden gems, the cleanest
+ air in Romania and I hope you want to discover it by now. 
     
 {% include donate.html %} 

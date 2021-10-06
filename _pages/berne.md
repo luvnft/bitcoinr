@@ -82,7 +82,8 @@ used to admire when writing his theory of relativity
   <figcaption>Aare from Altenbergsteg</figcaption>
 </figure>
 
-When turning around to finish the bangs of the letter B, I could see well the Granary Bridge (Kornhausbrücke) and the suspension bridge
+When turning around to finish the bangs of the letter B, I could have a good look at both the Kornhausbrücke (en.  Granary Bridge)
+ and the suspension bridge
 <figure class="image">
   <a href="/assets/images/runs/berne/city/resized/7-1200x900-kornhausbruecke-aare-perspective-with-pin.jpeg">
     <img src="/assets/images/runs/berne/city/resized/7-1200x900-kornhausbruecke-aare-perspective-with-pin.jpeg" alt="Kornhausbrücke view from the Aare">
@@ -90,7 +91,7 @@ When turning around to finish the bangs of the letter B, I could see well the Gr
   <figcaption>Kornhausbrücke view from the Aare</figcaption>
 </figure>
 
-After running along the Aare for like a kilometer I turn as the river does and get to see the
+After running along the Aare for like a kilometer, I turn with the river and get to see the
  [Untertorbrücke (German: Lower Gate Bridge)](https://en.wikipedia.org/wiki/Untertorbr%C3%BCcke),
  [Nydeggkirche](https://en.wikipedia.org/wiki/Nydeggkirche)
 and the [Nydeggbrücke](https://en.wikipedia.org/wiki/Nydeggbr%C3%BCcke)
@@ -102,7 +103,8 @@ and the [Nydeggbrücke](https://en.wikipedia.org/wiki/Nydeggbr%C3%BCcke)
   <figcaption>Untertorbrücke, Nydeggkirche & Nydeggbrücke</figcaption>
 </figure>
 
-After passing by [Bärenplatz (German Bear Pit)](https://en.wikipedia.org/wiki/B%C3%A4rengraben) I get to turn again and have the most beatuiful view at the old city of Bern
+After passing by [Bärenplatz (en. Bear Pit)](https://en.wikipedia.org/wiki/B%C3%A4rengraben),
+ I get to turn again and have the most beautiful view at the old city of Bern
 
 <figure class="image">
   <a href="/assets/images/runs/berne/city/resized/9-1200x774-old-stadt-view-with-pin.jpeg">
@@ -111,7 +113,7 @@ After passing by [Bärenplatz (German Bear Pit)](https://en.wikipedia.org/wiki/B
   <figcaption>View at old city of Bern from above Bear Pit</figcaption>
 </figure>
 
-The last part of the run is in the "embassy area" of Bern where I also get to see
+The last part of the run is in the "embassy area" of Bern, where I come across
 another church, I was not aware of before
 
 <figure class="image">
@@ -121,15 +123,16 @@ another church, I was not aware of before
   <figcaption>TODO change another church</figcaption>
 </figure>
 
-Some old villa with an interesting architecture, in the Elfnau, one of my favorites neighborhoods in Bern: 
+Below is an old villa with an interesting architecture, in Elfnau, one of my favorites neighborhoods in Bern: 
 <figure class="image">
   <a href="/assets/images/runs/berne/city/resized/11-1200x900-old-house-elfenau-quartier-with-pin.jpeg">
     <img src="/assets/images/runs/berne/city/resized/11-1200x900-old-house-elfenau-quartier-with-pin.jpeg" alt="Old building with nice architecture">
   </a>
-  <figcaption>Old building with nice architecture</figcaption>
+  <figcaption>Old building in Elfnau</figcaption>
 </figure>
 
-The south part of letter B is almost all through the [Dählhölzli-Zoo](https://www.tierpark-bern.ch/index-en.php)
+The south of my Berne bitcoin run is almost all through the [Dählhölzli-Zoo](https://www.tierpark-bern.ch/index-en.php)
+
 <figure class="image">
   <a href="/assets/images/runs/berne/city/resized/12-1200x900-dahoelzipark-zoo-with-pin.jpeg">
     <img src="/assets/images/runs/berne/city/resized/12-1200x900-dahoelzipark-zoo-with-pin.jpeg" alt="Deers in Dählhölzli-Zoo">
@@ -139,6 +142,7 @@ The south part of letter B is almost all through the [Dählhölzli-Zoo](https://
 
 Not long before finish I pass by [the Bern Natural History Museum](https://www.nmbe.ch/en),
  which is a very nice place to visit, especially with kids
+ 
 <figure class="image">
   <a href="/assets/images/runs/berne/city/resized/13-1200x900-natural-history-museum-with-pin.jpeg">
     <img src="/assets/images/runs/berne/city/resized/13-1200x900-natural-history-museum-with-pin.jpeg" alt="Bern Natural History Museum">
@@ -146,6 +150,6 @@ Not long before finish I pass by [the Bern Natural History Museum](https://www.n
   <figcaption>Bern Natural History Museum</figcaption>
 </figure>
   
-I hope you've got a taste of Bern and hope to see you around. 
+I hope I got you excited about Bern and hope to see you around. 
   
 {% include donate.html %}  

@@ -20,8 +20,8 @@ My third bitcoin run was in [Bucharest](https://en.wikipedia.org/wiki/Bucharest)
 
 ## Bitcoin Run statistics 
 
-It took me around one and a half hours for around 12.8 km. Even though I did not take as many pictures as in other bitcoin runs,
-the pace was intentionally less intense because of the air pollution:
+This bitcoin run took me around one and a half hours for around 12.8 km. Trying to avoid the air pollution, my pace
+was sub-medium for this run:
 
 <figure class="image">
   <a href="/assets/images/runs/bucharest/bucharest-brun-statistics-1200x819.png">
@@ -39,6 +39,7 @@ Let's now see some Bucharest' attractions along on my bitcoin run.
 The start point is at [Piața Universității (en. "University Square")](https://en.wikipedia.org/wiki/University_Square,_Bucharest)
 right in the city center. Some tragic events took place here at and [shortly after](https://ro.wikipedia.org/wiki/Golaniada)
  the [Romanian Revolution](https://en.wikipedia.org/wiki/Romanian_Revolution)
+ 
 <figure class="image">
   <a href="/assets/images/runs/bucharest/city/resized/1-900x444-piata-universitati-with-pin.jpg">
     <img src="/assets/images/runs/bucharest/city/resized/1-900x444-piata-universitati-with-pin.jpg" alt="University Square Bucharest">
@@ -68,6 +69,7 @@ At the other end of [Bulevardul Magheru (en. Magheru Boulevard)](https://en.wiki
 I reach the [Piața Romană (en. Roman Square)](https://en.wikipedia.org/wiki/Pia%C8%9Ba_Roman%C4%83), a major traffic
 intersection, with [Bucharest Academy of Economic Studies (ro. Academia de Studii Economice - ASE)](https://en.wikipedia.org/wiki/Bucharest_Academy_of_Economic_Studies)
  "watching" over it:
+ 
 <figure class="image">
   <a href="/assets/images/runs/bucharest/city/resized/4-900x675-piata-romana-cu-pin.jpg">
     <img src="/assets/images/runs/bucharest/city/resized/4-900x675-piata-romana-cu-pin.jpg" alt="Piața Romană">
@@ -76,6 +78,7 @@ intersection, with [Bucharest Academy of Economic Studies (ro. Academia de Studi
 </figure>
 
 Close to Piața Romană, at the tip of the B bangs, I have found the statue of a [dacian nobleman](https://goo.gl/maps/WnDs1HcjYuu7NPnCA):
+
 <figure class="image">
   <a href="/assets/images/runs/bucharest/city/resized/5-900x1200-nobil-dac-romana-with-pin.jpg">
     <img src="/assets/images/runs/bucharest/city/resized/5-900x1200-nobil-dac-romana-with-pin.jpg" alt="Dacian Nobleman">
@@ -84,10 +87,11 @@ Close to Piața Romană, at the tip of the B bangs, I have found the statue of a
 </figure>
 
 > [Dacia](https://en.wikipedia.org/wiki/Dacia) was the land inhabited by the [Dacians](https://en.wikipedia.org/wiki/Dacians), 
-the romanian ancestors. The name "Dacia" is currently better known for the [romanian car manufacturer](https://en.wikipedia.org/wiki/Automobile_Dacia). 
+the romanian ancestors. Nowadays the name "Dacia" is better known for the [romanian car manufacturer](https://en.wikipedia.org/wiki/Automobile_Dacia). 
 
 At the end of the first B loop I have found [Foișorul de Foc (literally The Fire Tower)](https://en.wikipedia.org/wiki/Foi%C8%99orul_de_Foc),
- which is a 42-metre high building and was used in the past as an observation tower by the firemen.[Foisorul de Foc] :
+ which is a 42-metre-high building and was used in the past as an observation tower by the firemen:
+ 
 <figure class="image">
   <a href="/assets/images/runs/bucharest/city/resized/6-900x1200-foisorul-de-foc-with-pin.jpg">
     <img src="/assets/images/runs/bucharest/city/resized/6-900x1200-foisorul-de-foc-with-pin.jpg" alt="Foișorul de Foc">
@@ -95,9 +99,10 @@ At the end of the first B loop I have found [Foișorul de Foc (literally The Fir
   <figcaption>Foișorul de Foc</figcaption>
 </figure>
 
-At [Parcul Izvorul Rece](https://goo.gl/maps/ZVQzLNUMKioEtNrz9), half way on the bicoin run,
+At [Parcul Izvorul Rece](https://goo.gl/maps/ZVQzLNUMKioEtNrz9), half-way on the bitcoin run,
  I was in doubt whether I should continue, because I was 
-getting tired and had some place I had to go, but I pushed on the ran the bitcoin run another way as usual
+getting tired and had some place I had to go, but I pushed on and completeed the bitcoin run
+
 <figure class="image">
   <a href="/assets/images/runs/bucharest/city/resized/7-900x675-parcul-izvorul-rece-with-pin.jpg">
     <img src="/assets/images/runs/bucharest/city/resized/7-900x675-parcul-izvorul-rece-with-pin.jpg" alt="Parcul Izvorul Rece">
@@ -108,17 +113,19 @@ getting tired and had some place I had to go, but I pushed on the ran the bitcoi
 Passing Piața Universității again, but now going south on [Bulevardul Ion C. Brătianu](https://ro.wikipedia.org/wiki/Bulevardul_Ion_C._Br%C4%83tianu,_Bucure%C8%99ti)
  I reach [Piața Unirii (en. "Union Square")](https://en.wikipedia.org/wiki/Pia%C8%9Ba_Unirii). This is one of the largest squares
  in Central Bucharest and a significant transport hub:
+ 
 <figure class="image">
   <a href="/assets/images/runs/bucharest/city/resized/8-900x675-piata-unirii-fantani-with-pin.jpg">
-    <img src="/assets/images/runs/bucharest/city/resized/8-900x675-piata-unirii-fantani-with-pin.jpg" alt="Piata Unirii">
+    <img src="/assets/images/runs/bucharest/city/resized/8-900x675-piata-unirii-fantani-with-pin.jpg" alt="Piața Unirii">
   </a>
-  <figcaption>Piata Unirii</figcaption>
+  <figcaption>Piața Unirii</figcaption>
 </figure>
 
 At the end of [Bulevardul Unirii (en. "Union Boulevard")](https://en.wikipedia.org/wiki/Bulevardul_Unirii),
  at [Piața Constituției (Romanian for "Constitution Square")](https://en.wikipedia.org/wiki/Pia%C8%9Ba_Constitu%C8%9Biei)
  you can see the [Palace of the Parliament (Romanian: Palatul Parlamentului),
  also known as the Republic's House (Casa Republicii) or People's House (Casa Poporului)](https://en.wikipedia.org/wiki/Palace_of_the_Parliament)
+ 
 <figure class="image">
   <a href="/assets/images/runs/bucharest/city/resized/9-900x675-casa-poporului-with-pin.jpg">
     <img src="/assets/images/runs/bucharest/city/resized/9-900x675-casa-poporului-with-pin.jpg" alt="Palace of the Parliament">
@@ -126,10 +133,11 @@ At the end of [Bulevardul Unirii (en. "Union Boulevard")](https://en.wikipedia.o
   <figcaption>Palace of the Parliament</figcaption>
 </figure>
 
-> The Palace of the Parliament in Bucharest, Romania is believed to be
+> The Palace of the Parliament in Bucharest is believed to be
 > [the heaviest building in the world](https://www.guinnessworldrecords.com/world-records/heaviest-building/).
 
-A closer look at it reveals it's a massive building:
+A closer look reveals it's a massive building:
+
 <figure class="image">
   <a href="/assets/images/runs/bucharest/city/resized/10-900x377-casa-poporului-close.jpeg">
     <img src="/assets/images/runs/bucharest/city/resized/10-900x377-casa-poporului-close.jpeg" alt="Palace of the Parliament Closer Look">
@@ -139,6 +147,7 @@ A closer look at it reveals it's a massive building:
 
 I continue my bitcoin run along the [Dâmbovița River](https://en.wikipedia.org/wiki/D%C3%A2mbovi%C8%9Ba_(river)), where
 a couple of fishermen pass their time
+
 <figure class="image">
   <a href="/assets/images/runs/bucharest/city/resized/11-900x675-malu-dambovitei-with-pin.jpeg">
     <img src="/assets/images/runs/bucharest/city/resized/11-900x675-malu-dambovitei-with-pin.jpeg" alt="Dâmbovița River Bulevardul Unirii">
@@ -148,7 +157,7 @@ a couple of fishermen pass their time
 
 > I have very nice memories spending my summers as child on Dâmbovița's shores in [Comuna Stoenești](https://ro.wikipedia.org/wiki/Comuna_Stoene%C8%99ti,_Arge%C8%99)  
 
-Right there on the river's shore you can also find the [Romanian National Library](https://www.cenl.org/library/national-library-of-romania/):
+On the river's shore you can also find the [Romanian National Library](https://www.cenl.org/library/national-library-of-romania/):
 
 <figure class="image">
   <a href="/assets/images/runs/bucharest/city/resized/12-900x675-national-library-with-pin.jpeg">
@@ -157,7 +166,7 @@ Right there on the river's shore you can also find the [Romanian National Librar
   <figcaption>Romanian National Library</figcaption>
 </figure>
 
-In the end to my surprise when I want to pay the parking ticket I have also found this Bitcoin Machine where you 
+When I want to pay the parking ticket, I was pleasantly surprised to find this Bitcoin Machine where you 
 can buy bitcoins:
 
 <figure class="image">
@@ -167,7 +176,7 @@ can buy bitcoins:
   <figcaption>Bitcoin Buy Machine</figcaption>
 </figure>
 
-Well, all in all, Bucharest is worth a run - give it a try!
+All in all, Bucharest is definitely worth a run or visit - give it a try!
 
 {% include donate.html %}  
   

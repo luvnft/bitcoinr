@@ -20,7 +20,7 @@ title                    : "Bitcoin Run Art"
 title_separator          : "-"
 subtitle                 : 🎨 with 💓 🏃
 name                     : "BitcoinRunArt"
-description              : "Drawing ₿itcoins on World Map, one run at a time ₿🏃💓"
+description              : "Minting ₿itcoins on World Map, one run at a time ₿🏃💓"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -78,12 +78,12 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : BitcoinRunArt
 facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : /assets/images/homepage/header-bern-satmap-1600x900.png
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Adrian Matei"
   avatar           : "/assets/images/authors/ama-ascii-laser-eyes.jpeg"
-  bio              : "Running artist"
+  bio              : "Running coder/artist"
   location         : "Earth"
   email            :
   links:

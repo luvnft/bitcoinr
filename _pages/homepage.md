@@ -30,15 +30,15 @@ gallery:
     alt: "Bucharest Bitcoin Run"
     title: "Bucharest Bitcoin Run"
 gallery2:    
-  - url: /lucerne/
+  - url: /assets/images/homepage/lucerne-sketch-reserved-640x480.png
     image_path: /assets/images/homepage/lucerne-sketch-reserved-640x480.png
     alt: "Lucerne Bitcoin run"
     title: "Lucerne Bitcoin run"
-  - url: /barcelona/
+  - url: /assets/images/homepage/barcelona-sketch-reserved-640x480.png
     image_path: /assets/images/homepage/barcelona-sketch-reserved-640x480.png
     alt: "Barcelona Bitcoin Run"
     title: "Campulung Bitcoin Run"
-  - url: /berlin/
+  - url: /assets/images/homepage/berlin-sketch-reserved-640x480.png
     image_path: /assets/images/homepage/berlin-sketch-reserved-640x480.png
     alt: "Berlin Bitcoin Run"
     title: "Berlin Bitcoin Run"  

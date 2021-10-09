@@ -6,18 +6,8 @@ header:
 permalink: /sibiu/
 ---
 
-## What wants to do this bitcoin run?
-
-Who is up for the challenge? [Get in contact with us ✉️](mailto:ama@codepedia.org)
+{% include sketch-page.html city="sibiu" sketch_image="sibiu-brun-sketch-1200x974.png"%} 
  
- <figure class="image">
-   <a href="/assets/images/runs/sibiu/sketch/sibiu-brun-sketch-1200x974.png">
-     <img src="/assets/images/runs/sibiu/sketch/sibiu-brun-sketch-1200x974.png" alt="Sibiu Bitcoin Run Sketch">
-   </a>
-   <figcaption>Sibiu Bitcoin Run Sketch</figcaption>
- </figure> 
- 
-
 {% include donate.html %}  
   
   

@@ -28,7 +28,20 @@ gallery:
   - url: /bucharest
     image_path: /assets/images/homepage/bucharest-basemap-overlay-640x480.png
     alt: "Bucharest Bitcoin Run"
-    title: "Bucharest Bitcoin Run"  
+    title: "Bucharest Bitcoin Run"
+gallery2:    
+  - url: /lucerne/
+    image_path: /assets/images/homepage/lucerne-sketch-reserved-640x480.png
+    alt: "Lucerne Bitcoin run"
+    title: "Lucerne Bitcoin run"
+  - url: /barcelona/
+    image_path: /assets/images/homepage/barcelona-sketch-reserved-640x480.png
+    alt: "Barcelona Bitcoin Run"
+    title: "Campulung Bitcoin Run"
+  - url: /berlin/
+    image_path: /assets/images/homepage/berlin-sketch-reserved-640x480.png
+    alt: "Berlin Bitcoin Run"
+    title: "Berlin Bitcoin Run"  
 ---
 
 <div id="home-social-connect" style="font-size:2em">
@@ -36,3 +49,4 @@ gallery:
 </div>
 
 {% include gallery caption="Completed ₿itcoin Runs" %}
+{% include gallery id="gallery2" caption="Reserved ₿itcoin Runs" %}

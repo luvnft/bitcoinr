@@ -6,7 +6,7 @@ header:
 permalink: /sibiu/
 ---
 
-{% include sketch-page.html city="sibiu" sketch_image="sibiu-brun-sketch-1200x900.png"%} 
+{% include sketch-page.html city="Sibiu" sketch_image="sibiu-brun-sketch-1200x900.png"%} 
  
 {% include donate.html %}  
   

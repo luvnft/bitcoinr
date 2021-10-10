@@ -6,7 +6,7 @@ header:
 permalink: /seattle/
 ---
 
-{% include sketch-page.html city="seattle" sketch_image="seattle-brun-sketch-1200x893.png"%} 
+{% include sketch-page.html city="Seattle" sketch_image="seattle-brun-sketch-1200x893.png"%} 
 
 {% include donate.html %}  
   

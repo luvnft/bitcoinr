@@ -3,10 +3,10 @@
 Who is up for the challenge 💪? [Get in contact with us ✉️](mailto:ama@codepedia.org)
 
 <figure class="image">
-  <a href="/assets/images/runs/{{ include.city }}/sketch/{{ include.sketch_image }}">
-    <img src="/assets/images/runs/{{ include.city }}/sketch/{{ include.sketch_image }}" alt="{{ include.snippetId }} Bitcoin Run Sketch">
+  <a href="/assets/images/runs/{{ include.city | downcase }}/sketch/{{ include.sketch_image }}">
+    <img src="/assets/images/runs/{{ include.city  | downcase }}/sketch/{{ include.sketch_image }}" alt="{{ include.city }} Bitcoin Run Sketch">
   </a>
-  <figcaption>{{ include.snippetId }} Bitcoin Run Sketch</figcaption>
+  <figcaption>Bitcoin Run Sketch - {{ include.city }}</figcaption>
 </figure>
 
 > If you have a better proposal for this place's bitcoin run, by all means 👌👍

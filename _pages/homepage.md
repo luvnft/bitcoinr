@@ -16,7 +16,7 @@ excerpt: "Drawing ₿itcoins on World Map, one run at a time ₿🏃💓"
 feature_row:
 intro: 
   - excerpt: 'Get connected [<i class="fab fa-fw fa-github"></i>](https://github.com/BitcoinrunArt) [<i class="fab fa-fw fa-twitter-square"></i>](https://twitter.com/BitcoinrunArt) [<i class="fab fa-discord"></i>](https://discord.com/channels/895184649423298611/895187115162349598) [<i class="fab fa-fw fa-instagram"></i>](https://www.instagram.com/BitcoinRunArt) '
-gallery:
+gallery_completed:
   - url: /berne/
     image_path: /assets/images/homepage/berne-basemap-640x480.png
     alt: "Berne Bitcoin run"
@@ -29,7 +29,7 @@ gallery:
     image_path: /assets/images/homepage/bucharest-basemap-overlay-640x480.png
     alt: "Bucharest Bitcoin Run"
     title: "Bucharest Bitcoin Run"
-gallery2:    
+gallery_reserved:    
   - url: /assets/images/homepage/lucerne-sketch-reserved-640x480.png
     image_path: /assets/images/homepage/lucerne-sketch-reserved-640x480.png
     alt: "Lucerne Bitcoin run"
@@ -41,12 +41,26 @@ gallery2:
   - url: /assets/images/homepage/berlin-sketch-reserved-640x480.png
     image_path: /assets/images/homepage/berlin-sketch-reserved-640x480.png
     alt: "Berlin Bitcoin Run"
-    title: "Berlin Bitcoin Run"  
+    title: "Berlin Bitcoin Run" 
+gallery_proposal:    
+  - url: /oslo/
+    image_path: /assets/images/homepage/oslo-sketch-proposal-640x480.png
+    alt: "Oslo Bitcoin run"
+    title: "Oslo Bitcoin run"
+  - url: /seattle/
+    image_path: /assets/images/homepage/seattle-sketch-proposal-640x480.png
+    alt: "Seattle Bitcoin Run"
+    title: "Seattle Bitcoin Run"
+  - url: /sibiu/
+    image_path: /assets/images/homepage/sibiu-sketch-proposal-640x480.png
+    alt: "Sibiu Bitcoin Run"
+    title: "Sibiu Bitcoin Run"  
 ---
 
 <div id="home-social-connect" style="font-size:2em">
   {% include feature_row id="intro" type="center" %}
 </div>
 
-{% include gallery caption="Completed ₿itcoin Runs" %}
-{% include gallery id="gallery2" caption="Reserved ₿itcoin Runs" %}
+{% include gallery id="gallery_completed" caption="Completed ₿itcoin Runs" %}
+{% include gallery id="gallery_reserved" caption="Reserved ₿itcoin Runs" %}
+{% include gallery id="gallery_proposal" caption="₿itcoin Runs Proposals - who's up for the challenge 💪?" %}

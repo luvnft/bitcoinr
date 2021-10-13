@@ -13,6 +13,10 @@ gallery:
     image_path: /assets/images/runs/seattle/sketch/seattle-brun-sketch-1200x900.png
     alt: "Seattle Bitcoin run sketch"
     title: "Seattle Bitcoin run sketch"
+  - url: /singapore/
+    image_path: /assets/images/runs/singapore/sketch/singapore-brun-sketch-1200x900.png
+    alt: "Singapore Bitcoin run sketch"
+    title: "Singapore Bitcoin run sketch"
   - url: /sibiu/
     image_path: /assets/images/runs/sibiu/sketch/sibiu-brun-sketch-1200x900.png
     alt: "Sibiu Bitcoin run sketch"

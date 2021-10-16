@@ -15,7 +15,7 @@ gallery:
 ## About ₿🏃🎨
 
 **Everybody** is aware of the formidable runs bitcoin had in the last decade. At [BitcoinRun.Art](https://www.bitcoinrun.art)
- we want to make **every body** and **soul** aware of bitcoin ₿, running benefits and art. 
+ we want to make **every body** and **soul** aware of bitcoin ₿, running benefits ❤️  and art 🎨 . 
  
  **How?** By running Bitcoin shaped routes and drawing them on navigation maps.
  Our pace (🏃) and heart beat (💓) give the colors of the run:
@@ -44,7 +44,10 @@ Following bitcoin runs are complete for now:
 If you want to take part in this Bitcoin Run, it is very easy. Choose a place, at best one you relate to and know about,
  do a Bitcoin shaped run, record it and [get in contact with us ✉️](mailto:ama@codepedia.org). 
  
-> Enable location on your phone and take pictures of the surrounding attractions on your way.
+> We have put up a few sketch proposals you might consider in cities like [Miami](/miami/), [Oslo](/oslo/), [San Francisco](/san-francisco) etc.
+> You can find the complete list 👉  &nbsp; **[here](/proposals/)**. 
+ 
+> Don't forget to enable the location on your phone and take pictures of the surrounding attractions on your way.
   
 Then you have two options:
  - **if you are a "techie"** you can submit directly a pull request on this
@@ -52,6 +55,6 @@ Then you have two options:
   and [get in contact with us ✉️](mailto:ama@codepedia.org) to tell us your story.
  - **if you are NOT a techie** just [get in contact with us ✉️](mailto:ama@codepedia.org)
 
-We are looking forward to your Bitcoin Running 🙏🏽 🙏
+We are looking forward to your Bitcoin Run 🙏🏽 🙏
 
 {% include donate.html %}

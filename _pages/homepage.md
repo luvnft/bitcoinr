@@ -62,5 +62,13 @@ gallery_proposal:
 </div>
 
 {% include gallery id="gallery_completed" caption="Completed ₿itcoin Runs" %}
+
+<hr>
+
 {% include gallery id="gallery_reserved" caption="Reserved ₿itcoin Runs" %}
-{% include gallery id="gallery_proposal" caption="₿itcoin Runs Proposals - who's up for the challenge 💪?" %}
+
+<hr>
+
+{% include gallery id="gallery_proposal" caption="₿itcoin Runs Proposals - who's up for the challenge 💪 ?" %}
+
+> Complete list with proposal sketches 👉 &nbsp; **[here](/proposals/)**

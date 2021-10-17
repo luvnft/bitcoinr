@@ -45,7 +45,7 @@ If you want to take part in this Bitcoin Run, it is very easy. Choose a place, a
  do a Bitcoin shaped run, record it and [get in contact with us ✉️](mailto:ama@codepedia.org). 
  
 > We have put up a few sketch proposals you might consider in cities like [Miami](/miami/), [Oslo](/oslo/), [San Francisco](/san-francisco) etc.
-> You can find the complete list 👉  &nbsp; **[here](/proposals/)**. 
+> You can find the complete list 👉  &nbsp; **[here](/proposals)**. 
  
 > Don't forget to enable the location on your phone and take pictures of the surrounding attractions on your way.
   

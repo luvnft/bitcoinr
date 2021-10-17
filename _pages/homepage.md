@@ -71,4 +71,4 @@ gallery_proposal:
 
 {% include gallery id="gallery_proposal" caption="₿itcoin Runs Proposals - who's up for the challenge 💪 ?" %}
 
-> Complete list with proposal sketches 👉 &nbsp; **[here](/proposals/)**
+> Complete list with proposal sketches 👉 &nbsp; **[here](/proposals)**

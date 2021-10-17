@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /proposals
+permalink: /proposals/
 header:
   image: /assets/images/proposals/proposals-background-header-2048x900.png
   og_image: /assets/images/proposals/proposals-background-header-2048x900.png

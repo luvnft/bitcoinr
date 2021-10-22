@@ -20,7 +20,7 @@ Some say it was the Bitcoin Futures ETF launch or other say inflation worries,
   <figcaption>Bitcoin climbing to new ATH 💪</figcaption>
 </figure> 
 
-It was created and published hours before BTC reached a new ATH on 20th October 2021:
+It was created and published on Twitter hours before BTC reached a new ATH on 20th October 2021:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Come on <a href="https://twitter.com/hashtag/Bitcoin?src=hash&amp;ref_src=twsrc%5Etfw">#Bitcoin</a> hodlers, enthusiasts, investors, we can do it <a href="https://twitter.com/hashtag/ATH?src=hash&amp;ref_src=twsrc%5Etfw">#ATH</a> <a href="https://twitter.com/hashtag/cryptomeme?src=hash&amp;ref_src=twsrc%5Etfw">#cryptomeme</a> <a href="https://t.co/Bx8HJcBOh9">pic.twitter.com/Bx8HJcBOh9</a></p>&mdash; Adrian Krypto (@kryptero) <a href="https://twitter.com/kryptero/status/1450717528028766209?ref_src=twsrc%5Etfw">October 20, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Adrian Matei"
-  avatar           : "/assets/images/authors/ama.jpeg"
+  avatar           : "/assets/images/authors/ama.jpg"
   bio              : "Running coder/artist"
   location         : "Earth"
   email            :
@@ -266,6 +266,11 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+# Collections
+collections:
+  memes:
+    output: true
 
 
 # Defaults

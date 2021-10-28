@@ -1,40 +1,29 @@
 ---
-title: "What helped Bitcoin climb to a new All Time High"
+title: "El Salvador waiting for the dip after Bitcoin all time high"
 layout: single
-permalink: /memes/what-helped-bitcoin-climb-to-new-all-time-high
+permalink: /memes/el-salvador-waiting-for-the-bitcoin-dip-after-ath
 published: true
 author_profile: true
 header:
-  og_image: /assets/images/memes/btc-ath-everest-last-push/bitcoin-ath-everest-queue-meme-one-last-push-1500x900.jpeg
-date: 2021-10-20
-excerpt: "Neither Bitcoin Futures ETF launch, nor inflation worries helped Bitcoin climb to new all time highs, but this."
+  og_image: /assets/images/memes/btc-el-salvador-buying-the-dip-after-ath/el-salvador-waiting-the-dip-after-ath-1500x900.png
+date: 2021-10-28
+excerpt: "El Salvador, silently and happily waiting for the Bitcoin dip after ATH."
 ---
 
-Some say it was the Bitcoin Futures ETF launch or other say inflation worries,
- but what actually helped Bitcoin climb to a new all time high was this last push:
+After Bitcoin reached an ATH last week, helped of course by our [last push](/memes/what-helped-bitcoin-climb-to-new-all-time-high),
+the expected pullback took place. Guess what El Salvador was doing in the meantime?
+
 
 <figure class="image">
-  <a href="/assets/images/memes/btc-ath-everest-last-push/bitcoin-ath-everest-queue-meme-one-last-push-1500x900.jpeg">
-    <img src="/assets/images/memes/btc-ath-everest-last-push/bitcoin-ath-everest-queue-meme-one-last-push-1500x900.jpeg" alt="Bitcoin Run Bern Statistics">
+  <a href="/assets/images/memes/btc-el-salvador-buying-the-dip-after-ath/el-salvador-waiting-the-dip-after-ath-1500x900.png">
+    <img src="/assets/images/memes/btc-el-salvador-buying-the-dip-after-ath/el-salvador-waiting-the-dip-after-ath-1500x900.png" alt="Bitcoin Run Bern Statistics">
   </a>
-  <figcaption>Bitcoin climbing to new ATH 💪</figcaption>
+  <figcaption>El Salvador waiting for the Bitcoin dip after ATH</figcaption>
 </figure> 
 
-It was created and published on Twitter hours before BTC reached a new ATH on 20th October 2021:
+Well, today the president of El Salvador, just twitted that the country has bought the dip and added 420 new bitcoins to
+its treasury
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Come on <a href="https://twitter.com/hashtag/Bitcoin?src=hash&amp;ref_src=twsrc%5Etfw">#Bitcoin</a> hodlers, enthusiasts, investors, we can do it <a href="https://twitter.com/hashtag/ATH?src=hash&amp;ref_src=twsrc%5Etfw">#ATH</a> <a href="https://twitter.com/hashtag/cryptomeme?src=hash&amp;ref_src=twsrc%5Etfw">#cryptomeme</a> <a href="https://t.co/Bx8HJcBOh9">pic.twitter.com/Bx8HJcBOh9</a></p>&mdash; Adrian Krypto (@kryptero) <a href="https://twitter.com/kryptero/status/1450717528028766209?ref_src=twsrc%5Etfw">October 20, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<hr>
-
-Do you see 🧐? This is what actually did it:
-
- <figure class="image">
-   <a href="/assets/images/memes/btc-ath-everest-last-push/btc-everest-last-push-climb-to-new-ath-successful-1500x919.jpeg">
-     <img src="/assets/images/memes/btc-ath-everest-last-push/btc-everest-last-push-climb-to-new-ath-successful-1500x919.jpeg" alt="Proof causing ATH">
-   </a>
-   <figcaption>What more proof do you want? 🧐</figcaption>
- </figure> 
- 
- <hr>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">It was a long wait, but worth it.<br><br>We just bought the dip!<br><br>420 new <a href="https://twitter.com/hashtag/Bitcoin?src=hash&amp;ref_src=twsrc%5Etfw">#Bitcoin</a>🇸🇻</p>&mdash; Nayib Bukele 🇸🇻 (@nayibbukele) <a href="https://twitter.com/nayibbukele/status/1453461587948445697?ref_src=twsrc%5Etfw">October 27, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
  
  {% include donate.html %}  

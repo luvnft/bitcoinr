@@ -1,6 +1,6 @@
 ---
 layout: collection
-title: "Crypto ememes"
+title: "Crypto memes"
 collection: memes
 permalink: /memes/
 author_profile: false

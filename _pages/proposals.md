@@ -5,6 +5,10 @@ header:
   image: /assets/images/proposals/proposals-background-header-2048x900.png
   og_image: /assets/images/proposals/proposals-background-header-2048x900.png
 gallery:
+  - url: /london/
+    image_path: /assets/images/runs/london/sketch/london-sketch-proposal-1200x900.png
+    alt: "London Bitcoin run sketch"
+    title: "London Bitcoin run sketch"
   - url: /oslo/
     image_path: /assets/images/runs/oslo/sketch/oslo-sketch-proposal-1200x900.png
     alt: "Oslo Bitcoin run sketch"
@@ -25,6 +29,6 @@ gallery:
 
 You can find bellow 👇 a list of sketched proposals you can do - [get in contact with us ✉️](mailto:ama@codepedia.org)
 
-> You are very welcome to come up with your own proposals - [get in contact with us ✉️](mailto:ama@codepedia.org)
-
 {% include gallery id="gallery" layout="" caption="₿itcoin Run Proposals" %}
+
+> You are very welcome to come up with your own proposals - [get in contact with us ✉️](mailto:ama@codepedia.org)

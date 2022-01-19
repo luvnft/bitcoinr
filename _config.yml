@@ -101,9 +101,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Adrian Matei"
+  name             : "Adoshi Matamoto "
   avatar           : "/assets/images/authors/ama.jpg"
-  bio              : "Running coder/artist"
+  bio              : "aka **Adrian Matei** - stoic, coder, artist"
   location         : "Earth"
   email            :
   links:
@@ -115,7 +115,7 @@ author:
       url: "https://www.adrianmatei.me"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/kryptero"
+      url: "https://twitter.com/AdoshiMatamoto"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/adi-matei"

@@ -9,7 +9,7 @@ header:
   actions:
     - label: "Learn More"
       url: "/about/"
-  caption: "[Bitcoin Run Bern Satellite](/berne/)"
+  caption: "[Bitcoin Run Bern Satellite](/bern/)"
 tagline: "Up 📈, down 📉, flattening 🥿, faster 🚀, slower 🐌 - you know, the usual ₿itcoin Runs.
  Here, we get the same kicks out of drawing ₿itcoin Runs on navigation maps with our heart beats (💓) and feet (🏃).
  &nbsp; [Memes](/memes/) are just for fun 🤪."
@@ -18,10 +18,10 @@ feature_row:
 intro: 
   - excerpt: 'Get connected [<i class="fab fa-fw fa-github"></i>](https://github.com/BitcoinrunArt) [<i class="fab fa-fw fa-twitter-square"></i>](https://twitter.com/BitcoinrunArt) [<i class="fab fa-discord"></i>](https://discord.com/channels/895184649423298611/895187115162349598) [<i class="fab fa-fw fa-instagram"></i>](https://www.instagram.com/BitcoinRunArt) '
 gallery_completed:
-  - url: /berne/
+  - url: /bern/
     image_path: /assets/images/homepage/berne-basemap-640x480.png
-    alt: "Berne Bitcoin run"
-    title: "Berne Bitcoin run"
+    alt: "Bern Bitcoin run"
+    title: "Bern Bitcoin run"
   - url: /campulung
     image_path: /assets/images/homepage/campulung-basemap-640x480.png
     alt: "Campulung Bitcoin Run"

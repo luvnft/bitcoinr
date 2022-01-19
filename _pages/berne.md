@@ -118,9 +118,9 @@ another church, I was not aware of before
 
 <figure class="image">
   <a href="/assets/images/runs/berne/city/resized/10-1200x900-church-tower-elfenau-quartier-with-pin.jpeg">
-    <img src="/assets/images/runs/berne/city/resized/10-1200x900-church-tower-elfenau-quartier-with-pin.jpeg" alt="TODO change another church">
+    <img src="/assets/images/runs/berne/city/resized/10-1200x900-church-tower-elfenau-quartier-with-pin.jpeg" alt="Petruskirche">
   </a>
-  <figcaption>TODO change another church</figcaption>
+  <figcaption>Petruskirche</figcaption>
 </figure>
 
 Below is an old villa with an interesting architecture, in Elfnau, one of my favorites neighborhoods in Bern: 

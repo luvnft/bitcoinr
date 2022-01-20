@@ -16,7 +16,7 @@ tagline: "Up 📈, down 📉, flattening 🥿, faster 🚀, slower 🐌 - you kn
 excerpt: "Drawing ₿itcoins on World Map, one run at a time ₿🏃💓"
 feature_row:
 intro: 
-  - excerpt: 'Get connected [<i class="fab fa-fw fa-github"></i>](https://github.com/BitcoinrunArt) [<i class="fab fa-fw fa-twitter-square"></i>](https://twitter.com/BitcoinrunArt) [<i class="fab fa-discord"></i>](https://discord.com/channels/895184649423298611/895187115162349598) [<i class="fab fa-fw fa-instagram"></i>](https://www.instagram.com/BitcoinRunArt) '
+  - excerpt: 'Get connected [<i class="fab fa-fw fa-github"></i>](https://github.com/BitcoinRuns) [<i class="fab fa-fw fa-twitter-square"></i>](https://instagram.com/BitcoinRuns) [<i class="fab fa-discord"></i>](https://discord.com/channels/895184649423298611/895187115162349598) [<i class="fab fa-fw fa-instagram"></i>](https://www.instagram.com/BitcoinRuns) '
 gallery_completed:
   - url: /bern/
     image_path: /assets/images/homepage/berne-basemap-640x480.png

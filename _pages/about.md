@@ -12,9 +12,9 @@ gallery:
     title: "Bern Bitcoin Run - Heart Beat"    
 ---
 
-## About ₿🏃🎨
+## About ₿🏃
 
-**Everybody** is aware of the formidable runs bitcoin had in the last decade. At [BitcoinRun.Art](https://www.bitcoinrun.art)
+**Everybody** is aware of the formidable runs bitcoin had in the last decade. At [BitcoinRun.Club](https://www.bitcoinruns.club)
  we want to make **every body** and **soul** aware of bitcoin ₿, running benefits ❤️  and art 🎨 . 
  
  **How?** By running Bitcoin shaped routes and drawing them on navigation maps.
@@ -30,7 +30,7 @@ gallery:
  
 ## Mission 🎯
 
-- Spread awareness about **Bitcoin**, **Running** benefits and **Art** by drawing bitcoins on navigation maps in different locations around world. 
+- Spread awareness about **Bitcoin** and **Running** benefits by drawing bitcoins on maps around world. 
 - Promote the places where we are doing the bitcoin runs and donate to local authorities. 
 
 Following bitcoin runs are complete for now:
@@ -41,8 +41,7 @@ Following bitcoin runs are complete for now:
 
 ## Join us 🏃💪
 
-If you want to take part in this Bitcoin Run, it is very easy. Choose a place, at best one you relate to and know about,
- do a Bitcoin shaped run, record it and [get in contact with us ✉️](mailto:ama@codepedia.org). 
+Add your city to the Bitcoin Runs Club. Do a Bitcoin shaped run, record it and [get in contact with us ✉️](mailto:bitcoinruns@protonmail.com). 
  
 > We have put up a few sketch proposals you might consider in cities like [Miami](/miami/), [Oslo](/oslo/), [San Francisco](/san-francisco) etc.
 > You can find the complete list 👉  &nbsp; **[here](/proposals)**. 
@@ -55,6 +54,6 @@ Then you have two options:
   and [get in contact with us ✉️](mailto:ama@codepedia.org) to tell us your story.
  - **if you are NOT a techie** just [get in contact with us ✉️](mailto:ama@codepedia.org)
 
-We are looking forward to your Bitcoin Run 🙏🏽 🙏
+We are looking forward to your joing the Bitcoin Run Club 🙏🏽 🙏
 
 {% include donate.html %}

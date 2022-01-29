@@ -35,7 +35,16 @@ Funny enough, once a year when I come back to Câmpulung, I walk more or less th
 Here are some pictures from this particular bitcoin run.  
  
 ## Bitcoin Run City Tour Pictures
- 
+
+As usual, I stopped at some of Campulung's points of interested to take pictures. You can see all of them
+if you click on the photo icon in the following map:
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1RMvH-rCjhFlJDLJh1FUgebAz1HJi8zUf&ehbc=2E312F" width="640" height="480"></iframe>
+
+<hr>
+
+More about the individual places in the paragraphs below 👇
+
 The start point is at [Casa de cultură Tudor Mușatescu (en. "Culture House Tudor Mușatescu")](https://www.casadecultura-muscel.ro/),
  a place I passed by like millions of times in my life
 
@@ -202,8 +211,8 @@ Nearing the end of my bitcoin run I pass the last bridge, and I take a last pict
  I used to bathe in Râul Târgului (en. Town's River) when I was little and in Crețulescu Park I used to ride my back in:
  
 <figure class="image">
-  <a href="/assets/images/runs/campulung/city/resized/15-900x-675-parcul-cretulescu-raul-targului-calea-ferata-cu-pin.jpeg">
-    <img src="/assets/images/runs/campulung/city/resized/15-900x-675-parcul-cretulescu-raul-targului-calea-ferata-cu-pin.jpeg" alt="Crețulescu Park & Râul Târgului">
+  <a href="/assets/images/runs/campulung/city/resized/15-900x675-parcul-cretulescu-raul-targului-calea-ferata-cu-pin.jpeg">
+    <img src="/assets/images/runs/campulung/city/resized/15-900x675-parcul-cretulescu-raul-targului-calea-ferata-cu-pin.jpeg" alt="Crețulescu Park & Râul Târgului">
   </a>
   <figcaption>Crețulescu Park & Râul Târgului</figcaption>
 </figure>

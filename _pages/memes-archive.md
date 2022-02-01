@@ -6,4 +6,4 @@ permalink: /memes/
 author_profile: false
 ---
 
-Memes are jus for fun.
+Memes are just for fun.

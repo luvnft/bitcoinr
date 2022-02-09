@@ -24,8 +24,6 @@ While the latter suffered a major retreat still at the end of the week, Bitcoin 
 Our tip - "C'mon Bitcoin you can do it, choose the way to freedom and liberate yourself from the traditional markets!
 Be the king asset class!".
 
- <hr>
-
 Used pictures used from Pixabay to create this meme
 - distracted boyfriend by [Antonio Guillem](https://www.wired.com/story/distracted-boyfriend-meme-photographer-interview/)
 - moon rocket Image by [Yuri_B from Pixabay](https://pixabay.com/users/yuri_b-2216431/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3262811)

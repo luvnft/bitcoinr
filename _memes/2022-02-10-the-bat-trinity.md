@@ -15,7 +15,7 @@ tags:
 The BAT (Basic Attention Token Trinity) :
 - @BrendanEich (the father)
 - @brave browser (the son)
-- @AttentionToken(the holy ghost)
+- @AttentionToken (the holy ghost)
 
 
 <figure class="image">

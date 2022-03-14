@@ -1,10 +1,13 @@
 ---
 layout: single
+excerpt: "My second Bitcoin Run in Switzerland took place place in my second favorite ciy here, namely Lucerne. See
+my run details and pictures of the best sights in town."
 header:
-  image: /assets/images/runs/bern/header/placeholder-berne-header-2048x900.jpeg
-  og_image: /assets/images/runs/bern/social/berne-basemap-1600x900.jpeg
+  video:
+    bitcoinrunzoomin : "/assets/images/runs/lucerne/video/lucerne-bitcoinrun-google-earth-space-zoomin.webm"
+    poster: "/assets/images/runs/lucerne/video/lucerne-zoomin-video-poster-1280x720.png"
+  og_image: /assets/images/runs/lucerne/social/lucerne-bitcoin-run-basemap-pace-1600x900.png
 permalink: /lucerne/
-published:false
 date: 2021-02-23
 author_profile: true
 ---
@@ -15,54 +18,12 @@ My second run in Switzerland was in my second favorite city in Switzerland, name
 
 <figure class="image">
   <a href="https://connect.garmin.com/modern/activity/8346135551">
-    <img src="/assets/images/runs/lucerne/lucerne-run-statistics-1200x983.png" alt="Lucerne Bitcoin Run Statistics">
+    <img src="/assets/images/runs/lucerne/statistics/lucerne-run-statistics-1200x983.png" alt="Lucerne Bitcoin Run Statistics">
   </a>
   <figcaption>Lucerne Bitcoin Run Statistics</figcaption>
 </figure> 
 
 > 👉 [Complete details](https://connect.garmin.com/modern/activity/8346135551)
-
-
-[The Town-hall clock (german RatHaus Uhr)](https://turmuhrenluzern.ch/en/project/rathaus-uhr/)
-"The town-hall of Lucerne on the Kornmarkt was built between 1602 and 1606 by the Italian architect Anton Isenmann
-from the Prismell region and is valued as a masterpiece of late Renaissance style.
-The tower of the town-hall is older and was erected in the High Middle Ages later serving as a dungeon and finally
-housing the town-hall clock."
-
-Pitoresque Old Town Squares
-https://www.luzern.com/en/highlights/sights/picturesque-old-town-squares/
-
-Weinmarkt, hirschenplatz
-https://www.luzern.com/en/highlights/sights/picturesque-old-town-squares/
-
-The Chapel Bridge:
-https://www.luzern.com/en/highlights/the-city/lucernes-landmarks-the-chapel-bridge/
-
-The Jesuit Curch
-https://www.luzern.com/en/highlights/sights/jesuit-church/
-
-
-Spreuer Bridge
-"As well as the Chapel Bridge, Lucerne is home to another timber bridge of great interest.
-Located slightly downstream of the Chapel Bridge, the Spreuer Bridge does not enjoy such a high profile.
-Though somewhat shorter and less dominant in appearance, in every other aspect it is its «big sister's» equal.
-
-Its name comes from the word «Spreu», meaning chaff: the town's flour mills were permitted to dump their waste into
-the River Reuss from this bridge. Built in 1408, the southern half is perpendicular to the River Reuss,
-while the northern portion veers off at an angle."
-https://www.luzern.com/en/highlights/sights/spreuer-bridge/
-
-
-
-Links
-- 
-- 
-<figure class="image">
-  <a href="https://connect.garmin.com/modern/activity/7061590443" target="_blank">
-    <img src="/assets/images/runs/bern/run-statistics-1200x841.png" alt="Bitcoin Run Bern Statistics">
-  </a>
-  <figcaption>Bitcoin Run Bern Statistics</figcaption>
-</figure>
 
 ## Bitcoin Run City Pictures 
 
@@ -75,136 +36,214 @@ You see the points where I took the pictures, if you click on the camera icon in
 
 Let's find out more now about the individual places I took pictures of 👇
 
+### Start of the run in a residential area 
+
 The start point is in a residential area close to city center with very beautiful buildings and architecture:
 
 <figure class="image">
   <a href="/assets/images/runs/lucerne/city/resized/1-1200x1434-start-of-the-run-with-pin.jpeg">
-    <img src="/assets/images/runs/lucerne/city/resized/1-1200x1434-start-of-the-run-with-pin" alt="Start of the bitcoin run in a residential area">
+    <img src="/assets/images/runs/lucerne/city/resized/1-1200x1434-start-of-the-run-with-pin.jpeg" alt="Start of the bitcoin run in a residential area">
   </a>
   <figcaption>Start of the bitcoin run in a residential area</figcaption>
 </figure>
 
-Shortly after I pass by the Franciscan Church, which "was erected between 1270 and 1280 by Franciscan monks, who occupied the site in Lucerne until 1838.
-The building's medieval architecture is typical of that favoured by this mendicant order of monks."[^1]
+Shortly after I pass by the Franciscan Church, which "was erected between 1270 and 1280 by Franciscan monks,
+who occupied the site in Lucerne until 1838. The building's medieval architecture is typical of that favoured
+by this mendicant order of monks."[^1]
 
 [^1]: <https://www.luzern.com/en/highlights/sights/franciscan-church/>
 
+### Chapel Bridge and Water Tower
 
-On the left side you can see the [Swiss Parliament Building (Bundeshaus)](https://www.bern.com/en/detail/house-of-parliament)
-<figure class="image">
-  <a href="/assets/images/runs/lucerne/city/resized/2-1200x900-kirchenfeldbruecke-bundeshaus-left-side-with-pin.jpeg">
-    <img src="/assets/images/runs/lucerne/city/resized/2-1200x900-kirchenfeldbruecke-bundeshaus-left-side-with-pin.jpeg" alt="Swiss Parliament Building (Bundeshaus)">
-  </a>
-  <figcaption>Swiss Parliament Building (Bundeshaus)</figcaption>
-</figure>
+A couple of hundred meters further I reach the main attraction area of the city. The Chapel Bridge and its Water Tower
+are Lucerne's landmarks and most photographed destination.[^2] 
 
-On the right side the [Berner Munster (Bern Cathedral)](https://www.bernermuenster.ch/en/berner-muenster/) watching over Aare 
-<figure class="image">
-  <a href="/assets/images/runs/lucerne/city/resized/3-1200x900-kirchenfeldbruecke-berner-munster-right-side-with-pin.jpeg">
-    <img src="/assets/images/runs/lucerne/city/resized/3-1200x900-kirchenfeldbruecke-berner-munster-right-side-with-pin.jpeg" alt="Bern Cathedral (Berner Munster)">
-  </a>
-  <figcaption>Bern Cathedral (Berner Munster)</figcaption>
-</figure>
-
-Right after the Casino Square, I pass besides the [Zytglogge (Zeitglockenturm)](https://en.wikipedia.org/wiki/Zytglogge),
- the famous clock tower, that [inspired Albert Einstein](https://www.bbc.com/travel/article/20160901-the-clock-that-changed-the-meaning-of-time)
-when writing his theory of relativity 
-<figure class="image">
-  <a href="/assets/images/runs/lucerne/city/resized/4-1200x1600-zytglogge-with-pin.jpeg">
-    <img src="/assets/images/runs/lucerne/city/resized/4-1200x1600-zytglogge-with-pin.jpeg" alt="Zytglogge">
-  </a>
-  <figcaption>Zytglogge</figcaption>
-</figure>
-
-Before heading down to the river, I pass by the [city theater](https://www.bern.com/en/detail/bern-city-theater) 
-in Kornhausplatz (en. Granary Square) 
-used to admire when writing his theory of relativity 
-<figure class="image">
-  <a href="/assets/images/runs/lucerne/city/resized/5-1200x900-berner-stadttheater-with-pin.jpeg">
-    <img src="/assets/images/runs/lucerne/city/resized/5-1200x900-berner-stadttheater-with-pin.jpeg" alt="The Bern City Theater ">
-  </a>
-  <figcaption>The Bern City Theater</figcaption>
-</figure>
-
-Turn right and take the stairs down to the [Aare river](https://www.bern.com/en/detail/the-aare-river) and pass the river
-over the [Altenbergsteg Suspension Bridge](https://en.wikipedia.org/wiki/Altenbergsteg) where this picture of the river
-is taken from
-used to admire when writing his theory of relativity 
-<figure class="image">
-  <a href="/assets/images/runs/lucerne/city/resized/6-1200x900-down-to-the-aare-with-pin.jpeg">
-    <img src="/assets/images/runs/lucerne/city/resized/6-1200x900-down-to-the-aare-with-pin.jpeg" alt="Aare from Altenbergsteg">
-  </a>
-  <figcaption>Aare from Altenbergsteg</figcaption>
-</figure>
-
-When turning around to finish the bangs of the letter B, I could have a good look at both the Kornhausbrücke (en.  Granary Bridge)
- and the suspension bridge
-<figure class="image">
-  <a href="/assets/images/runs/lucerne/city/resized/7-1200x900-kornhausbruecke-aare-perspective-with-pin.jpeg">
-    <img src="/assets/images/runs/lucerne/city/resized/7-1200x900-kornhausbruecke-aare-perspective-with-pin.jpeg" alt="Kornhausbrücke view from the Aare">
-  </a>
-  <figcaption>Kornhausbrücke view from the Aare</figcaption>
-</figure>
-
-After running along the Aare for like a kilometer, I turn with the river and get to see the
- [Untertorbrücke (German: Lower Gate Bridge)](https://en.wikipedia.org/wiki/Untertorbr%C3%BCcke),
- [Nydeggkirche](https://en.wikipedia.org/wiki/Nydeggkirche)
-and the [Nydeggbrücke](https://en.wikipedia.org/wiki/Nydeggbr%C3%BCcke)
+[^2]: <https://www.luzern.com/en/highlights/the-city/lucernes-landmarks-the-chapel-bridge/>
 
 <figure class="image">
-  <a href="/assets/images/runs/lucerne/city/resized/8-1200x613-nydeggkirche-and-nydeggbruecke-with-pin.jpeg">
-    <img src="/assets/images/runs/lucerne/city/resized/8-1200x613-nydeggkirche-and-nydeggbruecke-with-pin.jpeg" alt="Untertorbrücke, Nydeggkirche & Nydeggbrücke">
+  <a href="/assets/images/runs/lucerne/city/resized/3-1200x900-chapel-bridge-and-watertower-from-rathaussteg-with-pin.jpeg">
+    <img src="/assets/images/runs/lucerne/city/resized/3-1200x900-chapel-bridge-and-watertower-from-rathaussteg-with-pin.jpeg" 
+            alt="Swiss Parliament Building (Bundeshaus)">
   </a>
-  <figcaption>Untertorbrücke, Nydeggkirche & Nydeggbrücke</figcaption>
+  <figcaption>Chapel Bridge and Water Tower</figcaption>
 </figure>
 
-After passing by [Bärenplatz (en. Bear Pit)](https://en.wikipedia.org/wiki/B%C3%A4rengraben),
- I get to turn again and have the most beautiful view at the old city of Bern
+> 👉  More details about the fascinating history of Lucerne's wooden bridges and a [3d map](https://chapel-bridge.ch/3d-map/)
+> you can find at [https://chapel-bridge.ch/](https://chapel-bridge.ch/)
+
+### Jesuit Church
+
+From the same point if you look back the Reus river you can see the **Jesuit Church**. "Construction of the church began in 1666,
+with the official inauguration being held in 1677. The Jesuit Church was modelled on the Church of the Gesù in Rome
+as the first major sacred building to be built in the baroque style in Switzerland. In terms of art,
+particularly worth noting are its baroque and rococo stucco, its high altar, and its organ and treasury. The imposing interior
+boasts a particularly fine acoustic, which is why the church now also serves as a concert venue; organists are also taught here." [^3]
+
+[^3]: <https://www.luzern.com/en/highlights/sights/jesuit-church/>
 
 <figure class="image">
-  <a href="/assets/images/runs/lucerne/city/resized/9-1200x774-old-stadt-view-with-pin.jpeg">
-    <img src="/assets/images/runs/lucerne/city/resized/9-1200x774-old-stadt-view-with-pin.jpeg" alt="View at old city of Bern from above Bear Pit">
+  <a href="/assets/images/runs/lucerne/city/resized/4-1200x900-jesuitenkirche-from-rathaussteg-with-pin.jpeg">
+    <img src="/assets/images/runs/lucerne/city/resized/4-1200x900-jesuitenkirche-from-rathaussteg-with-pin.jpeg" alt="Jesuit Church on the river Reuss">
   </a>
-  <figcaption>View at old city of Bern from above Bear Pit</figcaption>
+  <figcaption>Jesuit Church on the river Reuss</figcaption>
 </figure>
 
-The last part of the run is in the "embassy area" of Bern, where I come across
-another church, I was not aware of before
+
+### Picturesque Old Town squares
+
+#### Town-hall clock
+
+Across the Reuss river over the Rathaussteg I reach the old town, with the **Town-hall clock** at the entry. 
+"The town-hall of Lucerne on the Kornmarkt was built between 1602 and 1606 by the Italian architect Anton Isenmann
+from the Prismell region and is valued as a masterpiece of late Renaissance style.
+The tower of the town-hall is older and was erected in the High Middle Ages,
+later serving as a dungeon and finally housing the town-hall clock."[^4]
 
 <figure class="image">
-  <a href="/assets/images/runs/lucerne/city/resized/10-1200x900-church-tower-elfenau-quartier-with-pin.jpeg">
-    <img src="/assets/images/runs/lucerne/city/resized/10-1200x900-church-tower-elfenau-quartier-with-pin.jpeg" alt="Petruskirche">
+  <a href="/assets/images/runs/lucerne/city/resized/5-1200x1461-townhall-clock-lucerne-with-pin.jpeg">
+    <img src="/assets/images/runs/lucerne/city/resized/5-1200x1461-townhall-clock-lucerne-with-pin.jpeg" alt="Town-hall clock Lucerne">
   </a>
-  <figcaption>Petruskirche</figcaption>
+  <figcaption>Town-hall clock Lucerne</figcaption>
 </figure>
 
-Below is an old villa with an interesting architecture, in Elfnau, one of my favorites neighborhoods in Bern: 
+[^4]: <https://turmuhrenluzern.ch/en/project/rathaus-uhr/>
+
+The car-free old town has lots of pitoresque squares, which are peppered with historic, fresco-adorned houses. Look up
+and you will discern a wealth of architectural, elaborate and historico-cultural details.[^5] It was really worth
+deviating from the planned B shape route. See for yourself 👇
+
+[^5]: <https://www.luzern.com/en/highlights/sights/picturesque-old-town-squares/>
+
+#### Weinmarkt 
+
+One of the squares is "the neat Weinmarkt, where the citizens of Lucerne 1332 swore an oath of allegiance
+to the federation formed by Uri, Schwyz and Unterwalden. Until the middle of the 16th century, the Weinmarkt was the fish market.
+The demolition of the two-storey wooden market hall, where meat, bread and leather had been traded,
+led in 1841 to the emergence of the square in its present form."[^5]
+
 <figure class="image">
-  <a href="/assets/images/runs/lucerne/city/resized/11-1200x900-old-house-elfenau-quartier-with-pin.jpeg">
-    <img src="/assets/images/runs/lucerne/city/resized/11-1200x900-old-house-elfenau-quartier-with-pin.jpeg" alt="Old building with nice architecture">
+  <a href="/assets/images/runs/lucerne/city/resized/6-1200x1165-weinmarkt-wall-painting-1-with-pin.jpeg">
+    <img src="/assets/images/runs/lucerne/city/resized/6-1200x1165-weinmarkt-wall-painting-1-with-pin.jpeg" alt="Weinmarkt facades">
   </a>
-  <figcaption>Old building in Elfnau</figcaption>
+  <figcaption>Weinmarkt facades</figcaption>
 </figure>
-
-The south of my Bern bitcoin run is almost all through the [Dählhölzli-Zoo](https://www.tierpark-bern.ch/index-en.php)
 
 <figure class="image">
-  <a href="/assets/images/runs/lucerne/city/resized/12-1200x900-dahoelzipark-zoo-with-pin.jpeg">
-    <img src="/assets/images/runs/lucerne/city/resized/12-1200x900-dahoelzipark-zoo-with-pin.jpeg" alt="Deers in Dählhölzli-Zoo">
+  <a href="/assets/images/runs/lucerne/city/resized/7-1200x900-weinmarkt-wall-painting-2-with-pin.jpeg">
+    <img src="/assets/images/runs/lucerne/city/resized/7-1200x900-weinmarkt-wall-painting-2-with-pin.jpeg" alt="Weinmarkt facades">
   </a>
-  <figcaption>Deers Dählhölzli-Zoo</figcaption>
+  <figcaption>Weinmarkt facades</figcaption>
 </figure>
 
-Not long before finish I pass by [the Bern Natural History Museum](https://www.nmbe.ch/en),
- which is a very nice place to visit, especially with kids
- 
 <figure class="image">
-  <a href="/assets/images/runs/lucerne/city/resized/13-1200x900-natural-history-museum-with-pin.jpeg">
-    <img src="/assets/images/runs/lucerne/city/resized/13-1200x900-natural-history-museum-with-pin.jpeg" alt="Bern Natural History Museum">
+  <a href="/assets/images/runs/lucerne/city/resized/8-1200x866-weinmarkt-wall-painting-3-with-pin.jpeg">
+    <img src="/assets/images/runs/lucerne/city/resized/8-1200x866-weinmarkt-wall-painting-3-with-pin.jpeg" alt="Weinmarkt facades">
   </a>
-  <figcaption>Bern Natural History Museum</figcaption>
+  <figcaption>Weinmarkt facades</figcaption>
 </figure>
-  
-I hope I got you excited about Bern and hope to see you around. 
+
+### Hirschenplatz
+
+Houses on Hirschenplatz also feature fascinating ornamented facades, which are under historical monument protection:
+
+<figure class="image">
+  <a href="/assets/images/runs/lucerne/city/resized/9-1200x939-hirschenplatz-wall-painting-1-with-pin.jpeg">
+    <img src="/assets/images/runs/lucerne/city/resized/9-1200x939-hirschenplatz-wall-painting-1-with-pin.jpeg" alt="Hirschenplatz facades">
+  </a>
+  <figcaption>Hirschenplatz facades</figcaption>
+</figure>
+
+<figure class="image">
+  <a href="/assets/images/runs/lucerne/city/resized/10-1200x900-hirschenplatz-wall-painting-2-with-pin.png">
+    <img src="/assets/images/runs/lucerne/city/resized/10-1200x900-hirschenplatz-wall-painting-2-with-pin.png" alt="Hirschenplatz facades">
+  </a>
+  <figcaption>Hirschenplatz facades</figcaption>
+</figure>
+
+### Spreuer Bridge
+
+<figure class="image">
+  <a href="/assets/images/runs/lucerne/city/resized/11-1200x1461-spreuer-bridge-with-pin.jpeg">
+    <img src="/assets/images/runs/lucerne/city/resized/11-1200x1461-spreuer-bridge-with-pin.jpeg" alt="Spreuer Bridge">
+  </a>
+  <figcaption>Spreuer Bridge</figcaption>
+</figure>
+
+
+"As well as the Chapel Bridge, Lucerne is home to another timber bridge of great interest.
+Located slightly downstream of the Chapel Bridge, the Spreuer Bridge does not enjoy such a high profile.
+Though somewhat shorter and less dominant in appearance, in every other aspect it is its «big sister's» equal.
+
+Its name comes from the word «Spreu», meaning chaff: the town's flour mills were permitted to dump their waste into
+the River Reuss from this bridge. Built in 1408, the southern half is perpendicular to the River Reuss,
+while the northern portion veers off at an angle."[^6]
+
+[^6]: <https://www.luzern.com/en/highlights/sights/spreuer-bridge/>
+
+From the Spreuer Bridge you can see on the upper side some part of the Musegg Wall and it nine towers:
+
+<figure class="image">
+  <a href="/assets/images/runs/lucerne/city/resized/12-1200x900-noelliturm-maenlliturm-luegislandturm-from-streuer-bridge-with-pin.jpeg">
+    <img src="/assets/images/runs/lucerne/city/resized/12-1200x900-noelliturm-maenlliturm-luegislandturm-from-streuer-bridge-with-pin.jpeg" alt="Spreuer Bridge">
+  </a>
+  <figcaption>Spreuer Bridge</figcaption>
+</figure>
+
+> "Once a symbol of power, the Musegg Wall and its nine towers are part of Lucerne's historic fortifications;
+> forming a striking crown around the Old Town, the wall can be discerned from afar."[^7]
+
+
+[^7]: <https://www.luzern.com/en/highlights/sights/musegg-wall/>
+
+You can walk on the wall, and from there you have a beautiful view on the city, the lake and on the surrounding mountains.
+The following two pictures were taken in one of my previous visits with the family in Lucerne.
+
+
+<figure class="image">
+  <a href="/assets/images/runs/lucerne/city/resized/1200x900-extra-view-from-wall-over-city.jpeg">
+    <img src="/assets/images/runs/lucerne/city/resized/1200x900-extra-view-from-wall-over-city.jpeg" alt="View from the Musegg Wall">
+  </a>
+  <figcaption>View from the Musegg Wall</figcaption>
+</figure>
+
+<figure class="image">
+  <a href="/assets/images/runs/lucerne/city/resized/1200x900-extra-view-from-wall-over-city-and-lake.jpeg">
+    <img src="/assets/images/runs/lucerne/city/resized/1200x900-extra-view-from-wall-over-city-and-lake.jpeg" alt="View from the Musegg Wall">
+  </a>
+  <figcaption>View from the Musegg Wall</figcaption>
+</figure>
+
+If you look down the Reuss river from the Spreuer Bridge you can see the Jesuit Curch[^3] from another perspective:
+
+<figure class="image">
+  <a href="/assets/images/runs/lucerne/city/resized/13-1200x900-jesuit-church-from-streuer-bridge-with-pin.jpeg">
+    <img src="/assets/images/runs/lucerne/city/resized/13-1200x900-jesuit-church-from-streuer-bridge-with-pin.jpeg" alt="Spreuer Bridge">
+  </a>
+  <figcaption>Spreuer Bridge</figcaption>
+</figure>
+
+
+### Chapel Bridge and Water Tower from another perspective
+
+I conclude the Bitcoin Run in Lucerne with another perspective on the Chapel Bridge and Water Tower[^4]
+<figure class="image">
+  <a href="/assets/images/runs/lucerne/city/resized/14-1200x900-water-tower-other-side-end-of-the-run-with-pin.jpeg">
+    <img src="/assets/images/runs/lucerne/city/resized/14-1200x900-water-tower-other-side-end-of-the-run-with-pin.jpeg" alt="Chapel Bridge and Water Tower, other perspective">
+  </a>
+  <figcaption>Chapel Bridge and Water Tower, other perspective</figcaption>
+</figure>
+
+
+In summer they decorate the bridges with flowers, which makes them even more attractive. See a picture below from yet
+another of my visits to Lucerne:
+
+<figure class="image">
+  <a href="/assets/images/runs/lucerne/city/resized/1200x675-extra-chapel-bridge-in-summer.jpeg">
+    <img src="/assets/images/runs/lucerne/city/resized/1200x675-extra-chapel-bridge-in-summer.jpeg" alt="Chapel Bridge and Water Tower, other perspective">
+  </a>
+  <figcaption>Chapel Bridge and Water Tower, other perspective</figcaption>
+</figure>
+
+I hope you got a glimpse of how Lucerne is, but as always I recommend you pay a visit there by yourself. It's worth it. 
   
 {% include donate.html %}  

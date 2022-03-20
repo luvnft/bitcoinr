@@ -4,7 +4,7 @@
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://earth.google.com/kml/2.1">
   <Folder>
     <name>Lucerne Bitcoin Run ₿ &#x1f3c3;‍♂️ ❤️</name>
-    <description>Lucerne Bitcoin Run - https://www.bitcoinruns.club/lucerne/</description>
+    <description>Lucerne Bitcoin Run - https://www.bitcoinruns.org/lucerne/</description>
     <Placemark>
       <name>Track</name>
       <Style>
@@ -25,7 +25,7 @@
       <description>Laps, start and end splits recorded in the activity.</description>
       <Placemark>
         <name>Start</name>
-        <description>&lt;table width = "320"&gt;&lt;tr&gt;&lt;td colspan="2"&gt; &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="2"&gt;Wed Feb 23 14:39:00 GMT 2022 by 6f92aaaa-bb42-4472-88e7-d1b4be52a756&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="2"&gt;Lucerne Bitcoin Run - https://www.bitcoinruns.club/lucerne/&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Activity Type:&lt;/td&gt;&lt;td&gt;running&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Event type:&lt;/td&gt;&lt;td&gt;uncategorized&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Distance:&lt;/td&gt;&lt;td&gt;3.35 Kilometers &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Time :&lt;/td&gt;&lt;td&gt;0:32:06&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Elevation Gain :&lt;/td&gt;&lt;td&gt;29 Meters &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="2"&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="2" align="right"&gt;&lt;a href="View Details on Garmin Connect /activity/8346135551"&gt; &lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+        <description>&lt;table width = "320"&gt;&lt;tr&gt;&lt;td colspan="2"&gt; &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="2"&gt;Wed Feb 23 14:39:00 GMT 2022 by 6f92aaaa-bb42-4472-88e7-d1b4be52a756&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="2"&gt;Lucerne Bitcoin Run - https://www.bitcoinruns.org/lucerne/&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Activity Type:&lt;/td&gt;&lt;td&gt;running&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Event type:&lt;/td&gt;&lt;td&gt;uncategorized&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Distance:&lt;/td&gt;&lt;td&gt;3.35 Kilometers &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Time :&lt;/td&gt;&lt;td&gt;0:32:06&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Elevation Gain :&lt;/td&gt;&lt;td&gt;29 Meters &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="2"&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="2" align="right"&gt;&lt;a href="View Details on Garmin Connect /activity/8346135551"&gt; &lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
         <Style>
           <IconStyle>
             <scale>1.3</scale>
@@ -105,7 +105,7 @@
       </Placemark>
       <Placemark>
         <name>End</name>
-        <description>&lt;table width = "320"&gt;&lt;tr&gt;&lt;td colspan="2"&gt; &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="2"&gt;Wed Feb 23 14:39:00 GMT 2022 by 6f92aaaa-bb42-4472-88e7-d1b4be52a756&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="2"&gt;Lucerne Bitcoin Run - https://www.bitcoinruns.club/lucerne/&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Activity Type:&lt;/td&gt;&lt;td&gt;running&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Event type:&lt;/td&gt;&lt;td&gt;uncategorized&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Distance:&lt;/td&gt;&lt;td&gt;3.35 Kilometers &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Time :&lt;/td&gt;&lt;td&gt;0:32:06&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Elevation Gain :&lt;/td&gt;&lt;td&gt;29 Meters &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="2"&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="2" align="right"&gt;&lt;a href="View Details on Garmin Connect /activity/8346135551"&gt; &lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+        <description>&lt;table width = "320"&gt;&lt;tr&gt;&lt;td colspan="2"&gt; &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="2"&gt;Wed Feb 23 14:39:00 GMT 2022 by 6f92aaaa-bb42-4472-88e7-d1b4be52a756&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="2"&gt;Lucerne Bitcoin Run - https://www.bitcoinruns.org/lucerne/&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Activity Type:&lt;/td&gt;&lt;td&gt;running&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Event type:&lt;/td&gt;&lt;td&gt;uncategorized&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Distance:&lt;/td&gt;&lt;td&gt;3.35 Kilometers &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Time :&lt;/td&gt;&lt;td&gt;0:32:06&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Elevation Gain :&lt;/td&gt;&lt;td&gt;29 Meters &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="2"&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="2" align="right"&gt;&lt;a href="View Details on Garmin Connect /activity/8346135551"&gt; &lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
         <Style>
           <IconStyle>
             <scale>1.0</scale>

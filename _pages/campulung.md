@@ -9,7 +9,7 @@ author_profile: true
 
 My second bitcoin run was in [Câmpulung Muscel](https://en.wikipedia.org/wiki/C%C3%A2mpulung),
  the town closest to my ❤️ and where I grew up in:
- 
+
  <figure class="image">
    <a href="/assets/images/runs/campulung/gif/brun-campulung-animation-optimized.gif">
      <img src="/assets/images/runs/campulung/gif/brun-campulung-animation-optimized.gif" alt="Câmpulung Bitcoin Run">

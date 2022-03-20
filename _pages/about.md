@@ -14,8 +14,8 @@ gallery:
 
 ## About ₿🏃
 
-**Everybody** is aware of the formidable runs bitcoin had in the last decade. At [BitcoinRun.Club](https://www.bitcoinruns.club)
- we want to make **every body** and **soul** aware of bitcoin ₿, running benefits ❤️  and art 🎨 . 
+**Everybody** is aware of the formidable runs bitcoin had in the last decade. At [BitcoinRuns.org](https://www.bitcoinruns.org)
+ we want to make **every body** and **soul** aware of bitcoin ₿, running benefits ❤️  and promote local communities and cities.  
  
  **How?** By running Bitcoin shaped routes and drawing them on navigation maps.
  Our pace (🏃) and heart beat (💓) give the colors of the run:

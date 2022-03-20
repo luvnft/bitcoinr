@@ -1,4 +1,4 @@
-[Bitcoin Runs](https://www.bitcoinruns.club)
+[Bitcoin Runs](https://www.bitcoinruns.org)
 ---
 
 **Bitcoin Runs** made by 💓 and 🏃

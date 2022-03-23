@@ -47,6 +47,15 @@ The start point is in a residential area close to city center with very beautifu
   <figcaption>Start of the bitcoin run in a residential area</figcaption>
 </figure>
 
+### Franciscan church
+
+<figure class="image">
+  <a href="/assets/images/runs/lucerne/city/resized/2-1200x1600-katolische-franziskanische-kirche-with-pin.jpeg">
+    <img src="/assets/images/runs/lucerne/city/resized/2-1200x1600-katolische-franziskanische-kirche-with-pin.jpeg" alt="Franciscan Church">
+  </a>
+  <figcaption>Franciscan Church</figcaption>
+</figure>
+
 Shortly after I pass by the Franciscan Church, which "was erected between 1270 and 1280 by Franciscan monks,
 who occupied the site in Lucerne until 1838. The building's medieval architecture is typical of that favoured
 by this mendicant order of monks."[^1]

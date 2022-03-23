@@ -18,22 +18,22 @@ intro:
   - excerpt: 'Get connected [<i class="fab fa-fw fa-github"></i>](https://github.com/BitcoinRuns) [<i class="fab fa-fw fa-twitter-square"></i>](https://instagram.com/BitcoinRuns) [<i class="fab fa-discord"></i>](https://discord.com/channels/895184649423298611/895187115162349598) [<i class="fab fa-fw fa-instagram"></i>](https://www.instagram.com/BitcoinRuns) '
 gallery_completed:
   - url: /bern/
-    image_path: /assets/images/homepage/berne-basemap-640x480.png
+    image_path: /assets/images/homepage/berne-basemap-640x480.jpeg
     alt: "Bern Bitcoin run"
     title: "Bern Bitcoin run"
-  - url: /campulung
-    image_path: /assets/images/homepage/campulung-basemap-640x480.png
-    alt: "Campulung Bitcoin Run"
-    title: "Campulung Bitcoin Run"
-  - url: /bucharest
-    image_path: /assets/images/homepage/bucharest-basemap-overlay-640x480.png
-    alt: "Bucharest Bitcoin Run"
-    title: "Bucharest Bitcoin Run"
-gallery_reserved:    
-  - url: /assets/images/homepage/lucerne-sketch-reserved-640x480.png
-    image_path: /assets/images/homepage/lucerne-sketch-reserved-640x480.png
+  - url: /lucerne/
+    image_path: /assets/images/homepage/lucerne-basemap-640x480.jpeg
     alt: "Lucerne Bitcoin run"
     title: "Lucerne Bitcoin run"
+  - url: /bucharest
+    image_path: /assets/images/homepage/bucharest-basemap-overlay-640x480.jpeg
+    alt: "Bucharest Bitcoin Run"
+    title: "Bucharest Bitcoin Run"
+  - url: /campulung
+    image_path: /assets/images/homepage/campulung-basemap-640x480.jpeg
+    alt: "Campulung Bitcoin Run"
+    title: "Campulung Bitcoin Run"
+gallery_reserved:
   - url: /assets/images/homepage/barcelona-sketch-reserved-640x480.png
     image_path: /assets/images/homepage/barcelona-sketch-reserved-640x480.png
     alt: "Barcelona Bitcoin Run"
@@ -61,14 +61,14 @@ gallery_proposal:
   {% include feature_row id="intro" type="center" %}
 </div>
 
-{% include gallery id="gallery_completed" caption="Completed ₿itcoin Runs" %}
+{% include gallery id="gallery_completed" caption="**Completed ₿itcoin Runs**" %}
 
 <hr>
 
-{% include gallery id="gallery_reserved" caption="Reserved ₿itcoin Runs" %}
+{% include gallery id="gallery_reserved" caption="**Planned ₿itcoin Runs**" %}
 
 <hr>
 
-{% include gallery id="gallery_proposal" caption="₿itcoin Runs Proposals - who's up for the challenge 💪 ?" %}
+{% include gallery id="gallery_proposal" caption="**₿itcoin Runs Proposals - who's up for the challenge 💪 ?**" %}
 
 > Complete list with proposal sketches 👉 &nbsp; **[here](/proposals)**

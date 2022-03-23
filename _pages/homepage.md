@@ -21,18 +21,18 @@ gallery_completed:
     image_path: /assets/images/homepage/berne-basemap-640x480.jpeg
     alt: "Bern Bitcoin run"
     title: "Bern Bitcoin run"
-  - url: /lucerne/
-    image_path: /assets/images/homepage/lucerne-basemap-640x480.jpeg
-    alt: "Lucerne Bitcoin run"
-    title: "Lucerne Bitcoin run"
-  - url: /bucharest
-    image_path: /assets/images/homepage/bucharest-basemap-overlay-640x480.jpeg
-    alt: "Bucharest Bitcoin Run"
-    title: "Bucharest Bitcoin Run"
   - url: /campulung
     image_path: /assets/images/homepage/campulung-basemap-640x480.jpeg
     alt: "Campulung Bitcoin Run"
     title: "Campulung Bitcoin Run"
+  - url: /bucharest
+    image_path: /assets/images/homepage/bucharest-basemap-overlay-640x480.jpeg
+    alt: "Bucharest Bitcoin Run"
+    title: "Bucharest Bitcoin Run"
+  - url: /lucerne/
+    image_path: /assets/images/homepage/lucerne-basemap-640x480.jpeg
+    alt: "Lucerne Bitcoin run"
+    title: "Lucerne Bitcoin run"
 gallery_reserved:
   - url: /assets/images/homepage/barcelona-sketch-reserved-640x480.png
     image_path: /assets/images/homepage/barcelona-sketch-reserved-640x480.png

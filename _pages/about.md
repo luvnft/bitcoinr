@@ -37,11 +37,12 @@ Following bitcoin runs are complete for now:
 - [Bern](/bern) 
 - [Campulung](/campulung)
 - [Bucharest](/bucharest)
+- [Lucerne](/lucerne)
 
 
 ## Join us 🏃💪
 
-Add your city to the Bitcoin Runs Club. Do a Bitcoin shaped run, record it and [get in contact with us ✉️](mailto:bitcoinruns@protonmail.com). 
+Put your city on the Bitcoin Runs Map. Do a Bitcoin shaped run, record it and [get in contact with us ✉️](mailto:bitcoinruns@protonmail.com). 
  
 > We have put up a few sketch proposals you might consider in cities like [Miami](/miami/), [Oslo](/oslo/), [San Francisco](/san-francisco) etc.
 > You can find the complete list 👉  &nbsp; **[here](/proposals)**. 
@@ -54,6 +55,6 @@ Then you have two options:
   and [get in contact with us ✉️](mailto:ama@codepedia.org) to tell us your story.
  - **if you are NOT a techie** just [get in contact with us ✉️](mailto:bitcoinruns@protonmail.com)
 
-We are looking forward to your joing the Bitcoin Run Club 🙏🏽 🙏
+We are looking forward to your joining #BitcoinRuns 🙏🏽 🙏
 
 {% include donate.html %}

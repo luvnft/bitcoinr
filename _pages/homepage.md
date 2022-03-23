@@ -11,7 +11,7 @@ header:
       url: "/about/"
   caption: "[Bitcoin Run Bern Satellite](/bern/)"
 tagline: "Up 📈, down 📉, flattening 🥿, faster 🚀, slower 🐌 - you know, the usual ₿itcoin Runs we mint with our heart beats (💓) and feet (🏃) 
- on world map to promote ₿itcoin, running and local communities. &nbsp; [Memes](/memes/) are just for fun 🤪."
+ on the world map to promote ₿itcoin, running and local communities. &nbsp; [Memes](/memes/) are just for fun 🤪."
 excerpt: "Drawing ₿itcoins on World Map, one run at a time ₿🏃💓"
 feature_row:
 intro: 

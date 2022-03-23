@@ -31,8 +31,8 @@ gallery:
     title: "Sibiu Bitcoin run sketch"
 ---
 
-You can find bellow 👇 a list of sketched proposals you can do - [get in contact with us ✉️](mailto:ama@codepedia.org)
+You can find bellow 👇 a list of sketched proposals you can do - [get in contact with us ✉️](mailto:bitcoinruns@protonmail.com)
 
 {% include gallery id="gallery" layout="" caption="₿itcoin Run Proposals" %}
 
-> You are very welcome to come up with your own proposals - [get in contact with us ✉️](mailto:ama@codepedia.org)
+> You are very welcome to come up with your own proposals - [get in contact with us ✉️](mailto:bitcoinruns@protonmail.com)

@@ -52,7 +52,7 @@ Then you have two options:
  - **if you are a "techie"** you can submit directly a pull request on this
  project on Github with a post similar to [Bern Run](/bern/) ([source code](https://github.com/BitcoinRuns/bitcoinrun.art/blob/main/_pages/berne.md))
   and [get in contact with us ✉️](mailto:ama@codepedia.org) to tell us your story.
- - **if you are NOT a techie** just [get in contact with us ✉️](mailto:ama@codepedia.org)
+ - **if you are NOT a techie** just [get in contact with us ✉️](mailto:bitcoinruns@protonmail.com)
 
 We are looking forward to your joing the Bitcoin Run Club 🙏🏽 🙏
 

@@ -1,6 +1,6 @@
 ---
 layout: single
-excerpt: "My second Bitcoin Run in Switzerland took place place in my second favorite ciy here, namely Lucerne. See
+excerpt: "My second Bitcoin Run in Switzerland took place in another of my favorite cities in Switzerland, namely Lucerne. See
 my run details and pictures of the best sights in town."
 header:
   video:
@@ -12,7 +12,7 @@ date: 2021-02-23
 author_profile: true
 ---
 
-My second run in Switzerland was in my second favorite city in Switzerland, namely in Lucerne.
+My second run in Switzerland was in another of my favorites cities in Switzerland, namely in Lucerne.
  It took me around half an hour minutes at a really slow pace, as I stopped a lot to admire the beautiful old sights
  and architecture along the way: 
 

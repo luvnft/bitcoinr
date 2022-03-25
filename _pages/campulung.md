@@ -1,8 +1,11 @@
 ---
 layout: single
 header:
-  image: /assets/images/runs/campulung/header-with-overlay.jpeg
-  og_image: /assets/images/runs/campulung/social/campulung-social-termap-overlay-1600x900.jpeg
+  video:
+    bitcoinrunzoomin : "/assets/images/runs/campulung/video/campulung-bitcoin-run-tour-HD-1080p.mp4"
+    poster: "/assets/images/runs/campulung/video/campulung-bitcoin-run-tour-HD-1080p-poster.jpeg"
+    og_image: /assets/images/runs/campulung/social/campulung-social-termap-overlay-1600x900.jpeg
+
 permalink: /campulung/
 author_profile: true
 ---

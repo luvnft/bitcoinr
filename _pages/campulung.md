@@ -2,8 +2,8 @@
 layout: single
 header:
   video:
-    bitcoinrunzoomin : "/assets/images/runs/campulung/video/campulung-bitcoin-run-tour-HD-1080p.mp4"
-    poster: "/assets/images/runs/campulung/video/campulung-bitcoin-run-tour-HD-1080p-poster.jpeg"
+    bitcoinrunzoomin : "/assets/images/runs/campulung/video/campulung-bitcoin-run-tour-HD-1080p-high.m4v"
+    poster: "/assets/images/runs/campulung/video/campulung-thumbnail-1920x1080-with-zoom-overlay.jpg"
     og_image: /assets/images/runs/campulung/social/campulung-social-termap-overlay-1600x900.jpeg
 
 permalink: /campulung/

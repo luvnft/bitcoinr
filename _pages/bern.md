@@ -1,7 +1,9 @@
 ---
 layout: single
 header:
-  image: /assets/images/runs/bern/header/placeholder-berne-header-2048x900.jpeg
+  video:
+    bitcoinrunzoomin : "/assets/images/runs/bern/video/bern-bitcoin-run-zoomin-HD-1080p-high.m4v"
+    poster: "/assets/images/runs/bern/video/bern-thumbnail-1920x1080-with-overlay-zoomin.jpeg"
   og_image: /assets/images/runs/bern/social/berne-basemap-1600x900.jpeg
 permalink: /bern/
 date: 2021-07-03

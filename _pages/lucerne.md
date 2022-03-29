@@ -4,8 +4,8 @@ excerpt: "My second Bitcoin Run in Switzerland was in Lucerne, another of my fav
 my run details and pictures of the best sights in town."
 header:
   video:
-    bitcoinrunzoomin : "/assets/images/runs/lucerne/video/lucerne-bitcoinrun-google-earth-space-zoomin.webm"
-    poster: "/assets/images/runs/lucerne/video/lucerne-zoomin-video-poster-1280x720.png"
+    bitcoinrunzoomin : "/assets/images/runs/lucerne/video/lucerne-bitcoin-run-tour-HD-1080p-medium.m4v"
+    poster: "/assets/images/runs/lucerne/video/lucerne-thumbnail-1920x1080-with-zoom.jpeg"
   og_image: /assets/images/runs/lucerne/social/lucerne-bitcoin-run-basemap-pace-1600x900.png
 permalink: /lucerne/
 date: 2021-02-23

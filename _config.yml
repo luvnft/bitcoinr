@@ -109,16 +109,13 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:ama@codepedia.org"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.adrianmatei.me"
+      url: "mailto:adoshimatamoto@protonmail.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/AdoshiMatamoto"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/adi-matei"
+      url: "https://github.com/AdoshiMatamoto"
 
 # Site Footer
 footer:

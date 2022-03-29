@@ -1,7 +1,9 @@
 ---
 layout: single
 header:
-  image: /assets/images/runs/bucharest/bucharest-header-2048x1010.jpg
+  video:
+    bitcoinrunzoomin : "/assets/images/runs/bucharest/video/bucharest-bitcoin-run-zoomin-HD-1080p-medium.m4v"
+    poster: "/assets/images/runs/bucharest/video/bucharest-thumbnail-1920x1080-with-zoom-overlay.jpg"
   og_image: /assets/images/runs/bucharest/bucharest-header-2048x1010.jpg
 permalink: /bucharest/
 author_profile: true

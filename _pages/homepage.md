@@ -4,15 +4,15 @@ permalink: /
 date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/homepage/header-bern-satmap-1600x900.png
+  overlay_filter: "0.55"
+  overlay_image: /assets/images/chain/header-chain-tiles-2000x700.jpeg
   actions:
     - label: "Learn More"
       url: "/about/"
-  caption: "[Bitcoin Run Bern Satellite](/bern/)"
-tagline: "Up 📈, down 📉, flattening 🥿, faster 🚀, slower 🐌 - you know, the usual ₿itcoin Runs we mint with our heart beats (💓) and feet (🏃) 
- on the world map to promote ₿itcoin, running and local communities. &nbsp; [Memes](/memes/) are just for fun 🤪."
-excerpt: "Drawing ₿itcoins on World Map, one run at a time ₿🏃💓"
+  caption: "[Bitcoin Runs Chain ₿ 🏃‍♂️ 🔗](/chain/)"
+tagline: "Up 📈, down 📉, faster 🚀, slower 🐌 - you know, the usual ₿itcoin Runs minted by heart (💓) and foot (🏃),
+ [chained](/chain/) on the world map to promote ₿itcoin, running and local communities. &nbsp; [Memes](/memes/) are just for fun 🤪."
+excerpt: "Drawing ₿itcoins on World Map, one run at a time ₿ 🏃 💓"
 feature_row:
 intro: 
   - excerpt: 'Get connected [<i class="fab fa-fw fa-github"></i>](https://github.com/BitcoinRuns) [<i class="fab fa-fw fa-twitter-square"></i>](https://instagram.com/BitcoinRuns) [<i class="fab fa-youtube"></i>](https://www.youtube.com/channel/UCDGX_yT8K6-oAgGldr8xDWw) [<i class="fab fa-fw fa-instagram"></i>](https://www.instagram.com/BitcoinRuns) '

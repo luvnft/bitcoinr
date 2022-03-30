@@ -12,7 +12,7 @@ gallery:
     title: "Bern Bitcoin Run - Heart Beat"    
 ---
 
-## About ₿🏃
+## About ₿ 🏃
 
 **Everybody** is aware of the formidable runs bitcoin had in the last decade. At [BitcoinRuns.org](https://www.bitcoinruns.org)
  we want to make **every body** and **soul** aware of bitcoin ₿, running benefits ❤️  and promote local communities and cities.  
@@ -32,6 +32,7 @@ gallery:
 
 - Spread awareness about **Bitcoin** and **Running** benefits by drawing bitcoins on maps around world. 
 - Promote the places where we are doing the bitcoin runs and donate to local authorities. 
+- **100 height** on the [Bitcoin Runs Chain ₿ 🏃‍♂️ 🔗](/chain/)
 
 Following bitcoin runs are complete for now:
 - [Bern](/bern) 

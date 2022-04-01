@@ -2,7 +2,7 @@
 layout: single
 permalink: /proposals/
 header:
-  image: /assets/images/proposals/proposals-background-header-2048x900.png
+  image: /assets/images/proposals/proposals-background-header-2048x450.jpeg
   og_image: /assets/images/proposals/proposals-background-header-2048x900.png
 gallery:
   - url: /london/
@@ -29,6 +29,10 @@ gallery:
     image_path: /assets/images/runs/sibiu/sketch/sibiu-brun-sketch-1200x900.png
     alt: "Sibiu Bitcoin run sketch"
     title: "Sibiu Bitcoin run sketch"
+  - url: /los-angeles/hollywood/
+    image_path: /assets/images/runs/los-angeles/sketch/los-angeles-hollywood-1200x1058.jpeg
+    alt: "Hollywood L.A. sketch"
+    title: "Hollywood L.A. Bitcoin Run Sketch"
 ---
 
 You can find bellow 👇 a list of sketched proposals you can do - [get in contact with us ✉️](mailto:bitcoinruns@protonmail.com)

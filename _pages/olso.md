@@ -1,12 +1,12 @@
 ---
 layout: single
 header:
-  image: /assets/images/runs/oslo/header/oslo-background-header-2048x900.png
+  image: /assets/images/runs/oslo/header/oslo-background-header-2048x450.jpeg
   og_image: /assets/images/runs/oslo/sketch/oslo-sketch-proposal-1200x900.png
 permalink: /oslo/
 ---
 
-{% include sketch-page.html city="Oslo" sketch_image="oslo-sketch-proposal-1200x900.png"%} 
+{% include sketch-page.html city="Oslo" sketch_image="/assets/images/runs/oslo/sketch/oslo-sketch-proposal-1200x900.png" %} 
 
 For Oslo a slightly longer proposal is in the same area is shown below, but at best I will let somebody from Oslo to decide:
 

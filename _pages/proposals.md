@@ -21,6 +21,10 @@ gallery:
     image_path: /assets/images/runs/oslo/sketch/oslo-sketch-proposal-1200x900.png
     alt: "Oslo Bitcoin run sketch"
     title: "Oslo Bitcoin run sketch"
+  - url: /paris/
+    image_path: /assets/images/runs/paris/sketch/paris-bitcoin-run-sketch-1200x719.jpeg
+    alt: "Paris Bitcoin Run Sketch"
+    title: "Paris Bitcoin Run Sketch"
   - url: /san-francisco/
     image_path: /assets/images/runs/san-francisco/sketch/san-francisco-brun-sketch-1200x900.jpeg
     alt: "San Francisco Bitcoin run sketch"

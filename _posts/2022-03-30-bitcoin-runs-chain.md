@@ -9,7 +9,9 @@ permalink: /chain/
 ---
 
 How many Bitcoins can be minted and chained on the world's map?
-The current height of the Bitcoin Runs Chain is **4**. Watch the development of the Bitcoin Runs Chain in the videos below 👇
+The current height of the Bitcoin Runs Chain is **4**.
+
+Watch the development of the Bitcoin Runs Chain in the videos below 👇
 
 ## [4th Run - Lucerne, Switzerland 🇨🇭](/lucerne)
 
@@ -40,6 +42,10 @@ The current height of the Bitcoin Runs Chain is **4**. Watch the development of 
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/lwnho1vqupM?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 > Complete details 👉 [Bern Bitcoin Run ₿ 🏃‍♂️](/bern)
+
+<hr>
+
+Care to have your location on it or run some [sketched Bitcoin Runs]()? Then [get in contact with us ✉️ 🙏](mailto:bitcoinruns@protonmail.com)
 
 
 {% include donate.html %} 

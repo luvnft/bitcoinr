@@ -28,13 +28,13 @@ gallery:
 
 {% include gallery caption="Bern Bitcoin Runs Samples" %}
 
-Once a run is completed and accepted it is added to the [Bitcoin Runs Chain ₿ 🏃‍♂️ 🔗](/chain) and the location is closed.
+> Once a run is completed and accepted it is added to the [Bitcoin Runs Chain ₿ 🏃‍♂️ 🔗](/chain) and the location is closed
+> - can we make to a **100 height** 🏃 💪?
 
 ## Mission 🎯
 
 - Spread awareness about **Bitcoin** and **Running** benefits by drawing bitcoins on maps around world. 
-- Promote the places where we are doing the bitcoin runs and donate to local authorities. 
-- **100 height** on the [Bitcoin Runs Chain ₿ 🏃‍♂️ 🔗](/chain/)
+- Promote the places where we are doing the bitcoin runs and donate to local authorities.
 
 Following bitcoin runs are complete for now:
 - [Bern](/bern) 

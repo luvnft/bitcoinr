@@ -14,8 +14,7 @@ gallery:
 
 ## About ₿ 🏃
 
-**Everybody** is aware of the formidable runs bitcoin had in the last decade. At [BitcoinRuns.org](https://www.bitcoinruns.org)
- we want to make **every body** and **soul** aware of bitcoin ₿, running benefits ❤️  and promote local communities and cities.  
+Raise awareness about Bitcoin ₿, running benefits ❤️  and promote local communities and cities.  
  
  **How?** By running Bitcoin shaped routes and drawing them on navigation maps. 
  Our pace (🏃) and heart beat (💓) give the colors of the run:
@@ -28,12 +27,12 @@ gallery:
 
 {% include gallery caption="Bern Bitcoin Runs Samples" %}
 
-> Once a run is completed and accepted it is added to the [Bitcoin Runs Chain ₿ 🏃‍♂️ 🔗](/chain) and the location is closed
-> - can we make to a **100 height** 🏃 💪?
+> Once a run is completed and accepted it is added to the [Bitcoin Runs Chain ₿ 🏃‍♂️ 🔗](/chain) and the location is **closed**
+> - can we make to a **100 locations** 🏃 💪?
 
 ## Mission 🎯
 
-- Spread awareness about **Bitcoin** and **Running** benefits by drawing bitcoins on maps around world. 
+- Raise awareness about **Bitcoin** and **Running** benefits by drawing bitcoins on maps around world. 
 - Promote the places where we are doing the bitcoin runs and donate to local authorities.
 
 Following bitcoin runs are complete for now:

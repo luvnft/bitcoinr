@@ -25,10 +25,6 @@ gallery:
     image_path: /assets/images/runs/paris/sketch/paris-bitcoin-run-sketch-1200x719.jpeg
     alt: "Paris Bitcoin Run Sketch"
     title: "Paris Bitcoin Run Sketch"
-  - url: /san-francisco/
-    image_path: /assets/images/runs/san-francisco/sketch/san-francisco-brun-sketch-1200x900.jpeg
-    alt: "San Francisco Bitcoin run sketch"
-    title: "San Francisco Bitcoin run sketch"
   - url: /seattle/
     image_path: /assets/images/runs/seattle/sketch/seattle-brun-sketch-1200x900.png
     alt: "Seattle Bitcoin run sketch"

@@ -1,0 +1,12 @@
+# Authors
+Lenny Maughan:
+  name        : "Lenny Maughan"
+  bio         : "Street Artist. Lineographer. Pareidoliac. Human Etch-A-Sketch."
+  avatar      : "/assets/images/authors/lenny-maughan.png"
+  links:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/lennymaughan/"
+    - label: "Strava"
+      icon: "fab fa-fw fa-strava"
+      url: "https://www.strava.com/athletes/7019519"

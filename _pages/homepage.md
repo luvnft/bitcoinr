@@ -33,6 +33,14 @@ gallery_completed:
     image_path: /assets/images/homepage/lucerne-basemap-640x480.jpeg
     alt: "Lucerne Bitcoin run"
     title: "Lucerne Bitcoin run"
+  - url: /san-francisco/
+    image_path: /assets/images/homepage/san-francisco-strava-overlay-640x480.jpeg
+    alt: "San Francisco Bitcoin run"
+    title: "San Francisco Bitcoin run"
+  - url: /assets/images/homepage/who-is-next-640x480.jpeg
+    image_path: /assets/images/homepage/who-is-next-640x480.jpeg
+    alt: "Next Bitcoin Run?"
+    title: "Next Bitcoin Run?"
 gallery_reserved:
   - url: /assets/images/homepage/barcelona-sketch-reserved-640x480.png
     image_path: /assets/images/homepage/barcelona-sketch-reserved-640x480.png

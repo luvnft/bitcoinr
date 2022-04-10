@@ -109,13 +109,19 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:adoshimatamoto@protonmail.com"
+      url: "mailto:bitcoinruns@protonmail.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/AdoshiMatamoto"
+      url: "https://twitter.com/BitcoinRuns"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/AdoshiMatamoto"
+      url: "https://github.com/BitcoinRuns"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/bitcoinruns/"
+    - label: "Strava"
+      icon: "fab fa-fw fa-strava"
+      url: "https://www.strava.com/clubs/bitcoinruns"
 
 # Site Footer
 footer:

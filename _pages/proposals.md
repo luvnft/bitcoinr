@@ -47,7 +47,7 @@ gallery:
     title: "Washington D.C. Bitcoin Run Sketch"
 ---
 
-You can find bellow 👇 a list of sketched proposals you can do - [get in contact with us ✉️](mailto:bitcoinruns@protonmail.com)
+👇👇 list of sketched proposals you can run - [get in contact with us ✉️](mailto:bitcoinruns@protonmail.com)
 
 {% include gallery id="gallery" layout="" caption="₿itcoin Run Proposals" %}
 

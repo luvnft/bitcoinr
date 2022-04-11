@@ -1,5 +1,6 @@
 ---
 layout: single
+title: Bucharest Bitcoin Run ₿ 🏃‍♂️ 🇷🇴
 header:
   video:
     bitcoinrunzoomin : "/assets/images/runs/bucharest/video/bucharest-bitcoin-run-zoomin-HD-1080p-medium.m4v"

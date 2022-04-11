@@ -1,5 +1,6 @@
 ---
 layout: single
+title: Lucerne Bitcoin Run ₿ 🏃‍♂️ 🇨🇭
 excerpt: "My second Bitcoin Run in Switzerland was in Lucerne, another of my favorite cities in Switzerland. See
 my run details and pictures of the best sights in town."
 header:

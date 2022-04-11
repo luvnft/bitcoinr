@@ -1,5 +1,6 @@
 ---
 layout: single
+title: Hollywood L.A. Bitcoin Run Request ₿ 🏃‍♂️ 🇺🇸
 header:
   image: /assets/images/runs/los-angeles/header/los-angeles-hollywood-background-header-2048x450.jpeg
   og_image: /assets/images/runs/los-angeles/sketch/los-angeles-hollywood-1200x1058.jpeg

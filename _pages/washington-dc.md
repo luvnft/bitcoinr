@@ -1,5 +1,6 @@
 ---
 layout: single
+title: Washington D.C. Bitcoin Run Request ₿ 🏃‍♂️ 🇺🇸
 header:
   image: /assets/images/runs/washington/header/washington-dc-background-header-2048x450.jpeg
   og_image: /assets/images/runs/washington/sketch/washington-dc-short-version.jpeg

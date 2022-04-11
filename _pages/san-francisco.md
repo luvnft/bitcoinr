@@ -1,5 +1,6 @@
 ---
 layout: single
+title: San Francisco Bitcoin Run ₿ 🏃‍♂️ 🇺🇸
 excerpt: "First Bitcoin Run in North America 🇺🇸, in the city of San Francisco 🏙️ thanks to the athlete Lenny Maughan ."
 header:
   video:

@@ -1,5 +1,6 @@
 ---
 layout: single
+title: Oslo Bitcoin Run Request ₿ 🏃‍♂️ 
 header:
   image: /assets/images/runs/oslo/header/oslo-background-header-2048x450.jpeg
   og_image: /assets/images/runs/oslo/sketch/oslo-sketch-proposal-1200x900.png

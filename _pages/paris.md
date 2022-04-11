@@ -1,4 +1,5 @@
 ---
+title: Paris Bitcoin Run Request ₿ 🏃‍♂️ 🇫🇷
 layout: single
 header:
   image: /assets/images/runs/paris/header/paris-proposal-header-2048x900.jpeg

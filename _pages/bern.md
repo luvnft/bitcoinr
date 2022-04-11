@@ -1,5 +1,6 @@
 ---
 layout: single
+title: Bern Bitcoin Run ₿ 🏃‍♂️ 🇨🇭
 header:
   video:
     bitcoinrunzoomin : "/assets/images/runs/bern/video/bern-bitcoin-run-zoomin-HD-1080p-high.m4v"

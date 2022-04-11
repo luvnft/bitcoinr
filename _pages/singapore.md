@@ -1,5 +1,6 @@
 ---
 layout: single
+title: Singapore Bitcoin Run Request ₿ 🏃‍♂️
 header:
   image: /assets/images/runs/singapore/header/singapore-background-header-2048x450.jpeg
   og_image: /assets/images/runs/singapore/sketch/singapore-brun-sketch-1200x900.png

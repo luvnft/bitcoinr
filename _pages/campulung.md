@@ -1,5 +1,6 @@
 ---
 layout: single
+title: Câmpulung Bitcoin Run ₿ 🏃‍♂️ 🇷🇴
 header:
   video:
     bitcoinrunzoomin : "/assets/images/runs/campulung/video/campulung-bitcoin-run-tour-HD-1080p-high.m4v"

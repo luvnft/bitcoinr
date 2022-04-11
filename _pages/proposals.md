@@ -5,6 +5,10 @@ header:
 image: /assets/images/proposals/proposals-background-header-2048x450.jpeg
 og_image: /assets/images/proposals/proposals-background-header-2048x900.png
 gallery:
+  - url: /johannesburg/
+    image_path: /assets/images/runs/johannesburg/sketch/johannesburg-sketch-overlay-1600x1096.jpeg
+    alt: "Johannesburg"
+    title: "Johannesburg Bitcoin Run Sketch"
   - url: /los-angeles/hollywood/
     image_path: /assets/images/runs/los-angeles/sketch/los-angeles-hollywood-1200x1058.jpeg
     alt: "Hollywood L.A. sketch"

@@ -5,6 +5,9 @@ header:
 image: /assets/images/proposals/proposals-background-header-2048x450.jpeg
 og_image: /assets/images/proposals/proposals-background-header-2048x900.png
 gallery:
+  - url: /barcelona/
+    image_path: /assets/images/runs/barcelona/sketch/barcelona-sketch-1600x1095.jpeg
+    alt: "Barcelona Bitcoin Run Sketch"
   - url: /johannesburg/
     image_path: /assets/images/runs/johannesburg/sketch/johannesburg-sketch-overlay-1600x1096.jpeg
     alt: "Johannesburg"

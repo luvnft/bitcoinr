@@ -9,43 +9,27 @@ permalink: /chain/
 ---
 
 How many Bitcoins can be minted and chained on the world's map?
-The current height of the Bitcoin Runs Chain is **4**.
+The current height of the Bitcoin Runs Chain is **5**.
 
-Watch the development of the Bitcoin Runs Chain in the videos below 👇
+The latest Bitcoin Runs Chain in the video below 👇
 
-## [4th Run - Lucerne, Switzerland 🇨🇭](/lucerne)
+## Bitcoin Runs Chain - latest run [San Francisco 🇺🇸](/san-francisco)
 
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/POG9_6KgIf4?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/nvPMvNeLan0?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-> Complete details 👉 [Lucerne Bitcoin Run ₿ 🏃‍♂️](/lucerne)
 
-<p style="text-align: center; font-size: 2rem; margin-bottom: -3rem; margin-top: -1rem"> ⛓ </p>️
+### Previous runs
 
-## [3rd Run - Bucharest, Romania 🇷🇴](/bucharest)
+- [4th Run - Lucerne, Switzerland 🇨🇭](/lucerne)
+- [3rd Run - Bucharest, Romania 🇷🇴](/bucharest)
+- [2nd Run - Câmpulung, Romania 🇷🇴](/campulung)
+- [Genesis Run - Bern, Switzerland 🇨🇭](/bern)
 
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/oOTNFbPKVjM?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-> Complete details 👉 [Bucharest Bitcoin Run ₿ 🏃‍♂️](/bucharest)
 
-<p style="text-align: center; font-size: 2rem; margin-bottom: -3rem; margin-top: -1rem"> ⛓ </p>️
-
-## [2nd Run - Campulung, Romania 🇷🇴](/campulung)
-
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/kQmPJ8oyBpA?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-
-> Complete details 👉 [Campulung Bitcoin Run ₿ 🏃‍♂️](/campulung)
-
-<p style="text-align: center; font-size: 2rem; margin-bottom: -3rem; margin-top: -1rem"> ⛓ </p>️
-
-## [Genesis Run - Bern, Switzerland 🇨🇭](/bern)
-
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/lwnho1vqupM?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-
-> Complete details 👉 [Bern Bitcoin Run ₿ 🏃‍♂️](/bern)
-
-<hr>
-
-Care to have your location on it or run some [sketched Bitcoin Runs]()? Then [get in contact with us ✉️ 🙏](mailto:bitcoinruns@protonmail.com)
+> Care to have your location or same of the other [sketched Bitcoin Runs](/proposals) chained? 
+> Then [get in contact with us ✉️ 🙏](mailto:bitcoinruns@protonmail.com)
 
 
 {% include donate.html %} 

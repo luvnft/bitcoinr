@@ -1,17 +1,17 @@
 ---
 title: "🏃‍♂️ 🔗 Bitcoin Runs Chain"
 date: 2022-03-30
-excerpt: "Bitcoin Runs Chain ₿ 🏃‍♂️ 🔗 - chaining together bitcoin runs in a timely fashion"
+excerpt: "Bitcoin Runs Chain ₿ 🏃‍♂️ 🔗 - chaining together bitcoin runs chronologically"
 header:
   image: /assets/images/chain/header-chain-tiles-2000x700.jpeg
   og_image: /assets/images/chain/header-chain-tiles-2000x700.jpeg
 permalink: /chain/
 ---
 
-How many Bitcoins can be minted and chained on the world's map?
+The Bitcoin Runs are "chained" together chronologically.
 The current height of the Bitcoin Runs Chain is **5**.
 
-The latest Bitcoin Runs Chain in the video below 👇
+See the latest Bitcoin Runs Chain in the video below 👇
 
 ## Bitcoin Runs Chain - latest run [San Francisco 🇺🇸](/san-francisco)
 

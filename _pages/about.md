@@ -28,7 +28,7 @@ Raise awareness about Bitcoin ₿, running benefits ❤️  and promote local co
 {% include gallery caption="Bern Bitcoin Runs Samples" %}
 
 > Once a run is completed and accepted it is added to the [Bitcoin Runs Chain ₿ 🏃‍♂️ 🔗](/chain) and the location is **closed**
-> - can we make to a **100 locations** 🏃 💪?
+> How fast can we macke to **100 locations** 🏃💪?
 
 ## Mission 🎯
 
@@ -36,10 +36,11 @@ Raise awareness about Bitcoin ₿, running benefits ❤️  and promote local co
 - Promote the places where we are doing the bitcoin runs and donate to local authorities.
 
 Following bitcoin runs are complete for now:
-- [Bern](/bern) 
-- [Campulung](/campulung)
-- [Bucharest](/bucharest)
-- [Lucerne](/lucerne)
+- [Bern 🇨🇭](/bern) 
+- [Campulung 🇷🇴](/campulung)
+- [Bucharest 🇷🇴](/bucharest)
+- [Lucerne 🇨🇭](/lucerne)
+- [San Francisco 🇺🇸](/san-francisco)
 
 
 ## Join us 🏃💪

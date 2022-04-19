@@ -25,9 +25,6 @@ See the latest Bitcoin Runs Chain in the video below 👇
 - [2nd Run - Câmpulung, Romania 🇷🇴](/campulung)
 - [Genesis Run - Bern, Switzerland 🇨🇭](/bern)
 
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/oOTNFbPKVjM?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-
-
 > Care to have your location or same of the other [sketched Bitcoin Runs](/proposals) chained? 
 > Then [get in contact with us ✉️ 🙏](mailto:bitcoinruns@protonmail.com)
 

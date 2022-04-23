@@ -27,7 +27,7 @@ Raise awareness about Bitcoin ₿, running benefits ❤️  and promote local co
 
 {% include gallery caption="Bern Bitcoin Runs Samples" %}
 
-> Once a run is completed and accepted it is added to the [Bitcoin Runs Chain ₿ 🏃‍♂️ 🔗](/chain) and the location is **closed**
+> Once a run is completed and accepted it is added to the [Bitcoin Runs Chain ₿ 🏃‍♂️ 🔗](/chain)
 > How fast can we macke to **100 locations** 🏃💪?
 
 ## Mission 🎯

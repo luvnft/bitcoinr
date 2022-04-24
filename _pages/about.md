@@ -12,12 +12,16 @@ gallery:
     title: "Bern Bitcoin Run - Heart Beat"    
 ---
 
-## About ₿ 🏃
+## Mission ₿ 🏃 🎯
 
-Raise awareness about Bitcoin ₿, running benefits ❤️  and promote local communities and cities.  
- 
- **How?** By running Bitcoin shaped routes and drawing them on navigation maps. 
- Our pace (🏃) and heart beat (💓) give the colors of the run:
+Raise awareness about Bitcoin ₿, sport benefits ❤️  and promote local communities and cities.  
+
+### How? 
+
+#### Gps Art 🖌️ ₿ 🗺️
+
+We make #GpsArt by foot or bike in the form Bitcoin shapes. 
+Our pace (🏃) and heart beat (💓) might give the colors of the runs:
  
   <p>
     <a href="/assets/images/runs/intensity-scale.png">
@@ -27,37 +31,43 @@ Raise awareness about Bitcoin ₿, running benefits ❤️  and promote local co
 
 {% include gallery caption="Bern Bitcoin Runs Samples" %}
 
-> Once a run is completed and accepted it is added to the [Bitcoin Runs Chain ₿ 🏃‍♂️ 🔗](/chain)
-> How fast can we macke to **100 locations** 🏃💪?
+#### Take pictures and tell stories about the locations
 
-## Mission 🎯
+Take pictures along the bitcoin runs
+- see the one [Bern🇨🇭](/bern) for a pictorial and find out about Bern's best sights 
+- relive [the bitcoin run in San Francisco 🇺🇸](/san-francisco)
 
-- Raise awareness about **Bitcoin** and **Running** benefits by drawing bitcoins on maps around world. 
-- Promote the places where we are doing the bitcoin runs and donate to local authorities.
+#### Accept crypto donations
 
-Following bitcoin runs are complete for now:
-- [Bern 🇨🇭](/bern) 
-- [Campulung 🇷🇴](/campulung)
-- [Bucharest 🇷🇴](/bucharest)
-- [Lucerne 🇨🇭](/lucerne)
-- [San Francisco 🇺🇸](/san-francisco)
+Tell us if your community accepts Bitcoin donations, and we will display the public address for the corresponding run
 
+## Join us 🙏 💪 
 
-## Join us 🏃💪
-
-Put your city on the Bitcoin Runs Map. Do a Bitcoin shaped run, record it and [get in contact with us ✉️](mailto:bitcoinruns@protonmail.com). 
+Do you want your community on the Bitcoin Runs Map? Do a Bitcoin shaped run, take pictures (with location on)
+and [get in contact with us ✉️](mailto:bitcoinruns@protonmail.com). 
  
-> We have put up a few sketch proposals you might consider in cities like [Miami](/miami/), [Oslo](/oslo/), [San Francisco](/san-francisco) etc.
-> You can find the complete list 👉  &nbsp; **[here](/proposals)**. 
+> 👉 We have sketched [a list of proposals](/proposals) you might consider in cities like [Miami](/miami/), [Oslo](/oslo/), [Sibiu](/sibiu/) etc.
  
-> Don't forget to enable the location on your phone and take pictures of the surrounding attractions on your way.
-  
 Then you have two options:
  - **if you are a "techie"** you can submit directly a pull request on this
- project on Github with a post similar to [Bern Run](/bern/) ([source code](https://github.com/BitcoinRuns/bitcoinrun.art/blob/main/_pages/berne.md))
+ [project on Github](todo-japan) with a post similar to [Bern Run](/bern/) ([source code](https://github.com/BitcoinRuns/bitcoinrun.art/blob/main/_pages/berne.md))
   and [get in contact with us ✉️](mailto:bitcoinruns@protonmail.org) to tell us your story.
  - **if you are NOT a techie** just [get in contact with us ✉️](mailto:bitcoinruns@protonmail.com)
 
 We are looking forward to your joining #BitcoinRuns 🙏🏽 🙏
+
+## Bitcoin Runs Chain ₿ 🏃‍♂️ 🔗
+
+Once a run is completed and accepted it is added to the [Bitcoin Runs Chain ₿ 🏃‍♂️ 🔗](/chain). The location is then considered
+"closed" for the chain.
+
+The chain contains at the moment the following runs in reverse order:
+- [San Francisco 🇺🇸](/san-francisco)
+- [Lucerne 🇨🇭](/lucerne)
+- [Bucharest 🇷🇴](/bucharest)
+- [Campulung 🇷🇴](/campulung)
+- [Bern 🇨🇭](/bern)
+
+How fast can we make to 100 💪?
 
 {% include donate.html %}

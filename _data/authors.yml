@@ -10,3 +10,28 @@ Lenny Maughan:
     - label: "Strava"
       icon: "fab fa-fw fa-strava"
       url: "https://www.strava.com/athletes/7019519"
+BCN GPS Art:
+  name        : "BCN GPS Art"
+  bio         : "There are a lot of hidden drawings among the streets of Barcelona. My mission is to reveal them while running or cycling!"
+  avatar      : "/assets/images/authors/bcn.gps.art.png"
+  links:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/bcn.gps.art/"
+    - label: "Strava"
+      icon: "fab fa-fw fa-strava"
+      url: "https://www.strava.com/athletes/8545176"
+TODO-japan:
+  name        : "TODO-japan"
+  bio         : "There are a lot of hidden drawings among the streets of Barcelona. My mission is to reveal them while running or cycling!"
+  avatar      : "/assets/images/authors/bcn.gps.art.png"
+  links:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/bcn.gps.art/"
+    - label: "Strava"
+      icon: "fab fa-fw fa-strava"
+      url: "https://www.strava.com/athletes/8545176"
+    - label: "Website"
+      icon: "fab fa-fw fa-strava"
+      url: "https://www.strava.com/athletes/8545176"

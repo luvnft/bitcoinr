@@ -2,8 +2,10 @@
 title: Barcelona Bitcoin Run ₿ 🚴️ 
 layout: single
 header:
-  image: /assets/images/runs/barcelona/video/barcelona-btc-screenshot-google-earth-1920x1080.jpeg
-  og_image: /assets/images/runs/barcelona/page/barcelona-strava-screenshot-1200x800.jpeg 
+  video:
+    bitcoinrunzoomin : "/assets/images/runs/barcelona/video/barcelona-zoomin-closer-2-1920x1080.m4v"
+    poster: /assets/images/runs/barcelona/video/barcelona-btc-screenshot-google-earth-1920x1080.jpeg
+  og_image: /assets/images/runs/barcelona/page/barcelona-strava-screenshot-1200x800.jpeg
 permalink: /barcelona/
 author_profile: true
 author: BCN GPS Art

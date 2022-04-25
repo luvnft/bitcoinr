@@ -10,9 +10,9 @@ header:
     - label: "Learn More"
       url: "/about/"
   caption: "[Bitcoin Runs Chain ₿ 🏃‍♂️ 🔗](/chain/)"
-tagline: "Up 📈, down 📉, faster 🚀, slower 🐌 - you know, the usual ₿itcoin Runs minted by heart (💓) and foot (🏃),
+tagline: "Up 📈, down 📉, faster 🚀, slower 🐌 - you know, the usual ₿itcoin Runs minted by our effort (💓 🏃 🚴),
  [chained](/chain/) on the world map to promote ₿itcoin, running and local communities. &nbsp; [Memes](/memes/) are just for fun 🤪."
-excerpt: "Drawing ₿itcoins on World Map, one run at a time ₿ 🏃 💓"
+excerpt: "Drawing ₿itcoins on World Map, one run at a time ₿ 🏃 🚴 💓"
 feature_row:
 intro: 
   - excerpt: 'Get connected [<i class="fab fa-fw fa-github"></i>](https://github.com/BitcoinRuns) [<i class="fab fa-fw fa-twitter-square"></i>](https://instagram.com/BitcoinRuns) [<i class="fab fa-youtube"></i>](https://www.youtube.com/channel/UCDGX_yT8K6-oAgGldr8xDWw) [<i class="fab fa-fw fa-instagram"></i>](https://www.instagram.com/BitcoinRuns) [<i class="fab fa-fw fa-strava"></i>](https://www.strava.com/clubs/bitcoinruns)'
@@ -37,19 +37,10 @@ gallery_completed:
     image_path: /assets/images/homepage/san-francisco-strava-overlay-640x480.jpeg
     alt: "San Francisco Bitcoin run"
     title: "San Francisco Bitcoin run"
-  - url: /assets/images/homepage/who-is-next-640x480.jpeg
-    image_path: /assets/images/homepage/who-is-next-640x480.jpeg
-    alt: "Next Bitcoin Run?"
-    title: "Next Bitcoin Run?"
-gallery_reserved:
-  - url: /assets/images/homepage/barcelona-sketch-reserved-640x480.png
-    image_path: /assets/images/homepage/barcelona-sketch-reserved-640x480.png
+  - url: /assets/images/homepage/barcelona-strava-640x480.jpeg
+    image_path: /assets/images/homepage/barcelona-strava-640x480.jpeg
     alt: "Barcelona Bitcoin Run"
-    title: "Campulung Bitcoin Run"
-  - url: /assets/images/homepage/berlin-sketch-reserved-640x480.png
-    image_path: /assets/images/homepage/berlin-sketch-reserved-640x480.png
-    alt: "Berlin Bitcoin Run"
-    title: "Berlin Bitcoin Run" 
+    title: "Barcelona Bitcoin Run"
 gallery_proposal:    
   - url: /oslo/
     image_path: /assets/images/homepage/oslo-sketch-proposal-640x480.png
@@ -71,9 +62,6 @@ gallery_proposal:
 
 {% include gallery id="gallery_completed" caption="**Completed ₿itcoin Runs**" %}
 
-<hr>
-
-{% include gallery id="gallery_reserved" caption="**Planned ₿itcoin Runs**" %}
 
 <hr>
 

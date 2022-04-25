@@ -21,17 +21,13 @@ BCN GPS Art:
     - label: "Strava"
       icon: "fab fa-fw fa-strava"
       url: "https://www.strava.com/athletes/8545176"
-TODO-japan:
-  name        : "TODO-japan"
-  bio         : "There are a lot of hidden drawings among the streets of Barcelona. My mission is to reveal them while running or cycling!"
-  avatar      : "/assets/images/authors/bcn.gps.art.png"
+Tetsunori Murachi:
+  name        : "Tetsunori Murachi"
+  bio         : "I will upload GPS art courses which I make and run around Miraidaira Station in Ibaraki Pref. in Japan. "
+  avatar      : "/assets/images/authors/tetsunori-murachi.jpeg"
   links:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/bcn.gps.art/"
-    - label: "Strava"
-      icon: "fab fa-fw fa-strava"
-      url: "https://www.strava.com/athletes/8545176"
+      url: "https://www.instagram.com/tettsu777/"
     - label: "Website"
-      icon: "fab fa-fw fa-strava"
-      url: "https://www.strava.com/athletes/8545176"
+      url: "https://gpsartinmiraidaira.blogspot.com/"

@@ -142,16 +142,6 @@ Terrace with [Torre Glòries](https://en.wikipedia.org/wiki/Torre_Gl%C3%B2ries) 
 
 <hr>
 
-Approaching [Sagrada Familia](https://sagradafamilia.org/en/history-of-the-temple)
-<figure class="image">
-  <a href="/assets/images/runs/barcelona/city/resized/6-1000x1333-sagrada-familia-in-background.jpeg">
-    <img src="/assets/images/runs/barcelona/city/resized/6-1000x1333-sagrada-familia-in-background.jpeg" alt="Sant Peter Church">
-  </a>
-  <figcaption>Sant Peter Church</figcaption>
-</figure>
-
-<hr>
-
 Approaching [Sagrada Familia](https://en.wikipedia.org/wiki/Sagrada_Fam%C3%ADlia)
 <figure class="image">
   <a href="/assets/images/runs/barcelona/city/resized/6-1000x1333-sagrada-familia-in-background.jpeg">

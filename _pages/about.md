@@ -14,11 +14,11 @@ gallery:
 
 ## Mission ₿ 🏃 🎯
 
-Raise awareness about Bitcoin ₿, sport benefits ❤️  and promote local communities and cities.  
+Raise awareness about Bitcoin ₿, exercise benefits 💗 and promote local communities.  
 
 ### How? 
 
-#### Gps Art 🖌️ ₿ 🗺️
+#### 1. Gps Art 🖌️ ₿ 🗺️
 
 We make #GpsArt by foot or bike in the form Bitcoin shapes. 
 Our pace (🏃) and heart beat (💓) might give the colors of the runs:
@@ -31,13 +31,13 @@ Our pace (🏃) and heart beat (💓) might give the colors of the runs:
 
 {% include gallery caption="Bern Bitcoin Runs Samples" %}
 
-#### Take pictures and tell stories about the locations
+#### 2. Take pictures and tell stories about the locations
 
 Take pictures along the bitcoin runs
 - see the one [Bern🇨🇭](/bern) for a pictorial and find out about Bern's best sights 
 - relive [the bitcoin run in San Francisco 🇺🇸](/san-francisco)
 
-#### Accept crypto donations
+#### 3. Accept crypto donations
 
 Tell us if your community accepts Bitcoin donations, and we will display the public address for the corresponding run
 
@@ -62,6 +62,7 @@ Once a run is completed and accepted it is added to the [Bitcoin Runs Chain ₿ 
 "closed" for the chain.
 
 The chain contains at the moment the following runs in reverse order:
+- [Barcelona](/barcelona)
 - [San Francisco 🇺🇸](/san-francisco)
 - [Lucerne 🇨🇭](/lucerne)
 - [Bucharest 🇷🇴](/bucharest)

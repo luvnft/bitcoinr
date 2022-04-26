@@ -1,5 +1,6 @@
 ---
 layout: single
+title: About ₿ 🏃 
 permalink: /about/
 gallery:
   - url: /assets/images/about/berne-basemap-pace-1200x900.png

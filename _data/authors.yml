@@ -31,3 +31,14 @@ Tetsunori Murachi:
       url: "https://www.instagram.com/tettsu777/"
     - label: "Website"
       url: "https://gpsartinmiraidaira.blogspot.com/"
+Lunatique How:
+  name        : "Lunatique How"
+  bio         : "Running, Hiking, Cycling - 运动的律动与艺术 🇲🇾"
+  avatar      : "/assets/images/authors/lunatiquehow.png"
+  links:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/lunatiquehow/"
+    - label: "Strava"
+      icon: "fab fa-fw fa-strava"
+      url: "https://www.strava.com/athletes/51335760/"

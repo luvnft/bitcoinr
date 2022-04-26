@@ -12,8 +12,8 @@ author: Tetsunori Murachi
 gallery_sights:
 - url: /assets/images/runs/tsukubamirai-ibaraki-prefecture/city/0-tsukubamirai-author-area-photography.jpeg
   image_path: /assets/images/runs/tsukubamirai-ibaraki-prefecture/city/0-tsukubamirai-author-area-photography.jpeg
-  alt: "Gps Art - Photography area"
-  title: "Gps Art - Photography area"
+  alt: "Gps Art - Area Photography"
+  title: "Gps Art - Area Photography"
 - url: /assets/images/runs/tsukubamirai-ibaraki-prefecture/city/1-miraidaira-station.jpeg
   image_path: /assets/images/runs/tsukubamirai-ibaraki-prefecture/city/1-miraidaira-station.jpeg
   alt: "Miraidaira station"

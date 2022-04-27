@@ -1,3 +1,16 @@
 .clear {
   clear: both;
 }
+
+.crypto-donation-entry {
+  img {
+    width: 200px;
+    height: 200px;
+  }
+
+  p {
+    text-align: center;
+    margin-top: 1rem;
+    font-size: 0.8rem;
+  }
+}

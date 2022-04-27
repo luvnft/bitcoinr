@@ -65,6 +65,20 @@ in his favorite "canvas" area, around the [Miraidaira Station](https://en.wikipe
 Tetsunori was very kind and took some pictures on the run in his favorite "running court" 👇
 {% include gallery id="gallery_sights" caption="Miraidaira Station Area, Ibaraki Prefecture 🇯🇵" %}
 
+## Donate to Tetsunori ️❤️🙏
+
+### Bitcoin (BTC)
+
+<div class="crypto-donation-entry">
+  <a href="/assets/images/runs/tsukubamirai-ibaraki-prefecture/page/author-btc-address.jpeg">
+    <img src="/assets/images/runs/tsukubamirai-ibaraki-prefecture/page/author-btc-address.jpeg" alt="image-left" class="align-center">
+  </a>
+
+  <p style="text-align:center;margin-top:1rem">33jFv4dNFjUT7rnt7h4cAWPPAVuqq5HWoS</p>
+</div>
+
+<hr>
+
 {% include donate.html %}  
   
   

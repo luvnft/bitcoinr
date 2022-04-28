@@ -245,6 +245,22 @@ Other resources about art, attractions and activities in Barcelona in the links 
 - [Barcelona.com](https://www.barcelona.com/)
 - [Barcelona Lowdown](https://barcelonalowdown.com/)
 
+## Donate to BCN GPS Art ️❤️🙏
+
+### Bitcoin (BTC)
+
+<div class="crypto-donation-entry">
+  <p>3N68bFsmoYW8WJNM7XRSHYk1ttuXnmSkfb</p>
+</div>
+
+### Ethereum (ETH)
+
+<div class="crypto-donation-entry">
+  <p>0x3473D397d4141D0cf7DCf289278D283A659d65d9</p>
+</div>
+
+<hr>
+
 {% include donate.html %}  
 
 

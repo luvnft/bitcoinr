@@ -62,7 +62,9 @@ We are looking forward to your joining #BitcoinRuns 🙏🏽 🙏
 Once a run is completed and accepted it is added to the [Bitcoin Runs Chain ₿ 🏃‍♂️ 🔗](/chain). The location is then considered
 "closed" for the chain.
 
-The chain contains at the moment the following runs in reverse order:
+The chain contains has currently the following bitcoin runs in reverse order chronologically:
+- [Kuantan, Malaysia 🇲🇾](/kuantan)
+- [Tsukubamirai, Ibaraki Pref. 🇯🇵](/tsukubamirai)
 - [Barcelona](/barcelona)
 - [San Francisco 🇺🇸](/san-francisco)
 - [Lucerne 🇨🇭](/lucerne)

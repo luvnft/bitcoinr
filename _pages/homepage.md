@@ -37,10 +37,22 @@ gallery_completed:
     image_path: /assets/images/homepage/san-francisco-strava-overlay-640x480.jpeg
     alt: "San Francisco Bitcoin run"
     title: "San Francisco Bitcoin run"
-  - url: /assets/images/homepage/barcelona-strava-640x480.jpeg
+  - url: /barcelona/
     image_path: /assets/images/homepage/barcelona-strava-640x480.jpeg
     alt: "Barcelona Bitcoin Run"
     title: "Barcelona Bitcoin Run"
+  - url: /tsukubamirai/
+    image_path: /assets/images/homepage/7-tsukubamirai-runapp-640x480.jpeg
+    alt: "Tsukubamirai Bitcoin Run"
+    title: "Tsukubamirai Bitcoin Run"
+  - url: /kuantan/
+    image_path: /assets/images/homepage/8-kuantan-strava-640x480.jpeg
+    alt: "Kuantan Bitcoin Run"
+    title: "Kuantan Bitcoin Run"
+  - url: /assets/images/homepage/who-is-next-640x480.jpeg
+    image_path: /assets/images/homepage/who-is-next-640x480.jpeg
+    alt: "Next Bitcoin Run?"
+    title: "Next Bitcoin Run?"
 gallery_proposal:    
   - url: /oslo/
     image_path: /assets/images/homepage/oslo-sketch-proposal-640x480.png

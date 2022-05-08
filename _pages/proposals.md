@@ -33,6 +33,10 @@ gallery:
     image_path: /assets/images/runs/paris/sketch/paris-bitcoin-run-sketch-1200x719.jpeg
     alt: "Paris Bitcoin Run Sketch"
     title: "Paris Bitcoin Run Sketch"
+  - url: /sacramento/
+    image_path: /assets/images/runs/requests/sacramento/sketch/sacramento-sketch.jpg
+    alt: "Sacramento Bitcoin run sketch"
+    title: "Sacramento Bitcoin run sketch"
   - url: /seattle/
     image_path: /assets/images/runs/seattle/sketch/seattle-brun-sketch-1200x900.png
     alt: "Seattle Bitcoin run sketch"
@@ -45,6 +49,10 @@ gallery:
     image_path: /assets/images/runs/singapore/sketch/singapore-brun-sketch-1200x900.png
     alt: "Singapore Bitcoin run sketch"
     title: "Singapore Bitcoin run sketch"
+  - url: /sydney/
+    image_path: /assets/images/runs/requests/sydney/sketch/sydney-sketch.jpg
+    alt: "Sydney Bitcoin run sketch"
+    title: "Sydney Bitcoin run sketch"
   - url: /washington-dc/
     image_path: /assets/images/runs/washington/sketch/washington-dc-short-version.jpeg
     alt: "Washington D.C. Bitcoin Run Sketch"

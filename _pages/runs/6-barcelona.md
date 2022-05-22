@@ -73,7 +73,7 @@ thanks to the [athlete](https://www.strava.com/athletes/8545176)
 and [gps artist](https://www.instagram.com/bcn.gps.art/) - **BCN GPS Art**. This is a premiere 🎉, because it is the first
 Bitcoin Run by bike 🚴️
 
-See BCN GPS Art's effort on Strava 👇
+See BCN GPS Art's effort on Strava 💪👇
 
 <figure class="image">
   <a href="https://www.strava.com/activities/7000431951" target="_blank">

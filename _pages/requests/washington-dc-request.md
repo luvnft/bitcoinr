@@ -13,7 +13,7 @@ For Washington a longer proposal is in the same area is shown below, but at best
 and show the best of the city:
 
 <figure class="image">
-  <a href="/assets/images/runs/oslo/sketch/oslo-sketch-proposal2-1200x900.png">
+  <a href="/assets/images/runs/washington/sketch/washington-dc-long-version.jpeg">
     <img src="/assets/images/runs/washington/sketch/washington-dc-long-version.jpeg" alt="Washington D.C. Bitcoin Run Sketch 2">
   </a>
   <figcaption>Bitcoin Run Sketch 2 - Washington D.C.</figcaption>

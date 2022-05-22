@@ -42,3 +42,14 @@ Lunatique How:
     - label: "Strava"
       icon: "fab fa-fw fa-strava"
       url: "https://www.strava.com/athletes/51335760/"
+Pravin Xeona:
+  name        : "Pravin Xeona"
+  bio         : "The world is my canvas. Literally."
+  avatar      : "/assets/images/authors/pravin-xeona.png"
+  links:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/s.art.va/"
+    - label: "Strava"
+      icon: "fab fa-fw fa-strava"
+      url: "https://www.strava.com/athletes/63321847"

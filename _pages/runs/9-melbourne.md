@@ -5,7 +5,7 @@ header:
   video:
     bitcoinrunzoomin : "/assets/images/runs/melbourne/video/9-melbourne-bitcoin-run-zoomin-1920x1080.m4v"
     poster: /assets/images/runs/melbourne/video/9-melbourne-google-earth-screenshot-1920x1080.jpeg
-  og_image: /assets/images/runs/barcelona/page/barcelona-strava-screenshot-1200x800.jpeg
+  og_image: /assets/images/runs/melbourne/page/strava-run-with-author.jpeg
 permalink: /melbourne/
 author_profile: true
 author: Pravin Xeona
@@ -32,9 +32,10 @@ gallery_sights:
 ---
 
 Bitcoin Runs has reached for the first time Australia 🇦🇺 🎉, 
-thanks to the [athlete](https://www.strava.com/athletes/63321847) and [gps artist](https://www.instagram.com/s.art.va/) **Pravin Xeona**.
+thanks to the [athlete](https://www.strava.com/athletes/63321847) and [gps artist](https://www.instagram.com/s.art.va/) 
+**Pravin Xeona** 💪👏🙏.
 
-Check out his effort on Strava 💪👇:
+Check out his effort on Strava 👇:
 
 <figure class="image">
   <a href="https://www.strava.com/activities/7176408155" target="_blank">

@@ -53,3 +53,14 @@ Pravin Xeona:
     - label: "Strava"
       icon: "fab fa-fw fa-strava"
       url: "https://www.strava.com/athletes/63321847"
+Wang Xianning:
+  name        : "Wang Xianning/汪賢寧"
+  bio         : "71-year-old GPS artist and rider"
+  avatar      : "/assets/images/authors/wang-circle.png"
+  links:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/wang_gpsart/"
+    - label: "Strava"
+      icon: "fab fa-fw fa-strava"
+      url: "https://www.strava.com/athletes/49033370"

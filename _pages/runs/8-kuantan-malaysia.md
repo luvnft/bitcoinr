@@ -37,9 +37,10 @@ gallery_sights:
 
 Bitcoin Runs is for the first time in Malaysia 🇲🇾, in [Kuantan](https://en.wikipedia.org/wiki/Kuantan)
 the state city of [Pahang](https://en.wikipedia.org/wiki/Kuantan),
-thanks to the [athlete](https://www.strava.com/athletes/51335760) and [gps artist](https://www.instagram.com/lunatiquehow/) **Lunatique How**.
+thanks to the [athlete](https://www.strava.com/athletes/51335760) and [gps artist](https://www.instagram.com/lunatiquehow/)
+**Lunatique How** 💪👏🙏.
 
-Check out his effort on Strava 💪👇:
+Check out his effort on Strava 👇:
 
 <figure class="image">
   <a href="https://www.strava.com/activities/7025084295" target="_blank">

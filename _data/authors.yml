@@ -64,3 +64,15 @@ Wang Xianning:
     - label: "Strava"
       icon: "fab fa-fw fa-strava"
       url: "https://www.strava.com/athletes/49033370"
+
+ViKas RupaRelia:
+  name        : "ViKas RupaRelia"
+  bio         : "Endorphin Addict !!"
+  avatar      : "/assets/images/authors/vikas-ruparelia.png"
+  links:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/vikasruparelia/"
+    - label: "Strava"
+      icon: "fab fa-fw fa-strava"
+      url: "https://www.strava.com/athletes/4067179"

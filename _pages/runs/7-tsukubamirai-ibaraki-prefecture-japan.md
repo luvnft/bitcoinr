@@ -5,7 +5,7 @@ header:
   video:
     bitcoinrunzoomin : "/assets/images/runs/tsukubamirai-ibaraki-prefecture/video/7-tsukubamirai-pref-zoomin-closer-3-1920x1080.m4v"
     poster: /assets/images/runs/tsukubamirai-ibaraki-prefecture/video/tsukubamirai-screenshot-google-earth-1920x1080.jpeg
-  og_image: /assets/images/runs/barcelona/page/barcelona-strava-screenshot-1200x800.jpeg
+  og_image: /assets/images/runs/tsukubamirai-ibaraki-prefecture/page/screenshot-map-rungoapp-miraidaira-bitcoin-run.jpeg
 permalink: /tsukubamirai/
 author_profile: true
 author: Tetsunori Murachi

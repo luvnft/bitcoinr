@@ -49,10 +49,14 @@ gallery_completed:
     image_path: /assets/images/homepage/8-kuantan-strava-640x480.jpeg
     alt: "Kuantan Bitcoin Run"
     title: "Kuantan Bitcoin Run"
-  - url: /assets/images/homepage/who-is-next-640x480.jpeg
-    image_path: /assets/images/homepage/who-is-next-640x480.jpeg
-    alt: "Next Bitcoin Run?"
-    title: "Next Bitcoin Run?"
+  - url: /melbourne
+    image_path: /assets/images/homepage/9-melbourne-strava-640x480.jpeg
+    alt: "Melbourne Bitcoin Ride"
+    title: "Melbourne Bitcoin Ride"
+  - url: /kaohsiung
+    image_path: /assets/images/homepage/10-kaohsiung-strava-640x480.jpeg
+    alt: "Kaohsiung Bitcoin Ride"
+    title: "Kaohsiung Bitcoin Ride"
 gallery_proposal:    
   - url: /oslo/
     image_path: /assets/images/homepage/oslo-sketch-proposal-640x480.png

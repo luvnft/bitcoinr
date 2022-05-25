@@ -63,6 +63,8 @@ Once a run is completed and accepted it is added to the [Bitcoin Runs Chain ₿ 
 "closed" for the chain.
 
 The chain contains has currently the following bitcoin runs in reverse order chronologically:
+- [Kaohsiung, Taiwan 🇹🇼](/kaohsiung)
+- [Melbourne, Victoria, Australia 🇦🇺](/melbourne)
 - [Kuantan, Malaysia 🇲🇾](/kuantan)
 - [Tsukubamirai, Ibaraki Pref. 🇯🇵](/tsukubamirai)
 - [Barcelona](/barcelona)
@@ -75,3 +77,12 @@ The chain contains has currently the following bitcoin runs in reverse order chr
 How fast can we make to 100 💪?
 
 {% include donate.html %}
+
+₿ 🚴 🇹🇼 - Kaohsiung
+#bitcoinruns has arrived for the 1st time in Taiwan 🎉, in the beautiful Kaohsiung City, thanks to the #gpsartist and #athlete @wang_gpsart 🙏 💪 💗
+
+Some pictures 📷 were taken to show us around👇👇
+
+https://www.bitcoinruns.org/kaohsiung/
+
+#gpsart #stravaart #stravaartist #gpsdrawing #gpsartistry #drawwithyourfeet #kaohsiung #taiwan #bitcoinart #bitcoinrunsphotography #cycling #bicycle #streetart #biker #strava #stravacycling #stravacyclingphotos #fitness #artist

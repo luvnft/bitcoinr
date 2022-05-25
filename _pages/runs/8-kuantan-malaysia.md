@@ -5,7 +5,7 @@ header:
   video:
     bitcoinrunzoomin : "/assets/images/runs/kuantan/video/8-kuantan-malaysia-zoomin-closer-1920x1080.m4v"
     poster: /assets/images/runs/kuantan/video/kuantan-screenshot-google-earth-1920x1080.jpeg
-  og_image: /assets/images/runs/barcelona/page/barcelona-strava-screenshot-1200x800.jpeg
+  og_image: /assets/images/runs/kuantan/page/strava-screenshot-with-author.jpeg
 permalink: /kuantan/
 author_profile: true
 author: Lunatique How

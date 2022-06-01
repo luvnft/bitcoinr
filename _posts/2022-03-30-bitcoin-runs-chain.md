@@ -5,31 +5,31 @@ excerpt: "Bitcoin Runs Chain ₿ 🏃‍♂️ 🔗 - chaining together bitcoin 
 header:
   image: /assets/images/chain/header-chain-tiles-2000x700.jpeg
   og_image: /assets/images/chain/header-chain-tiles-2000x700.jpeg
-permalink: /chain/
+permalink: /chain//
 ---
 
-The Bitcoin Runs are "chained" together chronologically.
-The current height of the Bitcoin Runs Chain is **8**.
-
-See the latest Bitcoin Runs Chain in the video below 👇
+The Bitcoin Runs are "chained" together chronologically. See the latest Bitcoin Runs Chain in the video below 👇👇
 
 ## Bitcoin Runs Chain - latest run [Kuantan 🇲🇾](/kuantan)
 
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/Ot6FNkBxBII?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/OBmT8Nr8pYo?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
+### More details to each run 👇👇
 
-### Previous runs
+- [11 - Bengaluru,India 🇮🇳](/kaohsiung)
+- [10 - Kaohsing,Taiwan 🇦🇺](/kaohsiung)
+- [9 - Melbourne,Australia 🇦🇺](/melbourne)
+- [8 - Kuantan,Malaysia 🇲🇾](/kuantan)
+- [7 - Tsukubamirai,Ibaraki Pref.,Japan 🇯🇵](/tsukubamirai)
+- [6 - Barcelona](/barcelona)
+- [5 - San Francisco,USA 🇺🇸 ](/san-francisco)
+- [4 - Lucerne,Switzerland 🇨🇭](/lucerne)
+- [3 - Bucharest,Romania 🇷🇴](/bucharest)
+- [2 - Câmpulung,Romania 🇷🇴](/campulung)
+- [Genesis Run - Bern,Switzerland 🇨🇭](/bern)
 
-- [7th Run -  Tsukubamirai, Ibaraki Pref., Japan 🇯🇵](/tsukubamirai)
-- [6th Run - Barcelona](/barcelona)
-- [5th Run - San Francisco, USA 🇺🇸 ](/san-francisco)
-- [4th Run - Lucerne, Switzerland 🇨🇭](/lucerne)
-- [3rd Run - Bucharest, Romania 🇷🇴](/bucharest)
-- [2nd Run - Câmpulung, Romania 🇷🇴](/campulung)
-- [Genesis Run - Bern, Switzerland 🇨🇭](/bern)
-
-> Care to have your location or same of the other [sketched Bitcoin Runs](/proposals) chained? 
-> Then [get in contact with us ✉️ 🙏](mailto:bitcoinruns@protonmail.com)
+> Care to have your location chained then [get in contact with us ✉️ 🙏](mailto:bitcoinruns@protonmail.com), so we can prepare a route
+> for you, or you can choose one of the already [sketched routes](/proposals)
 
 
 {% include donate.html %} 

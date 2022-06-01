@@ -5,7 +5,7 @@ date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.55"
-  overlay_image: /assets/images/chain/header-chain-tiles-2000x700.jpeg
+  overlay_image: /assets/images/homepage/word-map-bitcoin-runs.jpeg
   actions:
     - label: "Learn More"
       url: "/about/"
@@ -57,6 +57,14 @@ gallery_completed:
     image_path: /assets/images/homepage/10-kaohsiung-strava-640x480.jpeg
     alt: "Kaohsiung Bitcoin Ride"
     title: "Kaohsiung Bitcoin Ride"
+  - url: /kaohsiung
+    image_path: /assets/images/homepage/11-bengaluru-strava-640x480.jpeg
+    alt: "Bengaluru Bitcoin Ride"
+    title: "Bengaluru Bitcoin Ride"
+  - url: /assets/images/homepage/who-is-next-640x480.jpeg
+    image_path: /assets/images/homepage/who-is-next-640x480.jpeg
+    alt: "Next Bitcoin Run?"
+    title: "Next Bitcoin Run?"
 gallery_proposal:    
   - url: /oslo/
     image_path: /assets/images/homepage/oslo-sketch-proposal-640x480.png

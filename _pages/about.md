@@ -2,6 +2,9 @@
 layout: single
 title: About ₿ 🏃 
 permalink: /about/
+header:
+  image: /assets/images/about/word-map-bitcoin-runs.jpeg
+  og_image: /assets/images/about/word-map-bitcoin-runs.jpeg
 gallery:
   - url: /assets/images/about/berne-basemap-pace-1200x900.png
     image_path: /assets/images/about/berne-basemap-pace-600x450.png
@@ -40,7 +43,7 @@ Take pictures along the bitcoin runs
 
 #### 3. Accept crypto donations
 
-Tell us if your community accepts Bitcoin donations, and we will display the public address for the corresponding run
+Tell us if your community accepts Bitcoin donations, and we will display the public address on the corresponding run
 
 ## Join us 🙏 💪 
 
@@ -63,6 +66,7 @@ Once a run is completed and accepted it is added to the [Bitcoin Runs Chain ₿ 
 "closed" for the chain.
 
 The chain contains has currently the following bitcoin runs in reverse order chronologically:
+- [Bengaluru, India 🇮🇳](/bengaluru)
 - [Kaohsiung, Taiwan 🇹🇼](/kaohsiung)
 - [Melbourne, Victoria, Australia 🇦🇺](/melbourne)
 - [Kuantan, Malaysia 🇲🇾](/kuantan)
@@ -77,12 +81,3 @@ The chain contains has currently the following bitcoin runs in reverse order chr
 How fast can we make to 100 💪?
 
 {% include donate.html %}
-
-₿ 🚴 🇹🇼 - Kaohsiung
-#bitcoinruns has arrived for the 1st time in Taiwan 🎉, in the beautiful Kaohsiung City, thanks to the #gpsartist and #athlete @wang_gpsart 🙏 💪 💗
-
-Some pictures 📷 were taken to show us around👇👇
-
-https://www.bitcoinruns.org/kaohsiung/
-
-#gpsart #stravaart #stravaartist #gpsdrawing #gpsartistry #drawwithyourfeet #kaohsiung #taiwan #bitcoinart #bitcoinrunsphotography #cycling #bicycle #streetart #biker #strava #stravacycling #stravacyclingphotos #fitness #artist

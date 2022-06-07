@@ -76,3 +76,12 @@ ViKas RupaRelia:
     - label: "Strava"
       icon: "fab fa-fw fa-strava"
       url: "https://www.strava.com/athletes/4067179"
+
+Vuthinand️:
+  name        : "Vuthinand"
+  bio         : "Runner"
+  avatar      : "/assets/images/authors/vuthinand.png"
+  links:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/vuthinand/"

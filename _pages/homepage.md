@@ -57,7 +57,7 @@ gallery_completed:
     image_path: /assets/images/homepage/10-kaohsiung-strava-640x480.jpeg
     alt: "Kaohsiung Bitcoin Ride"
     title: "Kaohsiung Bitcoin Ride"
-  - url: /kaohsiung
+  - url: /bengaluru
     image_path: /assets/images/homepage/11-bengaluru-strava-640x480.jpeg
     alt: "Bengaluru Bitcoin Ride"
     title: "Bengaluru Bitcoin Ride"

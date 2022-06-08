@@ -96,6 +96,22 @@ This beautiful temple was built in 1846. This is a masterpiece built by the anci
 
 {% include gallery id="gallery_sights" caption="Streets of Bangkok 🇹🇭" %}
 
+{% include btc-runs-chain-video.html videoId="gMs7jAhgQbQ" %}
+
+### Previous runs
+
+- [11 Bengaluru 🇮🇳](/bengaluru)
+- [10 Koahsiung 🇹🇼](/kaohsiung)
+- [9 Melbourne 🇦🇺](/melbourne)
+- [8 Kuantan 🇲🇾](/kuantan)
+- [7 Tsukubamirai 🇯🇵](/tsukubamirai)
+- [6 Barcelona](/barcelona)
+- [5 San Francisco 🇺🇸](/san-francisco)
+- [4 Lucerne🇨🇭](/4-lucerne)
+- [3 Bucharest 🇷🇴](/3-bucharest)
+- [2 Campulung 🇷🇴](/2-campulung)
+- [1 Bern🇨🇭](/1-bern)
+
 {% include donate.html %}  
   
   

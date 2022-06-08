@@ -73,6 +73,20 @@ Wang also took some photos 📷 🙏 to show us around 👇
 
 {% include gallery id="gallery_sights" caption="₿ 🚴️ 📷 in Kaohsiung 🇹🇼" %}
 
+{% include btc-runs-chain-video.html videoId="z-dE1w_UtBM" %}
+
+### Previous runs
+
+- [9 Melbourne 🇦🇺](/melbourne)
+- [8 Kuantan 🇲🇾](/kuantan)
+- [7 Tsukubamirai 🇯🇵](/tsukubamirai)
+- [6 Barcelona](/barcelona)
+- [5 San Francisco 🇺🇸](/san-francisco)
+- [4 Lucerne🇨🇭](/4-lucerne)
+- [3 Bucharest 🇷🇴](/3-bucharest)
+- [2 Campulung 🇷🇴](/2-campulung)
+- [1 Bern🇨🇭](/1-bern)
+
 {% include donate.html %}  
   
   

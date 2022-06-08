@@ -29,6 +29,15 @@ Relive with Lenny the beautiful sights of the San Francisco area:
 
 <div class="embedly-responsive" style="position: relative;padding-bottom: 78.2227%;height: 0;overflow: hidden;"><iframe class="embedly-embed" frameborder="0" scrolling="no" allowfullscreen src="https://cdn.embedly.com/widgets/media.html?src=https://www.relive.cc/view/vmqXNNxERoO/widget?r=embed-site&url=https://www.relive.cc/view/vmqXNNxERoO?r=embed-site&image=https://www.relive.cc/view/vmqXNNxERoO/png?x-ref=embed-site&key=f1631a41cb254ca5b035dc5747a5bd75&type=text/html&schema=relive" width="1024" height="801" style="position: absolute;top: 0;left: 0;width: 100%;height: 100%;"></iframe></div>
 
+{% include btc-runs-chain-video.html videoId="nvPMvNeLan0" %}
+
+### Previous runs
+
+- [4 Lucerne🇨🇭](/4-lucerne)
+- [3 Bucharest 🇷🇴](/3-bucharest)
+- [2 Campulung 🇷🇴](/2-campulung)
+- [1 Bern🇨🇭](/1-bern)
+
 {% include donate.html %}  
   
   

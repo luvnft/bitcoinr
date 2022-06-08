@@ -245,6 +245,17 @@ Other resources about art, attractions and activities in Barcelona in the links 
 - [Barcelona.com](https://www.barcelona.com/)
 - [Barcelona Lowdown](https://barcelonalowdown.com/)
 
+
+{% include btc-runs-chain-video.html videoId="BOuQEHdw_8s" %}
+
+### Previous runs
+
+- [5 San Francisco 🇺🇸](/san-francisco)
+- [4 Lucerne🇨🇭](/4-lucerne)
+- [3 Bucharest 🇷🇴](/3-bucharest)
+- [2 Campulung 🇷🇴](/2-campulung)
+- [1 Bern🇨🇭](/1-bern)
+
 ## Donate to BCN GPS Art ️❤️🙏
 
 ### Bitcoin (BTC)

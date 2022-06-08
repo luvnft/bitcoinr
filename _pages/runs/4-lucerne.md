@@ -255,5 +255,13 @@ another of my visits to Lucerne:
 </figure>
 
 I hope you got a glimpse of how Lucerne is, but as always I recommend you pay a visit there by yourself. It's worth it. 
-  
+
+{% include btc-runs-chain-video.html videoId="U93zGmnqNQs" %}
+
+### Previous runs
+
+- [3 Bucharest 🇷🇴](/3-bucharest)
+- [2 Campulung 🇷🇴](/2-campulung)
+- [1 Bern🇨🇭](/1-bern)
+
 {% include donate.html %}  

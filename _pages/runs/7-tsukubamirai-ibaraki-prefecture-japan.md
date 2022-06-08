@@ -79,6 +79,17 @@ Tetsunori was very kind and took some pictures on the run in his favorite "runni
 
 <hr>
 
+{% include btc-runs-chain-video.html videoId="31nDKi2JeKE" %}
+
+### Previous runs
+
+- [6 Barcelona](/barcelona)
+- [5 San Francisco 🇺🇸](/san-francisco)
+- [4 Lucerne🇨🇭](/4-lucerne)
+- [3 Bucharest 🇷🇴](/3-bucharest)
+- [2 Campulung 🇷🇴](/2-campulung)
+- [1 Bern🇨🇭](/1-bern)
+- 
 {% include donate.html %}  
   
   

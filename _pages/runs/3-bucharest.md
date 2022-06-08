@@ -171,6 +171,13 @@ can buy bitcoins:
 
 All in all, Bucharest is definitely worth a run or visit - give it a try!
 
+{% include btc-runs-chain-video.html videoId="vYQWxYtXEFw" %}
+
+### Previous runs
+
+- [2 Campulung 🇷🇴](/2-campulung)
+- [1 Bern🇨🇭](/1-bern)
+
 {% include donate.html %}  
   
   

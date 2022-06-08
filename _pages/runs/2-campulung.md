@@ -223,5 +223,11 @@ Nearing the end of my bitcoin run I pass the last bridge, and I take a last pict
 
 This is probably the most emotional and to me the most valuable bitcoin. Câmpulung has still a lot of hidden gems, the cleanest
  air in Romania and I hope you want to discover it by now. 
-    
+
+{% include btc-runs-chain-video.html videoId="trncFYga7Pc" %}
+
+### Previous runs
+
+- [1 Bern🇨🇭](/bern)
+
 {% include donate.html %} 

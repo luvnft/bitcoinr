@@ -175,8 +175,8 @@ All in all, Bucharest is definitely worth a run or visit - give it a try!
 
 ### Previous runs
 
-- [2 Campulung 🇷🇴](/2-campulung)
-- [1 Bern🇨🇭](/1-bern)
+- [2 Campulung 🇷🇴](/campulung)
+- [1 Bern🇨🇭](/bern)
 
 {% include donate.html %}  
   

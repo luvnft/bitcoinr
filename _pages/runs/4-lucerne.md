@@ -260,8 +260,8 @@ I hope you got a glimpse of how Lucerne is, but as always I recommend you pay a 
 
 ### Previous runs
 
-- [3 Bucharest 🇷🇴](/3-bucharest)
-- [2 Campulung 🇷🇴](/2-campulung)
-- [1 Bern🇨🇭](/1-bern)
+- [3 Bucharest 🇷🇴](/bucharest)
+- [2 Campulung 🇷🇴](/campulung)
+- [1 Bern🇨🇭](/bern)
 
 {% include donate.html %}  

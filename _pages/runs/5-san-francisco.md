@@ -33,10 +33,10 @@ Relive with Lenny the beautiful sights of the San Francisco area:
 
 ### Previous runs
 
-- [4 Lucerne🇨🇭](/4-lucerne)
-- [3 Bucharest 🇷🇴](/3-bucharest)
-- [2 Campulung 🇷🇴](/2-campulung)
-- [1 Bern🇨🇭](/1-bern)
+- [4 Lucerne🇨🇭](/lucerne)
+- [3 Bucharest 🇷🇴](/bucharest)
+- [2 Campulung 🇷🇴](/campulung)
+- [1 Bern🇨🇭](/bern)
 
 {% include donate.html %}  
   

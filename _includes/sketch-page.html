@@ -1,10 +1,16 @@
-<hr>
-**Who is up for it 💪 🙏?**
+
 - [Get in contact with us ✉️](mailto:bitcoinruns@protonmail.com)
 - **Run, record, take pictures** 🏃‍♂ 🛰️ 📷
+{% if include.strava_url %}
+- Click on the picture below to see the exact [Strava Route]({{include.strava_url}}) 👇
+{% endif %}
 
 <figure class="image">
-  <a href="{{ include.sketch_image }}">
+  {% if include.strava_url And include.strava_url != "" And include.strava_url != nil %}
+    <a href="{{ include.strava_url }}">
+  {% else %}
+      <a href="{{ include.sketch_image }}">
+  {% endif %}
     <img src="{{ include.sketch_image }}" alt="{{ include.city }} Bitcoin Run Sketch">
   </a>
   <figcaption>Bitcoin Run Sketch - {{ include.city }}</figcaption>

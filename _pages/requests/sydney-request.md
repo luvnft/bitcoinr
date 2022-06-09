@@ -1,12 +1,12 @@
 ---
 layout: single
-title: Sydney Bitcoin Run Request ₿ 🏃‍♂️ 🇦🇺
+title: Sydney ₿ 🏃‍♂️ 🇦🇺 - Runner Wanted 
 header:
   og_image: /assets/images/runs/requests/sydney/sketch/sydney-sketch.jpg
 permalink: /sydney/
 ---
 
-{% include sketch-page.html city="Sydney" sketch_image="/assets/images/runs/requests/sydney/sketch/sydney-sketch.jpg" %} 
+{% include sketch-page.html city="Sydney" sketch_image="/assets/images/runs/requests/sydney/sketch/sydney-sketch.jpg" strava_url="https://www.strava.com/routes/2969844639468681472" %} 
 
 
 {% include donate.html %}  

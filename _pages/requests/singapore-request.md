@@ -1,13 +1,12 @@
 ---
 layout: single
-title: Singapore Bitcoin Run Request ₿ 🏃‍♂️
+title: Singapore ₿ 🏃‍♂️ - Runner Wanted
 header:
-  image: /assets/images/runs/singapore/header/singapore-background-header-2048x450.jpeg
-  og_image: /assets/images/runs/singapore/sketch/singapore-brun-sketch-1200x900.png
+  og_image: /assets/images/runs/singapore/sketch/singapore-brun-sketch.jpeg
 permalink: /singapore/
 ---
 
-{% include sketch-page.html city="Singapore" sketch_image="/assets/images/runs/singapore/sketch/singapore-brun-sketch-1200x900.png" %} 
+{% include sketch-page.html city="Singapore" sketch_image="/assets/images/runs/singapore/sketch/singapore-brun-sketch.jpeg" strava_url="https://www.strava.com/routes/2961297023163230520" %} 
  
 {% include donate.html %}  
   

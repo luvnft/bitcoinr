@@ -46,7 +46,7 @@ gallery:
     alt: "Sibiu Bitcoin run sketch"
     title: "Sibiu Bitcoin run sketch"
   - url: /singapore/
-    image_path: /assets/images/runs/singapore/sketch/singapore-brun-sketch-1200x900.png
+    image_path: /assets/images/runs/singapore/sketch/singapore-brun-sketch.jpeg
     alt: "Singapore Bitcoin run sketch"
     title: "Singapore Bitcoin run sketch"
   - url: /sydney/

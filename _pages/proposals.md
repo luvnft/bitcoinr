@@ -6,7 +6,7 @@ image: /assets/images/proposals/proposals-background-header-2048x450.jpeg
 og_image: /assets/images/proposals/proposals-background-header-2048x900.png
 gallery:
   - url: /johannesburg/
-    image_path: /assets/images/runs/johannesburg/sketch/johannesburg-sketch-overlay-1600x1096.jpeg
+    image_path: /assets/images/runs/johannesburg/sketch/johannesburg-sketch.jpeg
     alt: "Johannesburg"
     title: "Johannesburg Bitcoin Run Sketch"
   - url: /los-angeles/hollywood/
@@ -14,7 +14,7 @@ gallery:
     alt: "Hollywood L.A. sketch"
     title: "Hollywood L.A. Bitcoin Run Sketch"
   - url: /london/
-    image_path: /assets/images/runs/london/sketch/london-sketch-proposal-1200x900.png
+    image_path: /assets/images/runs/london/sketch/london-brun-sketch.jpeg
     alt: "London Bitcoin run sketch"
     title: "London Bitcoin run sketch"
   - url: /miami/

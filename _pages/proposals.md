@@ -22,7 +22,7 @@ gallery:
     alt: "Miami Bitcoin run sketch"
     title: "Miami Bitcoin Run Sketch"
   - url: /new-york/
-    image_path: /assets/images/runs/new-york/sketch/new-york-sketch-manhattan-central-park-1600x1195.jpeg
+    image_path: /assets/images/runs/new-york/sketch/new-york-sketch-manhattan-central-park.jpeg
     alt: "New York City Bitcoin run sketch"
     title: "New York City Bitcoin run sketch"
   - url: /oslo/

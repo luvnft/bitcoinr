@@ -2,7 +2,10 @@
 - [Get in contact with us ✉️](mailto:bitcoinruns@protonmail.com)
 - **Run, record, take pictures** 🏃‍♂ 🛰️ 📷
 {% if include.strava_url %}
-- Click on the picture below to see the [Strava Route]({{include.strava_url}}) and export the .gpx file 👇
+- Click on the picture below to see the [Strava Route]({{include.strava_url}}) 👇
+{% endif %}
+{% if include.gpx_file %}
+- [Gpx file 📁]({{include.gpx_file}})
 {% endif %}
 
 <figure class="image">

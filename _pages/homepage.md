@@ -26,7 +26,7 @@ gallery_completed:
     alt: "Campulung Bitcoin Run"
     title: "Campulung Bitcoin Run"
   - url: /bucharest
-    image_path: /assets/images/homepage/bucharest-basemap-overlay-640x480.jpeg
+    image_path: /assets/images/homepage/bucharest-strava-standard-overlay-640x480.jpeg
     alt: "Bucharest Bitcoin Run"
     title: "Bucharest Bitcoin Run"
   - url: /lucerne/
@@ -61,10 +61,10 @@ gallery_completed:
     image_path: /assets/images/homepage/11-bengaluru-strava-640x480.jpeg
     alt: "Bengaluru Bitcoin Ride"
     title: "Bengaluru Bitcoin Ride"
-  - url: /assets/images/homepage/who-is-next-640x480.jpeg
-    image_path: /assets/images/homepage/who-is-next-640x480.jpeg
-    alt: "Next Bitcoin Run?"
-    title: "Next Bitcoin Run?"
+  - url: /bangkok
+    image_path: /assets/images/homepage/12-bangkok-strava-640x480.jpeg
+    alt: "Bangkok Bitcoin Run"
+    title: "Bangkok Bitcoin Run"
 gallery_proposal:    
   - url: /oslo/
     image_path: /assets/images/homepage/oslo-sketch-proposal-640x480.png

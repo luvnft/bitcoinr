@@ -32,6 +32,8 @@ gallery_sights:
 Bitcoin Runs has reached for the first time Thailand 🇹🇭 🎉, in the beautiful [Bangkok](https://en.wikipedia.org/wiki/Bangkok),
 thanks to the athlete and [gps artist](https://www.instagram.com/vuthinand/) **Vuthinand** 💪 👏 🙏  
 
+Check out his effort 👇:
+
 <figure class="image">
   <a href="/assets/images/runs/bangkok/page/strava-standard-1200x800.png" target="_blank">
     <img src="/assets/images/runs/bangkok/page/strava-standard-1200x800.png" alt="Bangkok Bitcoin Ride Strava ₿ 🏃🏿‍♂️ 🇹🇭">
@@ -95,6 +97,12 @@ This beautiful temple was built in 1846. This is a masterpiece built by the anci
 ### Streets of Bangkok
 
 {% include gallery id="gallery_sights" caption="Streets of Bangkok 🇹🇭" %}
+
+## Links
+
+Vuthinand also recommended a few links with places to visit while you are in Bangkok:
+- [24 Must-Visit Attractions in Bangkok](https://theculturetrip.com/asia/thailand/articles/20-must-visit-attractions-bangkok/)
+- [Tourism Thailand - Bangkok](https://www.tourismthailand.org/Destinations/Provinces/Bangkok/219)
 
 {% include btc-runs-chain-video.html videoId="gMs7jAhgQbQ" %}
 

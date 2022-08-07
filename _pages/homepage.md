@@ -10,8 +10,8 @@ header:
     - label: "Learn More"
       url: "/about/"
   caption: "[Bitcoin Runs Chain ₿ 🏃‍♂️ 🔗](/chain/)"
-tagline: "Up 📈, down 📉, faster 🚀, slower 🐌 - you know, the usual ₿itcoin Runs minted by our effort (💓 🏃 🚴) on the world map,
- [chained](/chain/) chronologically to promote ₿itcoin, exercise and local communities. &nbsp; [Memes](/memes/) are just for fun 🤪."
+tagline: "#bitcoinruns #gpsart #community minting and [chaining](/chain/) bitcoins on the world map ₿ 🏃 🚴 💓 🌍
+  &nbsp; [#memes](/memes/) are just for fun 🤪."
 excerpt: "Drawing ₿itcoins on World Map, one run at a time ₿ 🏃 🚴 💓"
 feature_row:
 intro: 

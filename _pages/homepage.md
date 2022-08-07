@@ -17,54 +17,58 @@ feature_row:
 intro: 
   - excerpt: 'Get connected [<i class="fab fa-fw fa-instagram"></i>](https://www.instagram.com/BitcoinRuns) [<i class="fab fa-fw fa-strava"></i>](https://www.strava.com/clubs/bitcoinruns) [<i class="fab fa-fw fa-github"></i>](https://github.com/BitcoinRuns) [<i class="fab fa-fw fa-twitter-square"></i>](https://twitter.com/BitcoinRuns) [<i class="fab fa-youtube"></i>](https://www.youtube.com/channel/UCDGX_yT8K6-oAgGldr8xDWw) '
 gallery_completed:
-  - url: /bern/
-    image_path: /assets/images/homepage/berne-basemap-640x480.jpeg
-    alt: "Bern Bitcoin run"
-    title: "Bern Bitcoin run"
-  - url: /campulung
-    image_path: /assets/images/homepage/campulung-basemap-640x480.jpeg
-    alt: "Campulung Bitcoin Run"
-    title: "Campulung Bitcoin Run"
-  - url: /bucharest
-    image_path: /assets/images/homepage/bucharest-strava-standard-overlay-640x480.jpeg
-    alt: "Bucharest Bitcoin Run"
-    title: "Bucharest Bitcoin Run"
-  - url: /lucerne/
-    image_path: /assets/images/homepage/lucerne-basemap-640x480.jpeg
-    alt: "Lucerne Bitcoin run"
-    title: "Lucerne Bitcoin run"
-  - url: /san-francisco/
-    image_path: /assets/images/homepage/san-francisco-strava-overlay-640x480.jpeg
-    alt: "San Francisco Bitcoin run"
-    title: "San Francisco Bitcoin run"
-  - url: /barcelona/
-    image_path: /assets/images/homepage/barcelona-strava-640x480.jpeg
-    alt: "Barcelona Bitcoin Run"
-    title: "Barcelona Bitcoin Run"
-  - url: /tsukubamirai/
-    image_path: /assets/images/homepage/7-tsukubamirai-runapp-640x480.jpeg
-    alt: "Tsukubamirai Bitcoin Run"
-    title: "Tsukubamirai Bitcoin Run"
-  - url: /kuantan/
-    image_path: /assets/images/homepage/8-kuantan-strava-640x480.jpeg
-    alt: "Kuantan Bitcoin Run"
-    title: "Kuantan Bitcoin Run"
-  - url: /melbourne
-    image_path: /assets/images/homepage/9-melbourne-strava-640x480.jpeg
-    alt: "Melbourne Bitcoin Ride"
-    title: "Melbourne Bitcoin Ride"
-  - url: /kaohsiung
-    image_path: /assets/images/homepage/10-kaohsiung-strava-640x480.jpeg
-    alt: "Kaohsiung Bitcoin Ride"
-    title: "Kaohsiung Bitcoin Ride"
-  - url: /bengaluru
-    image_path: /assets/images/homepage/11-bengaluru-strava-640x480.jpeg
-    alt: "Bengaluru Bitcoin Ride"
-    title: "Bengaluru Bitcoin Ride"
+  - url: /sardinia/water-walks
+    image_path: /assets/images/homepage/flag-of-sardinia-bitcoin-walks-640x480.jpeg
+    alt: "Bitcoin Water walks in Sardinia, Italy"
+    title: "Bitcoin Water walks in Sardinia, Italy"
   - url: /bangkok
     image_path: /assets/images/homepage/12-bangkok-strava-640x480.jpeg
     alt: "Bangkok Bitcoin Run"
     title: "Bangkok Bitcoin Run"
+  - url: /bengaluru
+    image_path: /assets/images/homepage/11-bengaluru-strava-640x480.jpeg
+    alt: "Bengaluru Bitcoin Ride"
+    title: "Bengaluru Bitcoin Ride"
+  - url: /kaohsiung
+    image_path: /assets/images/homepage/10-kaohsiung-strava-640x480.jpeg
+    alt: "Kaohsiung Bitcoin Ride"
+    title: "Kaohsiung Bitcoin Ride"
+  - url: /melbourne
+    image_path: /assets/images/homepage/9-melbourne-strava-640x480.jpeg
+    alt: "Melbourne Bitcoin Ride"
+    title: "Melbourne Bitcoin Ride"
+  - url: /kuantan/
+    image_path: /assets/images/homepage/8-kuantan-strava-640x480.jpeg
+    alt: "Kuantan Bitcoin Run"
+    title: "Kuantan Bitcoin Run"
+  - url: /tsukubamirai/
+    image_path: /assets/images/homepage/7-tsukubamirai-runapp-640x480.jpeg
+    alt: "Tsukubamirai Bitcoin Run"
+    title: "Tsukubamirai Bitcoin Run"
+  - url: /barcelona/
+    image_path: /assets/images/homepage/barcelona-strava-640x480.jpeg
+    alt: "Barcelona Bitcoin Run"
+    title: "Barcelona Bitcoin Run"
+  - url: /san-francisco/
+    image_path: /assets/images/homepage/san-francisco-strava-overlay-640x480.jpeg
+    alt: "San Francisco Bitcoin run"
+    title: "San Francisco Bitcoin run"
+  - url: /lucerne/
+    image_path: /assets/images/homepage/lucerne-basemap-640x480.jpeg
+    alt: "Lucerne Bitcoin run"
+    title: "Lucerne Bitcoin run"
+  - url: /bucharest
+    image_path: /assets/images/homepage/bucharest-strava-standard-overlay-640x480.jpeg
+    alt: "Bucharest Bitcoin Run"
+    title: "Bucharest Bitcoin Run"
+  - url: /campulung
+    image_path: /assets/images/homepage/campulung-basemap-640x480.jpeg
+    alt: "Campulung Bitcoin Run"
+    title: "Campulung Bitcoin Run"
+  - url: /bern/
+    image_path: /assets/images/homepage/berne-basemap-640x480.jpeg
+    alt: "Bern Bitcoin run"
+    title: "Bern Bitcoin run"
 gallery_proposal:    
   - url: /oslo/
     image_path: /assets/images/homepage/oslo-sketch-proposal-640x480.png

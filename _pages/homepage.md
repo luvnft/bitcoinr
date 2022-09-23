@@ -17,6 +17,10 @@ feature_row:
 intro: 
   - excerpt: 'Get connected [<i class="fab fa-fw fa-instagram"></i>](https://www.instagram.com/BitcoinRuns) [<i class="fab fa-fw fa-strava"></i>](https://www.strava.com/clubs/bitcoinruns) [<i class="fab fa-fw fa-github"></i>](https://github.com/BitcoinRuns) [<i class="fab fa-fw fa-twitter-square"></i>](https://twitter.com/BitcoinRuns) [<i class="fab fa-youtube"></i>](https://www.youtube.com/channel/UCDGX_yT8K6-oAgGldr8xDWw) '
 gallery_completed:
+  - url: /zuerich/
+    image_path: /assets/images/homepage/13-zuerich-strava-640x480.jpeg
+    alt: "Zürich Bitcoin Run"
+    title: "Zürich Bitcoin Run"
   - url: /sardinia/water-walks
     image_path: /assets/images/homepage/flag-of-sardinia-bitcoin-walks-640x480.jpeg
     alt: "Bitcoin Water walks in Sardinia, Italy"
@@ -69,6 +73,10 @@ gallery_completed:
     image_path: /assets/images/homepage/berne-basemap-640x480.jpeg
     alt: "Bern Bitcoin run"
     title: "Bern Bitcoin run"
+  - url: /assets/images/homepage/who-is-next-640x480.jpeg
+    image_path: /assets/images/homepage/who-is-next-640x480.jpeg
+    alt: "Next Bitcoin Run?"
+    title: "Next Bitcoin Run?"
 gallery_proposal:    
   - url: /oslo/
     image_path: /assets/images/homepage/oslo-sketch-proposal-640x480.png
@@ -81,7 +89,7 @@ gallery_proposal:
   - url: /sibiu/
     image_path: /assets/images/homepage/sibiu-sketch-proposal-640x480.png
     alt: "Sibiu Bitcoin Run"
-    title: "Sibiu Bitcoin Run"  
+    title: "Sibiu Bitcoin Run"
 ---
 
 <div id="home-social-connect" style="font-size:2em">

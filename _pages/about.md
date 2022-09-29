@@ -24,8 +24,8 @@ Raise awareness about Bitcoin ₿, exercise benefits 💗 and promote local comm
 
 #### 1. Gps Art 🖌️ ₿ 🗺️
 
-We make #GpsArt by foot or bike in the form Bitcoin shapes. 
-Our pace (🏃) and heart beat (💓) might give the colors of the runs:
+We make #GpsArt in the form Bitcoin shapes. 
+Our pace (🏃) and heart beat (💓) may give the colors of the runs:
  
   <p>
     <a href="/assets/images/runs/intensity-scale.png">
@@ -66,6 +66,8 @@ Once a run is completed and accepted it is added to the [Bitcoin Runs Chain ₿ 
 "closed" for the chain.
 
 The chain contains has currently the following bitcoin runs in reverse order chronologically:
+- [Zürich, Switzerland 🇨🇭](/zuerich)
+- [Bangkok, Thailand 🇹🇭](/bangkok)
 - [Bengaluru, India 🇮🇳](/bengaluru)
 - [Kaohsiung, Taiwan 🇹🇼](/kaohsiung)
 - [Melbourne, Victoria, Australia 🇦🇺](/melbourne)

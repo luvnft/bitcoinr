@@ -9,7 +9,6 @@ header:
   og_image: /assets/images/runs/grand-rapids/social/13-grand-rapids-google-earth-screenshot.jpeg
 permalink: /grand-rapids/
 date: 2022-09-03
-author_profile: true
 ---
 
 Second bitcoin run in the USA 🇺🇸, was run in the beautiful city of [Grand Rapids, Michigan](https://www.grandrapidsmi.gov/Home).
@@ -29,7 +28,7 @@ It is the first duo bitcoin run, thanks to the athletes Charles Zou and Steph An
   <figcaption>Grand Rapids Bitcoin Run - Charles</figcaption>
 </figure> 
 
-### Download Bitcoin Run Track for Grand Rapids, Michigan ⬇
+### Download Bitcoin Run Track for Grand Rapids, Mi ⬇
 
 {% include download-gpx.html url="https://www.strava.com/routes/2947578030289013182" gpx_file="/assets/images/runs/grand-rapids/gpx/bitcoin-run-grand-rapids-mi-usa.gpx" tcx_file="/assets/images/runs/grand-rapids/gpx/bitcoin-run-grand-rapids-mi-usa.tcx" %}
 

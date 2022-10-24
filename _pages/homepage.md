@@ -5,7 +5,7 @@ date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.55"
-  overlay_image: /assets/images/homepage/word-map-bitcoin-runs.jpeg
+  overlay_image: /assets/images/homepage/world-map-bitcoin-runs-14-zuerich-2078x1166.jpeg
   actions:
     - label: "Learn More"
       url: "/about/"
@@ -15,12 +15,16 @@ tagline: "#bitcoinruns #gpsart #community minting and [chaining](/chain/) bitcoi
 excerpt: "Drawing ₿itcoins on World Map, one run at a time ₿ 🏃 🚴 💓"
 feature_row:
 intro: 
-  - excerpt: 'Get connected [<i class="fab fa-fw fa-instagram"></i>](https://www.instagram.com/BitcoinRuns) [<i class="fab fa-fw fa-strava"></i>](https://www.strava.com/clubs/bitcoinruns) [<i class="fab fa-fw fa-github"></i>](https://github.com/BitcoinRuns) [<i class="fab fa-fw fa-twitter-square"></i>](https://twitter.com/BitcoinRuns) [<i class="fab fa-youtube"></i>](https://www.youtube.com/channel/UCDGX_yT8K6-oAgGldr8xDWw) '
+  - excerpt: 'Get connected [<i class="fab fa-fw fa-strava"></i>](https://www.strava.com/clubs/bitcoinruns) [<i class="fab fa-fw fa-instagram"></i>](https://www.instagram.com/BitcoinRuns) [<i class="fab fa-fw fa-github"></i>](https://github.com/BitcoinRuns) [<i class="fab fa-fw fa-twitter-square"></i>](https://twitter.com/BitcoinRuns) [<i class="fab fa-youtube"></i>](https://www.youtube.com/channel/UCDGX_yT8K6-oAgGldr8xDWw)  [<i class="fab fa-tiktok"></i>](https://www.tiktok.com/@bitcoinruns)'
 gallery_completed:
   - url: /zuerich/
     image_path: /assets/images/homepage/13-zuerich-strava-640x480.jpeg
     alt: "Zürich Bitcoin Run"
     title: "Zürich Bitcoin Run"
+  - url: /grand-rapids/
+    image_path: /assets/images/homepage/13-grand-rapids-strava-640x480.jpeg
+    alt: "Grand Rapids, MI Bitcoin Run"
+    title: "Grand Rapids, MI Bitcoin Run"
   - url: /sardinia/water-walks
     image_path: /assets/images/homepage/flag-of-sardinia-bitcoin-walks-640x480.jpeg
     alt: "Bitcoin Water walks in Sardinia, Italy"
@@ -73,10 +77,6 @@ gallery_completed:
     image_path: /assets/images/homepage/berne-basemap-640x480.jpeg
     alt: "Bern Bitcoin run"
     title: "Bern Bitcoin run"
-  - url: /assets/images/homepage/who-is-next-640x480.jpeg
-    image_path: /assets/images/homepage/who-is-next-640x480.jpeg
-    alt: "Next Bitcoin Run?"
-    title: "Next Bitcoin Run?"
 gallery_proposal:    
   - url: /oslo/
     image_path: /assets/images/homepage/oslo-sketch-proposal-640x480.png

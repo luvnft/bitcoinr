@@ -206,6 +206,9 @@ abducted and taken to Mount Olympus."[^8]
   <figcaption>Back to train main station</figcaption>
 </figure>
 
+
+{% include btc-runs-chain-video.html videoId="wfQibnv3yI0" %}
+
 ### Previous runs
 
 - [12 Bangkok️ 🇹🇭](/bangkok)

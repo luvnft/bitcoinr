@@ -10,19 +10,22 @@ permalink: /chain//
 
 The Bitcoin Runs are "chained" together chronologically. See the latest Bitcoin Runs Chain in the video below 👇👇
 
-## Bitcoin Runs Chain - latest run [Kuantan 🇲🇾](/kuantan)
+## Bitcoin Runs Chain - latest run [Zürich 🇨🇭](/zuerich)
 
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/OBmT8Nr8pYo?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/wfQibnv3yI0?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ### More details to each run 👇👇
 
-- [11 - Bengaluru,India 🇮🇳](/kaohsiung)
+- [14 - Zürich,Switzerland 🇨🇭](/zuerich)
+- [13 - Grand Rapids,USA 🇺🇸](/grand-rapids)
+- [12 - Bangkok,Thailand 🇹🇭](/bangkok)
+- [11 - Bengaluru,India 🇮🇳](/bengaluru)
 - [10 - Kaohsing,Taiwan 🇦🇺](/kaohsiung)
 - [9 - Melbourne,Australia 🇦🇺](/melbourne)
 - [8 - Kuantan,Malaysia 🇲🇾](/kuantan)
 - [7 - Tsukubamirai,Ibaraki Pref.,Japan 🇯🇵](/tsukubamirai)
 - [6 - Barcelona](/barcelona)
-- [5 - San Francisco,USA 🇺🇸 ](/san-francisco)
+- [5 - San Francisco,USA 🇺🇸](/san-francisco)
 - [4 - Lucerne,Switzerland 🇨🇭](/lucerne)
 - [3 - Bucharest,Romania 🇷🇴](/bucharest)
 - [2 - Câmpulung,Romania 🇷🇴](/campulung)

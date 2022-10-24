@@ -33,6 +33,8 @@ It is the first duo bitcoin run, thanks to the athletes Charles Zou and Steph An
 {% include download-gpx.html url="https://www.strava.com/routes/2947578030289013182" gpx_file="/assets/images/runs/grand-rapids/gpx/bitcoin-run-grand-rapids-mi-usa.gpx" tcx_file="/assets/images/runs/grand-rapids/gpx/bitcoin-run-grand-rapids-mi-usa.tcx" %}
 
 
+{% include btc-runs-chain-video.html videoId="hB2KOm3zMYw" %}
+
 ### Previous runs
 
 - [12 Bangkok️ 🇹🇭](/bangkok)

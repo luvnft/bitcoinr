@@ -211,6 +211,7 @@ abducted and taken to Mount Olympus."[^8]
 
 ### Previous runs
 
+- [13 Grand Rapids️ 🇺🇸](/grand-rapids)
 - [12 Bangkok️ 🇹🇭](/bangkok)
 - [11 Bengaluru 🇮🇳](/bengaluru)
 - [10 Koahsiung 🇹🇼](/kaohsiung)

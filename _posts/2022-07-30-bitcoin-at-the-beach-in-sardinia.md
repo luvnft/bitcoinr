@@ -6,6 +6,7 @@ header:
   image: /assets/images/blog/sardinia-bitcoin-beach-walks-in-water/bitcoinruns-sardinia-beaches-header.jpeg
   og_image: /assets/images/blog/sardinia-bitcoin-beach-walks-in-water/bitcoinruns-sardinia-beaches-header.jpeg
 permalink: /sardinia/water-walks
+post_thumbnail: /assets/images/blog/sardinia-bitcoin-beach-walks-in-water/sardinia-flag-with-bitcoin-walks-square.jpeg
 gallery_entry:
 - url: /assets/images/blog/sardinia-bitcoin-beach-walks-in-water/sardinia-flag-with-bitcoin-walks-square.jpeg
   image_path: /assets/images/blog/sardinia-bitcoin-beach-walks-in-water/sardinia-flag-with-bitcoin-walks-square.jpeg

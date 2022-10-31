@@ -14,7 +14,7 @@ Fourteen years ago the [Bitcoin White Paper](https://bitcoin.org/bitcoin.pdf) wa
 
 <figure class="image">
   <a href="/assets/images/blog/happy-14th-birthday-bitcoin/email-screenshot-31-october-2008.jpeg">
-    <img src="/assets/images/blog/happy-14th-birthday-bitcoin/email-screenshot-31-october-2008.png" alt="Bitcoin Publishing Email 31 October 2008">
+    <img src="/assets/images/blog/happy-14th-birthday-bitcoin/email-screenshot-31-october-2008.jpeg" alt="Bitcoin Publishing Email 31 October 2008">
   </a>
   <figcaption>Bitcoin Publishing Email 31 October 2008</figcaption>
 </figure>

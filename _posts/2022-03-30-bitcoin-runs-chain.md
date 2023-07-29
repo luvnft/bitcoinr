@@ -5,7 +5,7 @@ excerpt: "Bitcoin Runs Chain ₿ 🏃‍♂️ 🔗 - chaining together bitcoin 
 header:
   image: /assets/images/chain/header-chain-tiles-2000x700.jpeg
   og_image: /assets/images/chain/header-chain-tiles-2000x700.jpeg
-permalink: /chain//
+permalink: /chain/
 ---
 
 The Bitcoin Runs are "chained" together chronologically. See the latest Bitcoin Runs Chain in the video below 👇👇

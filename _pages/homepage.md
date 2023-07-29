@@ -10,15 +10,23 @@ header:
     - label: "Learn More"
       url: "/about/"
   caption: "[Bitcoin Runs Chain ₿ 🏃‍♂️ 🔗](/chain/)"
-tagline: "#bitcoinruns #gpsart #community minting and [chaining](/chain/) bitcoins on the world map ₿ 🏃 🚴 💓 🌍
-  &nbsp; [#memes](/memes/) are just for fun 🤪."
+tagline: "#bitcoinruns #gpsart minting bitcoins on the world map ₿ 🏃 🚴 💓 🌍 - **bitcoinruns@proton.me**
+  &nbsp; [#memes](/memes/) are just for fun 🤪"
 excerpt: "Drawing ₿itcoins on World Map, one run at a time ₿ 🏃 🚴 💓"
 feature_row:
 intro: 
   - excerpt: 'Get connected [<i class="fab fa-fw fa-strava"></i>](https://www.strava.com/clubs/bitcoinruns) [<i class="fab fa-fw fa-instagram"></i>](https://www.instagram.com/BitcoinRuns) [<i class="fab fa-fw fa-github"></i>](https://github.com/BitcoinRuns) [<i class="fab fa-fw fa-twitter-square"></i>](https://twitter.com/BitcoinRuns) [<i class="fab fa-youtube"></i>](https://www.youtube.com/channel/UCDGX_yT8K6-oAgGldr8xDWw)  [<i class="fab fa-tiktok"></i>](https://www.tiktok.com/@bitcoinruns)'
 gallery_completed:
+  - url: /basel/
+    image_path: /assets/images/homepage/18-basel-strava-640x480.jpeg
+    alt: "Basel Bitcoin Run"
+    title: "Basel Bitcoin Run"
+  - url: /north-sydney/
+    image_path: /assets/images/homepage/15-north-sydney-strava-640x480.jpeg
+    alt: "Sydney Bitcoin Run"
+    title: "Sydney Bitcoin Run"
   - url: /zuerich/
-    image_path: /assets/images/homepage/13-zuerich-strava-640x480.jpeg
+    image_path: /assets/images/homepage/14-zuerich-strava-640x480.jpeg
     alt: "Zürich Bitcoin Run"
     title: "Zürich Bitcoin Run"
   - url: /grand-rapids/

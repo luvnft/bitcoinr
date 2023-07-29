@@ -66,6 +66,7 @@ Once a run is completed and accepted it is added to the [Bitcoin Runs Chain ₿ 
 "closed" for the chain.
 
 The chain contains has currently the following bitcoin runs in reverse order chronologically:
+- [North Sydney, Australia 🇦🇺](/north-sydney)
 - [Zürich, Switzerland 🇨🇭](/zuerich)
 - [Bangkok, Thailand 🇹🇭](/bangkok)
 - [Bengaluru, India 🇮🇳](/bengaluru)

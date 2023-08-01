@@ -1,5 +1,5 @@
 ---
-title: Sydney Bitcoin Ride ₿ 🚴️ 🇦🇺
+title: Sydney Bitcoin Run ₿ 🏃‍♂ 🇦🇺
 layout: single
 header:
   video:
@@ -21,9 +21,9 @@ Check out his effort on Strava 👇:
 
 <figure class="image">
   <a href="https://www.strava.com/activities/8221225103" target="_blank">
-    <img src="/assets/images/runs/15-north-sydney/page/north-sydney-author-strava-1280x960.jpeg" alt="Sydeny Bitcoin Run Strava ₿ 🏃🏿‍♂️ 🇦🇺">
+    <img src="/assets/images/runs/15-north-sydney/page/north-sydney-author-strava-1280x960.jpeg" alt="North Sydney Bitcoin Run Strava ₿ 🏃🏿‍♂️ 🇦🇺">
   </a>
-  <figcaption>Sydney Bitcoin Ride Strava ₿ 🏃🏿‍♂ 🇦🇺</figcaption>
+  <figcaption>North Sydney Bitcoin Run Strava ₿ 🏃🏿‍♂ 🇦🇺</figcaption>
 </figure>
 
 <hr>

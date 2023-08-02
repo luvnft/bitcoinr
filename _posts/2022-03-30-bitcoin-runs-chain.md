@@ -10,9 +10,9 @@ permalink: /chain/
 
 The Bitcoin Runs are "chained" together chronologically. See the latest Bitcoin Runs Chain in the video below 👇👇
 
-## Bitcoin Runs Chain - latest run [Zürich 🇨🇭](/zuerich)
+## Bitcoin Runs Chain - latest run [North Sydney, Australia 🇦🇺](/north-sydney)
 
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/wfQibnv3yI0?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/-udaGxS268Q?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ### More details to each run 👇👇
 

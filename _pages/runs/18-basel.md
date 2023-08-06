@@ -210,6 +210,11 @@ abducted and taken to Mount Olympus."[^8]
 
 ### Previous runs
 
+
+- [16 Mahon, Menorca 🇪🇸](/mahon)
+- [16 Son Bou, Menorca 🇪🇸](/son-bou)
+- [15 North Sydney 🇦🇺](/north-sydney)
+- [14 Zürich 🇨🇭](/zuerich)
 - [13 Grand Rapids️ 🇺🇸](/grand-rapids)
 - [12 Bangkok️ 🇹🇭](/bangkok)
 - [11 Bengaluru 🇮🇳](/bengaluru)

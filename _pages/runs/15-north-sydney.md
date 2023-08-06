@@ -1,6 +1,8 @@
 ---
-title: Sydney Bitcoin Run ₿ 🏃‍♂ 🇦🇺
+title: North Sydney Bitcoin Run ₿ 🏃‍♂ 🇦🇺
 layout: single
+excerpt: "Second Run in Australia this time in North Sydney, thanks to the athlete Peter H 💪👏🙏. Follow the 
+ strava link to see his effort."
 header:
   video:
     bitcoinrunzoomin : "/assets/images/runs/15-north-sydney/video/15-north-sydney-zoomin-medium-1920x1080.m4v"

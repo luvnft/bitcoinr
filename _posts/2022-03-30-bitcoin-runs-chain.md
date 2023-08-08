@@ -10,12 +10,14 @@ permalink: /chain/
 
 The Bitcoin Runs are "chained" together chronologically. See the latest Bitcoin Runs Chain in the video below 👇👇
 
-## Bitcoin Runs Chain - latest run [North Sydney, Australia 🇦🇺](/north-sydney)
+## Bitcoin Runs Chain - latest run [Mahon, Menorca 🇪🇸](/north-sydney)
 
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/-udaGxS268Q?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/UO1q20MIEho?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ### More details to each run 👇👇
 
+- [17 Mahon, Menorca 🇪🇸](/mahon)
+- [16 Son Bou, Menorca 🇪🇸](/son-bou)
 - [15 - North Sydney, Australia 🇦🇺](/north-sydney)
 - [14 - Zürich,Switzerland 🇨🇭](/zuerich)
 - [13 - Grand Rapids,USA 🇺🇸](/grand-rapids)

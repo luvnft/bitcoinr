@@ -10,13 +10,17 @@ header:
     - label: "Learn More"
       url: "/about/"
   caption: "[Bitcoin Runs Chain ₿ 🏃‍♂️ 🔗](/chain/)"
-tagline: "#bitcoinruns #gpsart minting bitcoins on the world map ₿ 🏃 🚴 💓 🌍 - **bitcoinruns@proton.me**
+tagline: "#bitcoinruns #gpsart ₿ 🏃 🚴 💓 🛰️ 🌍 - **bitcoinruns@proton.me**
   &nbsp; [#memes](/memes/) are just for fun 🤪"
-excerpt: "Drawing ₿itcoins on World Map, one run at a time ₿ 🏃 🚴 💓"
+excerpt: "Minting ₿itcoins on the World Map, one run at a time ₿ 🏃 🚴 💓 🛰️"
 feature_row:
 intro: 
   - excerpt: 'Get connected [<i class="fab fa-fw fa-strava"></i>](https://www.strava.com/clubs/bitcoinruns) [<i class="fab fa-fw fa-instagram"></i>](https://www.instagram.com/BitcoinRuns) [<i class="fab fa-fw fa-github"></i>](https://github.com/BitcoinRuns) [<i class="fab fa-fw fa-twitter-square"></i>](https://twitter.com/BitcoinRuns) [<i class="fab fa-youtube"></i>](https://www.youtube.com/channel/UCDGX_yT8K6-oAgGldr8xDWw)  [<i class="fab fa-tiktok"></i>](https://www.tiktok.com/@bitcoinruns)'
 gallery_completed:
+  - url: /basel/
+    image_path: /assets/images/homepage/18-basel-strava-640x480.jpeg
+    alt: "Basel Bitcoin Run"
+    title: "Basel Bitcoin Run"  
   - url: /mahon/
     image_path: /assets/images/homepage/17-mahon-strava-640x480.jpeg
     alt: "Mahon, Menorca Bitcoin Run"

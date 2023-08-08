@@ -27,7 +27,7 @@ Check out the effort on Strava 👇:
 ## Pictures taken on the Mahon Bitcoin Run 📷 ️
 
 Mahon, old city is really beautiful, with its narrow streets and old buildings. But its natural harbour is really impressive.
-It is one of the largest natural harbours in the world. I got a glimpse of of on the bitcoin run
+It is one of the largest natural harbours in the world. I got a glimpse of it on the bitcoin run
 
 <figure class="image">
   <a href="/assets/images/runs/17-mahon-menorca/city/1-1200x900-start-view-on-harbour.jpg">

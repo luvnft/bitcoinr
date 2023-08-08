@@ -41,7 +41,7 @@ Take pictures along the bitcoin runs
 - see the one [Bern🇨🇭](/bern) for a pictorial and find out about Bern's best sights 
 - relive [the bitcoin run in San Francisco 🇺🇸](/san-francisco)
 
-#### 3. Accept crypto donations
+#### 3. Accept donations
 
 Tell us if your community accepts Bitcoin donations, and we will display the public address on the corresponding run
 
@@ -81,6 +81,6 @@ The chain contains has currently the following bitcoin runs in reverse order chr
 - [Campulung 🇷🇴](/campulung)
 - [Bern 🇨🇭](/bern)
 
-How fast can we make to 100 💪?
+How fast can we make to 21 💪?
 
 {% include donate.html %}

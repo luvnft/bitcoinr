@@ -1,217 +1,194 @@
 ---
 layout: single
 title: Basel Bitcoin Run ₿ 🏃‍♂️ 🇨🇭
-excerpt: "Fourth Bitcoin Run in Switzerland was in Zürich, another
-of my favorite cities in Switzerland. See my run details and pictures of the best sights in town."
+excerpt: "Fourth Bitcoin Run in Switzerland was in Basel, third-most populous city in the country.
+See the effort on strava and pictures from the bitcoin run."
 header:
   video:
-    bitcoinrunzoomin : "/assets/images/runs/zuerich/video/13-zuerich-bitcoinruns-zoomin-1920x1080.m4v"
-    poster: "/assets/images/runs/zuerich/video/zuerich-google-earth-1920x1080.jpg"
-  og_image: /assets/images/runs/zuerich/social/zuerich-google-earth-1920x1080.jpg
+    bitcoinrunzoomin : "/assets/images/runs/18-basel/video/18-basel-zoomin-low-1920x1080.m4v"
+    poster: "/assets/images/runs/18-basel/video/18-basel-google-earth-satellite-printscreen-1080p.jpeg"
+  og_image: /assets/images/runs/18-basel/social/18-basel-google-earth-satellite-printscreen-1080p.jpeg
 permalink: /basel/
 date: 2023-07-26
-published: false
 author_profile: true
 ---
 
-My fourth run in Switzerland was in Basel, thus the Swiss Quartet is completed.
+We have a swiss quartet, for the Bitcoin Run [Basel](https://www.basel.com/en) Switzerland 🇨🇭 was minted 🎉.
+
+Check out the strava effort 👇:
 
 <figure class="image">
   <a href="https://www.strava.com/activities/9524843254">
-    <img src="/assets/images/runs/18-basel/page/basel-screenshot-strava-with-stamp-1280x960.png" alt="Basel Bitcoin Run">
+    <img src="/assets/images/runs/18-basel/page/18-basel-strava-1280x960.jpeg" alt="Basel Bitcoin Run">
   </a>
   <figcaption>Bitcoin Run Basel ₿ 🏃‍♂️ 🇨🇭</figcaption>
 </figure> 
 
+> Previous runs in Switzerland 🇨🇭were minted in [Bern](/bern), [Lucerne](/lucerne) & [Zürich](/zuerich),
+
 As usual, I stopped very often to take pictures 📷👇:
 
-### Old tram in Zürich city
+### Start of the run at the Johanniter Brücke
 
-Trams[^1] make an important contribution to public transport in the city of Zürich in Switzerland.
-
-<figure class="image">
-  <a href="/assets/images/runs/zuerich/city/1-1200x1600-old-tram-with-pin.jpeg">
-    <img src="/assets/images/runs/zuerich/city/1-1200x1600-old-tram-with-pin.jpeg" alt="Old tram in Zürich old city">
-  </a>
-  <figcaption>Old tram in Zürich</figcaption>
-</figure>
-
-[^1]: <https://en.wikipedia.org/wiki/Trams_in_Z%C3%BCrich>
-
-### View on Liimat river and surroundings from Mühlesteg
-
-First bridged I crossed over the Liimat river[^2] is Mühlesteg[^3]
-
-[^2]: <https://en.wikipedia.org/wiki/Limmat>
-
-[^3]: <https://de.wikipedia.org/wiki/M%C3%BChlesteg/>
+The bitcoin run started in the bitcoin middle at the Johanniter Brücke[^1] make an important contribution to public transport in the city of Zürich in Switzerland.
 
 <figure class="image">
-  <a href="/assets/images/runs/zuerich/city/2-1200x900-view-on-the-rathausbruecke-with-pin.jpeg">
-    <img src="/assets/images/runs/zuerich/city/2-1200x900-view-on-the-rathausbruecke-with-pin.jpeg" alt="View on Mühlesteg">
+  <a href="/assets/images/runs/18-basel/city/1-1200x1600-start-johanniterbruecke.jpg">
+    <img src="/assets/images/runs/18-basel/city/1-1200x1600-start-johanniterbruecke.jpg" alt="Start of the run at the Johanniter Brücke">
   </a>
-  <figcaption>View on Mühlesteg</figcaption>
+  <figcaption>Start of the run at the Johanniter Brücke</figcaption>
 </figure>
 
-### Lamp with sculptures on inside street in Zürich
+[^1]: <https://de.wikipedia.org/wiki/Johanniterbr%C3%BCcke>
 
-Right after that I entered the old city, full of live restaurants and beautiful architecture
+### View on Rhein river north side from Johanniter Brücke
 
 <figure class="image">
-  <a href="/assets/images/runs/zuerich/city/3-1200x1232-lamp-with-wall-sculpture-with-pin.jpeg">
-    <img src="/assets/images/runs/zuerich/city/3-1200x1232-lamp-with-wall-sculpture-with-pin.jpeg" 
-            alt="Lamp with nice sculptured walls">
+  <a href="/assets/images/runs/18-basel/city/2-1200x900-start-johanniterbruecke-rhein-north-view.jpg">
+    <img src="/assets/images/runs/18-basel/city/2-1200x900-start-johanniterbruecke-rhein-north-view.jpg" alt="View on Rhein river north side from Johanniter Brücke">
   </a>
-  <figcaption>Lamp with nice sculptured walls</figcaption>
+  <figcaption>View on Rhein river north side from Johanniter Brücke</figcaption>
 </figure>
 
-### Predigerkirche
-
-"Predigerkirche is one of the four main churches of the old town of Zürich, Switzerland, besides Fraumünster,
-Grossmünster and St. Peter. First built in 1231 AD as a Romanesque church of the then Dominican Predigerkloster, the
-Basilica was converted in the first half of the 14th century, the choir between 1308 and 1350 rebuilt, and a for that
-time unusual high bell tower was built, regarded as the highest Gothic edifice in Zürich. As Spain converted all Mosques
-to churches and all Minarets to bell towers, bell towers were built all over Europe, the Minarets in Spain were built by
-Almohads a north Africa dynasty, Mesquita tower in Cordoba, Geralda tower in Seville and Koutoubia in Marrakech"[^4]
-
-[^4]: <https://en.wikipedia.org/wiki/Predigerkirche_Z%C3%BCrich>
+### Roman Catholic Church of St. Joseph
 
 <figure class="image">
-  <a href="/assets/images/runs/zuerich/city/4-1200x900-predigerkirche-zuerich-with-pin.jpeg">
-    <img src="/assets/images/runs/zuerich/city/4-1200x900-predigerkirche-zuerich-with-pin.jpeg" alt="Jesuit Church on the river Reuss">
+  <a href="/assets/images/runs/18-basel/city/3-1200x1600-st-joseph-church.jpg">
+    <img src="/assets/images/runs/18-basel/city/3-1200x1600-st-joseph-church.jpg" 
+            alt="Roman Catholic Church of St. Joseph">
   </a>
-  <figcaption>Jesuit Church on the river Reuss</figcaption>
+  <figcaption>Roman Catholic Church of St. Joseph</figcaption>
 </figure>
 
-### Church of St. Peter
+### St. Johanns-Tor
 
-"The St. Peter church is the oldest parish church in Zurich – with the original 9th century foundation walls still seen
-today beneath the chancel."[^5]
+"St. Johanns-Tor (St. Johanns Gate) is one of the three surviving entrance gates to the old mediaeval walled city,
+which formed part of the fortifications built shortly after the great earthquake of 1356. "[^2]
+
+[^2]: <https://www.basel.com/en/attractions/st.-johanns-tor-3f38bf5574>
 
 <figure class="image">
-  <a href="/assets/images/runs/zuerich/city/5-1200x900-church-of-st-peter-with-pin.jpeg">
-    <img src="/assets/images/runs/zuerich/city/5-1200x900-church-of-st-peter-with-pin.jpeg" alt="Church of St. Peter">
+  <a href="/assets/images/runs/18-basel/city/4-1200x900-st-johanns-tor.jpg">
+    <img src="/assets/images/runs/18-basel/city/4-1200x900-st-johanns-tor.jpg" alt="St. Johanns-Tor">
   </a>
-  <figcaption>Church of St. Peter</figcaption>
+  <figcaption>St. Johanns-Tor</figcaption>
 </figure>
 
-[^5]: <https://www.zuerich.com/en/visit/attractions/st-peter>
+### Old tram in the city center
 
-### Fraumünster Church
+So as in Zürich, Basel has also many trams in the city center[^3]. I like the old ones, they are so cute.
 
-"The Fraumünster and Grossmünster churches are landmarks of Zurich. The convent once held great power in Zurich. Founded
-in 853 by King Louis the German, this church with its convent was inhabited by the female members of the aristocracy of
-Europe. The convent enjoyed the patronage of kings and the abbess the right to mint coins in Zurich until well into the
-13th century. Ownership of the church and convent passed to the city of Zurich after the Reformation."[^6]
+<figure class="image">
+  <a href="/assets/images/runs/18-basel/city/5-1200x1600-old-tram-city-center.jpg">
+    <img src="/assets/images/runs/18-basel/city/5-1200x1600-old-tram-city-center.jpg" alt="Old tram close to city center">
+  </a>
+  <figcaption>Old tram close to city center</figcaption>
+</figure>
 
-[^6]: <https://www.zuerich.com/en/visit/attractions/fraumuenster>
+[^3]: <https://en.wikipedia.org/wiki/Trams_in_Basel>
+
+### City Hall 
+
+"The City Hall is the seat of the Basel government and its parliament. 
+In the midst of the Old Town, it is particularly eye catching with its red facade,
+the characteristic tower and playful frescoes."[^4]
+
+[^4]: <https://www.basel.com/en/attractions/city-hall-7099cbb9f4>
 
 
 <figure class="image">
-  <a href="/assets/images/runs/zuerich/city/6-1200x900-fraumuenster-church-with-pin.jpeg">
-    <img src="/assets/images/runs/zuerich/city/6-1200x900-fraumuenster-church-with-pin.jpeg" alt="Fraumünster Church">
+  <a href="/assets/images/runs/18-basel/city/6-1200x900-basel-rathaus.jpg">
+    <img src="/assets/images/runs/18-basel/city/6-1200x900-basel-rathaus.jpg" alt="City Hall">
   </a>
-  <figcaption>Fraumünster Church</figcaption>
+  <figcaption>City Hall</figcaption>
 </figure>
 
-### Grossmünster
+### Mittlere Brücke
 
-"The Grossmünster church is a landmark of Zurich. Legend has it that the church was built on the graves of the city’s
-patron saints, Felix and Regula."[^7]
+"Hardly another monument in the city of Basel has become such a symbol of the city as the Mittlere Brücke.
+Opened in 1226, it is one of the oldest Rhine crossings between Lake Constance and the North Sea."[^5]
 
 <figure class="image">
-  <a href="/assets/images/runs/zuerich/city/7-1200x900-grossmünster-with-pin.jpeg">
-    <img src="/assets/images/runs/zuerich/city/7-1200x900-grossmünster-with-pin.jpeg" alt="Grossmünster">
+  <a href="/assets/images/runs/18-basel/city/7-1200x900-view-on-mittlere-bruecke.jpg">
+    <img src="/assets/images/runs/18-basel/city/7-1200x900-view-on-mittlere-bruecke.jpg" alt="Mittlere Brücke">
   </a>
-  <figcaption>Grossmünster</figcaption>
+  <figcaption>Mittlere Brücke</figcaption>
 </figure>
 
-[^7]: <https://www.zuerich.com/en/visit/attractions/grossmuenster-church>
+[^5]: <https://www.basel.com/en/attractions/mittlere-bruecke-b37cf289fc>
 
-### Christkatholische Church Zürich
+### Käppelijoch
+
+"The Käppelijoch is a small Gothic chapel on the Mittlere Brücke that was once both a religious site on the bridge,
+and the scene of public punishments." [^6]
+<figure class="image">
+  <a href="/assets/images/runs/18-basel/city/8-kaeppeljoch.jpg">
+    <img src="/assets/images/runs/18-basel/city/8-kaeppeljoch.jpg" alt="Käppelijoch">
+  </a>
+  <figcaption>Käppelijoch</figcaption>
+</figure>
+
+[^6]: <https://www.basel.com/en/attractions/kaeppelijoch-690350cbac>
+
+### View On Basler Muenster from Mittlere Brücke
+
+"Together with the Mittlere Brücke, the Basler Münster (Cathedral) is probably the most famous landmark in Basel.
+With its red sandstone walls, colourful roof tiles and twin towers,
+no other building adorns the cityscape of Basel like the Cathedral" [^7]
+<figure class="image">
+  <a href="/assets/images/runs/18-basel/city/8-1200x900-view-on-basler-muenster-from-mittlere-bruecke.jpg">
+    <img src="/assets/images/runs/18-basel/city/8-1200x900-view-on-basler-muenster-from-mittlere-bruecke.jpg" alt="View On Basler Muenster from Mittlere Brücke">
+  </a>
+  <figcaption>View On Basler Muenster from Mittlere Brücke</figcaption>
+</figure>
+
+[^7]: <https://www.basel.com/en/attractions/basler-muenster-bc9d869a33>
+
+### View on Mittlere Brücke from the Rhein level
+
+In the backround you can see the Martinskirche. "The Martinskirche on Münsterhügel (Cathedral Hill) is the oldest parish church in Basel.
+Once the site of religious services, it has now become Basel’s most important concert church
+due to its outstanding acoustics." [^8]
+
+[^8]: <https://www.basel.com/en/attractions/martinskirche-1595e33182>
 
 <figure class="image">
-  <a href="/assets/images/runs/zuerich/city/8-1200x1600-chirstkatholische-kirche-zurich-augustinerkirche-with-pin.jpeg">
-    <img src="/assets/images/runs/zuerich/city/8-1200x1600-chirstkatholische-kirche-zurich-augustinerkirche-with-pin.jpeg" alt="Christkatholische Church Zürich">
+  <a href="/assets/images/runs/18-basel/city/9-1200x900-view-on-mittlere-bruecke-from-bellow-martinskirche-in-background.jpg">
+    <img src="/assets/images/runs/18-basel/city/9-1200x900-view-on-mittlere-bruecke-from-bellow-martinskirche-in-background.jpg" alt="View on Mittlere Brücke from the Rhein level">
   </a>
-  <figcaption>Christkatholische Church Zürich</figcaption>
+  <figcaption>View on Mittlere Brücke from the Rhein level</figcaption>
 </figure>
 
-### Rhino Metal Statue
+### St Clara Church
 
 <figure class="image">
-  <a href="/assets/images/runs/zuerich/city/9-1200x900-rhino-metal-statue-with-pin.jpeg">
-    <img src="/assets/images/runs/zuerich/city/9-1200x900-rhino-metal-statue-with-pin.jpeg" alt="Rhino Metal Statue">
+  <a href="/assets/images/runs/18-basel/city/10-1200x900-clarakirche-basel.jpg">
+    <img src="/assets/images/runs/18-basel/city/10-1200x900-clarakirche-basel.jpg" alt="St Clara Church">
   </a>
-  <figcaption>Christkatholische Church Zürich</figcaption>
+  <figcaption>St Clara Church</figcaption>
 </figure>
 
-### Running Shoe
+
+### Johanniter Brücke south view with Roche Towers
+
+"The Roche Towers, designed by architects Herzog & de Meuron, can rightly be viewed as a modern landmark of Basel
+– but as the tallest office buildings in Switzerland, they can be seen far outside the city limits, too.."[^9]
 
 <figure class="image">
-  <a href="/assets/images/runs/zuerich/city/10-1200x900-running-shoe-with-pin.jpeg">
-    <img src="/assets/images/runs/zuerich/city/10-1200x900-running-shoe-with-pin.jpeg" alt="Running shoe with lake Zürich in background">
+  <a href="/assets/images/runs/18-basel/city/11-1200x900-end-johanniterbruecke-rhein-south-view-roche-towers.jpg">
+    <img src="/assets/images/runs/18-basel/city/11-1200x900-end-johanniterbruecke-rhein-south-view-roche-towers.jpg"
+        alt="Johanniter Brücke south view with Roche Towers">
   </a>
-  <figcaption>Running shoe with lake Zürich in background</figcaption>
+  <figcaption>Johanniter Brücke south view with Roche Towers</figcaption>
 </figure>
 
-### Ganymede Statue
+[^9]: <https://www.basel.com/en/attractions/roche-towers-1f4d756da1>
 
-"The Ganymed sculpture has adorned the Bürkliterrasse since 1952. In mythology, the beautiful young boy of Zeus is
-abducted and taken to Mount Olympus."[^8]
-
-<figure class="image">
-  <a href="/assets/images/runs/zuerich/city/11-1200x900-ganymede-sculpture-with-pin.jpeg">
-    <img src="/assets/images/runs/zuerich/city/11-1200x900-ganymede-sculpture-with-pin.jpeg" alt="Running shoe with lake Zürich in background">
-  </a>
-  <figcaption>Running shoe with lake Zürich in background</figcaption>
-</figure>
-
-[^8]: <https://www.zuerich.com/en/visit/attractions/ganymed>
-
-### Zürich Lake with Swiss Alps in Background
-
-<figure class="image">
-  <a href="/assets/images/runs/zuerich/city/12-1200x900-zuerich-lake-with-alps-in-the-background-with-pin.jpeg">
-    <img src="/assets/images/runs/zuerich/city/12-1200x900-zuerich-lake-with-alps-in-the-background-with-pin.jpeg" alt="Running shoe with lake Zürich in background">
-  </a>
-  <figcaption>Running shoe with lake Zürich in background</figcaption>
-</figure>
-
-### Swan on Zürich Lake
-
-<figure class="image">
-  <a href="/assets/images/runs/zuerich/city/13-1200x900-lake-swan-alsps-in-background-with-pin.jpeg">
-    <img src="/assets/images/runs/zuerich/city/13-1200x900-lake-swan-alsps-in-background-with-pin.jpeg" alt="Swan on Zürich Lake">
-  </a>
-  <figcaption>Swan on Zürich Lake</figcaption>
-</figure>
-
-### Bike on Zürich street
-
-<figure class="image">
-  <a href="/assets/images/runs/zuerich/city/14-1200x900-bycicle-inside-streets-with-pin.jpeg">
-    <img src="/assets/images/runs/zuerich/city/14-1200x900-bycicle-inside-streets-with-pin.jpeg" alt="Bike on Zürich street">
-  </a>
-  <figcaption>Bike on Zürich street</figcaption>
-</figure>
-
-### Back to train main station
-
-<figure class="image">
-  <a href="/assets/images/runs/zuerich/city/15-1200x900-back-to-main-railway-station-with-pin.jpeg">
-    <img src="/assets/images/runs/zuerich/city/15-1200x900-back-to-main-railway-station-with-pin.jpeg" alt="Back to train main station">
-  </a>
-  <figcaption>Back to train main station</figcaption>
-</figure>
-
-
-{% include btc-runs-chain-video.html videoId="wfQibnv3yI0" %}
+{% include btc-runs-chain-video.html videoId="_oRPYEFlYX0" %}
 
 ### Previous runs
 
-
-- [16 Mahon, Menorca 🇪🇸](/mahon)
+- [17 Mahon, Menorca 🇪🇸](/mahon)
 - [16 Son Bou, Menorca 🇪🇸](/son-bou)
 - [15 North Sydney 🇦🇺](/north-sydney)
 - [14 Zürich 🇨🇭](/zuerich)

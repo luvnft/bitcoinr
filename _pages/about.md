@@ -65,7 +65,10 @@ We are looking forward to your joining #BitcoinRuns 🙏🏽 🙏
 Once a run is completed and accepted it is added to the [Bitcoin Runs Chain ₿ 🏃‍♂️ 🔗](/chain). The location is then considered
 "closed" for the chain.
 
-The chain contains has currently the following bitcoin runs in reverse order chronologically:
+The chain has currently the following bitcoin runs in reverse order chronologically:
+- [Basel, Switzerland 🇨🇭](/basel)
+- [Mahon, Menorca 🇪🇸](/mahon)
+- [Son Bou, Menorca 🇪🇸](/son-bou)
 - [North Sydney, Australia 🇦🇺](/north-sydney)
 - [Zürich, Switzerland 🇨🇭](/zuerich)
 - [Bangkok, Thailand 🇹🇭](/bangkok)
@@ -81,6 +84,6 @@ The chain contains has currently the following bitcoin runs in reverse order chr
 - [Campulung 🇷🇴](/campulung)
 - [Bern 🇨🇭](/bern)
 
-How fast can we make to 21 💪?
+How fast can we make it to 21 💪?
 
 {% include donate.html %}

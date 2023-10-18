@@ -142,9 +142,9 @@ or Risanamento, initiated during the brief period when Florence was the capital 
 
 ### Palazzo Vecchio
 
-"Together with the Mittlere Brücke, the Basler Münster (Cathedral) is probably the most famous landmark in Basel.
-With its red sandstone walls, colourful roof tiles and twin towers,
-no other building adorns the cityscape of Basel like the Cathedral" [^8]
+"The Palazzo Vecchio (Italian pronunciation: [paˈlattso ˈvɛkkjo] "Old Palace") is the town hall of Florence, Italy.
+It overlooks the Piazza della Signoria, which holds a copy of Michelangelo's David statue,
+and the gallery of statues in the adjacent Loggia dei Lanzi." [^8]
 
 <figure class="image">
   <a href="/assets/images/runs/19-florence/city/9-1200x900-palazzo-vecchio.jpg">
@@ -153,7 +153,7 @@ no other building adorns the cityscape of Basel like the Cathedral" [^8]
   <figcaption>Palazzo Vecchio</figcaption>
 </figure>
 
-[^8]: <https://www.basel.com/en/attractions/basler-muenster-bc9d869a33>
+[^8]: <https://en.wikipedia.org/wiki/Palazzo_Vecchio>
 
 ### Ponte Vecchio
 

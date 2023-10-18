@@ -6,7 +6,7 @@ header:
   video:
     bitcoinrunzoomin: "/assets/images/runs/19-florence/video/19-bitcoinruns-florence-zoomin-low-1080p.m4v"
     poster: "/assets/images/runs/19-florence/video/19-florence-google-earth-screenshot-with-overlay-1920x1080.jpg"
-  og_image: /assets/images/runs/19-florence/social/19-florence-google-earth-screenshot-with-overlay-1920x1080.jpg
+  og_image: /assets/images/runs/19-florence/video/19-florence-google-earth-screenshot-with-overlay-1920x1080.jpg
 permalink: /florence/
 date: 2023-09-26
 author_profile: true

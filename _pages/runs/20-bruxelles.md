@@ -138,7 +138,7 @@ As usual, I stopped to take some picture, but less than usual as the weather was
 
 ### Previous runs
 
-- [19 Florence 🇨🇭](/florence)
+- [19 Florence 🇨🇮](/florence)
 - [18 Basel 🇨🇭](/basel)
 - [17 Mahon, Menorca 🇪🇸](/mahon)
 - [16 Son Bou, Menorca 🇪🇸](/son-bou)

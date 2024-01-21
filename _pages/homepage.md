@@ -125,6 +125,14 @@ gallery_proposal:
 
 <hr>
 
-{% include gallery id="gallery_proposal" caption="**₿itcoin Runs Proposals - who's up for the challenge 💪 ?**" %}
+## TO DO
 
-> Complete list with proposal sketches 👉 &nbsp; **[here](/proposals)**
+We still have got plenty of routes on ALL world's continents ready for you to make. Check up the list below 👇
+
+<figure class="image">
+  <a href="/todo/">
+    <img src="/assets/images/page/todo/todo-header-wanted.jpeg" alt="Link to do">
+  </a>
+  <figcaption>Routes - Bitcoin Gps Art Worldwide</figcaption>
+</figure>
+

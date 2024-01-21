@@ -6,8 +6,6 @@ header:
   og_image: /assets/images/page/todo/todo-strava-routes-screenshot-wanted.jpeg
 ---
 
-## TODO
-
 👇👇 we still have plenty of bitcoin routes sketched - interested? drop as a line at [bitcoinruns@proton.me](mailto:bitcoinruns@proton.me) ✉️
 
 > You are very welcome to come up with your own sketches - [get in contact with us ✉️](mailto:bitcoinruns@proton.me)
@@ -37,17 +35,23 @@ header:
 ## Europe 🌍
 
 - [Aarhus, Denmark 🇩🇰 - 3.86km](https://www.strava.com/routes/3181164228819301194)
+- [Budapest, Hungary 🇭🇺 - 7.7km](https://www.strava.com/routes/3157369095624113286)
 - [Constance, Germany 🇩🇪 - 4km](https://www.strava.com/routes/3180814880125825622)
 - [Copenhagen, Denmark 🇩🇰 - 7.14km](https://www.strava.com/routes/3179714067650366282)
+- [Edinburgh, Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿 - 12.2km](https://www.strava.com/routes/3159081026401151898)
 - [Helskinki, Finland 🇫🇮 - 4.5km](https://www.strava.com/routes/3182653888216690262)
 - [Lisbon, Portugal 🇵🇹 - 6.7km](https://www.strava.com/routes/3179695169616996950)
 - [Munich, Germany 🇩🇪 - 9.5km](https://www.strava.com/routes/3179480366239533110)
+- [Oslo, Norway 🇳🇴 - 6.3km](https://www.strava.com/routes/3159095289308439230)
 - [Palermo, Italy 🇨🇿 - 6.7km](https://www.strava.com/routes/3180883850273386070)
 - [Prague, Czechia 🇨🇿 - 7.35km](https://www.strava.com/routes/3182638455649022794)
 - [Stockholm, Sweden 🇸🇪 - 8km](https://www.strava.com/routes/3179705238303305782)
 
 ## North  America 🌎
 
+- [Boston, USA 🇺🇸 - 7.26km](https://www.strava.com/routes/3157371279821165702)
+- [Hollywood, USA 🇺🇸 - 10km](https://www.strava.com/routes/3133693756211188288)
+- [Houston, USA 🇺🇸 - 10km](https://www.strava.com/routes/3133737891465551424)
 - [San Salvador, El Salvador 🇸🇻 - 7km](https://www.strava.com/routes/3179757653811707478)
 - [Vancouver, Canada 🇨🇦 - 14.9km](https://www.strava.com/routes/3180058502515084062)
 

@@ -15,27 +15,28 @@ header:
 
 - [Accra, Ghana 🇬🇭 - 10km](https://www.strava.com/routes/3183687112250620502)
 - [Cairo, Egypt 🇪🇬 - 6km](https://www.strava.com/routes/3183679102680231754)
+- [Dakar, Senegal 🇸🇳 - 6km](https://www.strava.com/routes/3185866676411135818)
 - [Johannesburg, South Africa 🇿🇦 - 15.4km](https://www.strava.com/routes/2972135816936349304)
 - [Lome, Togo 🇹🇬 - 7.8km](https://www.strava.com/routes/3183691805613278026)
 - [Rabat, Morocco 🇲🇦 - 11.75km](https://www.strava.com/routes/3183681171272475466)
 
 ## Asia 🌏
 
-- [Baku, Azerbaijan 🇦🇿- 9.25km](https://www.strava.com/routes/3180468702929403238)
-- [Beijing, China 🇨🇳- 17km](https://www.strava.com/routes/3185129806717178436)
-- [Dhaka, Bangladesh 🇧🇩- 5km](https://www.strava.com/routes/3180085707601974046)
-- [Dhaka, Bangladesh 🇧🇩- 9.7km](https://www.strava.com/routes/3180084667448145494)
+- [Baku, Azerbaijan 🇦🇿 - 9.25km](https://www.strava.com/routes/3180468702929403238)
+- [Beijing, China 🇨🇳 - 17km](https://www.strava.com/routes/3185129806717178436)
+- [Dhaka, Bangladesh 🇧🇩 - 5km](https://www.strava.com/routes/3180085707601974046)
+- [Dhaka, Bangladesh 🇧🇩 - 9.7km](https://www.strava.com/routes/3180084667448145494)
 - [Indore, India 🇮🇳 - 23km 🚴](https://www.strava.com/routes/2960806239910681098)
 - [Istanbul, Turkey 🇹🇷- 6.7km](https://www.strava.com/routes/3179688265629405782)
 - [Kuala Lumpur, Malaysia 🇲🇾- 6.7km](https://www.strava.com/routes/3013851136851347028)
 - [Kowloon, Hong Kong 🇭🇰- 4.7km](https://www.strava.com/routes/3185126608803949142)
-- [Osaka, Japan 🇯🇵- 14km](https://www.strava.com/routes/3185146843671203658)
-- [Singapore 🇸🇬- 8.1km](https://www.strava.com/routes/3179386695831211850)
-- [Tehran, Iran 🇮🇷- 6.7km](https://www.strava.com/routes/3181932213521489738)
-- [Tel Aviv, Israel 🇮🇱- 10.1km](https://www.strava.com/routes/3184547757971988298)
+- [Osaka, Japan 🇯🇵 - 14km](https://www.strava.com/routes/3185146843671203658)
+- [Singapore 🇸🇬 - 8.1km](https://www.strava.com/routes/3179386695831211850)
+- [Tehran, Iran 🇮🇷 - 6.7km](https://www.strava.com/routes/3181932213521489738)
+- [Tel Aviv, Israel 🇮🇱 - 10.1km](https://www.strava.com/routes/3184547757971988298)
 - [Tokyo, Zenpukuji Park, Japan 🇯🇵 - 13km](https://www.strava.com/routes/2970964084872848346)
 - [Ulaanbaatar, Mongolia 🇲🇳 - 17km](https://www.strava.com/routes/3014087102317847124)
-- [Yokohama, Japan 🇯🇵- 6.7km](https://www.strava.com/routes/2960790730017349130)
+- [Yokohama, Japan 🇯🇵 - 6.7km](https://www.strava.com/routes/2960790730017349130)
 
 ## Australia/Ocenia 🌏
 
@@ -76,6 +77,7 @@ header:
 - [Houston, USA 🇺🇸 - 10km](https://www.strava.com/routes/3133737891465551424)
 - [Lincoln Nebraska, USA 🇺🇸 - 9.2km](https://www.strava.com/routes/3134797286331317440)
 - [New York City, USA 🇺🇸 - 18.5km](https://www.strava.com/routes/2970330587840185780)
+- [Miami Beach, USA 🇺🇸 - 11km](https://www.strava.com/routes/3185203553587896138)
 - [San Salvador, El Salvador 🇸🇻 - 7km](https://www.strava.com/routes/3179757653811707478)
 - [Seattle, USA 🇺🇸 - 7.2km](https://www.strava.com/routes/3134848700521983552)
 - [Toronto, Canada 🇨🇦 - 14.9km](https://www.strava.com/routes/3180058502515084062)
@@ -84,7 +86,9 @@ header:
 
 ## South America 🌎
 
+- [Bogotá, Colombia 🇨🇴 - 7.5km](https://www.strava.com/routes/3185543307238054486)
 - [Buenos Aires, Argentina 🇦🇷 - 13.9km](https://www.strava.com/routes/3179753970316349014)
+- [Caracas, Venezuela 🇻🇪 - 13.9km](https://www.strava.com/routes/3185547212578799434)
 - [Lima, Peru 🇵🇪 - 10km](https://www.strava.com/routes/3180844308590621318)
 - [Montevideo, Uruguay 🇺🇾 - 7.7km](https://www.strava.com/routes/3182742292652805718)
 - [Santiago, Chile 🇨🇱 - 15.2km](https://www.strava.com/routes/3182694774102674006)

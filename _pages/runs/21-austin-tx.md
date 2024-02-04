@@ -24,10 +24,10 @@ Check out his awesome strava effort below 👇:
   <figcaption>Bitcoin Run Austin, TX ₿ 🏃‍♂️ 🇺🇸</figcaption>
 </figure> 
 
-> Darren is also a Bitcoiner and Full Stack Web Developer. See his complete profile at his personal website 
-> - [https://thebtcbuilder.com/](https://thebtcbuilder.com/). At the time of running this bitcoin gps art, Darren is working
+> Darren is also a Bitcoiner and Full Stack Web Developer. See his complete profile at his personal website - [https://thebtcbuilder.com/](https://thebtcbuilder.com/).
+> At the time of running this bitcoin gps art, Darren is working
 > with [PlebLab](https://www.pleblab.dev/). PlebLab's mission is to foster an inclusive community of developers, hackers, creatives,
-> and enthusiasts of open-source software/hardware. You can find them on Twitter [@pleblab](https://x.com/@pleblab)
+>and enthusiasts of open-source software/hardware. You can find them on Twitter [@pleblab](https://x.com/@pleblab)
 
 {% include btc-runs-chain-video.html videoId="0EAPTJTit-U" %}
 

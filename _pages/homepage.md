@@ -82,42 +82,29 @@ gallery_completed:
     alt: "Tsukubamirai Bitcoin Run"
     title: "Tsukubamirai Bitcoin Run"
   - url: /barcelona/
-    image_path: /assets/images/homepage/barcelona-strava-640x480.jpeg
+    image_path: /assets/images/homepage/6-barcelona-strava-640x480.jpeg
     alt: "Barcelona Bitcoin Run"
     title: "Barcelona Bitcoin Run"
   - url: /san-francisco/
-    image_path: /assets/images/homepage/san-francisco-strava-overlay-640x480.jpeg
+    image_path: /assets/images/homepage/5-san-francisco-strava-overlay-640x480.jpeg
     alt: "San Francisco Bitcoin run"
     title: "San Francisco Bitcoin run"
   - url: /lucerne/
-    image_path: /assets/images/homepage/lucerne-basemap-640x480.jpeg
+    image_path: /assets/images/homepage/4-lucerne-basemap-640x480.jpeg
     alt: "Lucerne Bitcoin run"
     title: "Lucerne Bitcoin run"
   - url: /bucharest
-    image_path: /assets/images/homepage/bucharest-strava-standard-overlay-640x480.jpeg
+    image_path: /assets/images/homepage/3-bucharest-strava-standard-overlay-640x480.jpeg
     alt: "Bucharest Bitcoin Run"
     title: "Bucharest Bitcoin Run"
   - url: /campulung
-    image_path: /assets/images/homepage/campulung-basemap-640x480.jpeg
+    image_path: /assets/images/homepage/2-campulung-basemap-640x480.jpeg
     alt: "Campulung Bitcoin Run"
     title: "Campulung Bitcoin Run"
   - url: /bern/
-    image_path: /assets/images/homepage/berne-basemap-640x480.jpeg
+    image_path: /assets/images/homepage/1-berne-basemap-640x480.jpeg
     alt: "Bern Bitcoin run"
     title: "Bern Bitcoin run"
-gallery_proposal:    
-  - url: /oslo/
-    image_path: /assets/images/homepage/oslo-sketch-proposal-640x480.png
-    alt: "Oslo Bitcoin run"
-    title: "Oslo Bitcoin run"
-  - url: /seattle/
-    image_path: /assets/images/homepage/seattle-sketch-proposal-640x480.png
-    alt: "Seattle Bitcoin Run"
-    title: "Seattle Bitcoin Run"
-  - url: /sibiu/
-    image_path: /assets/images/homepage/sibiu-sketch-proposal-640x480.png
-    alt: "Sibiu Bitcoin Run"
-    title: "Sibiu Bitcoin Run"
 ---
 
 <div id="home-social-connect" style="font-size:2em">

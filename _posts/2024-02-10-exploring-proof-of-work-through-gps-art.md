@@ -1,6 +1,6 @@
 ---
 title: "Exploring Proof of Work Through GPS Art"
-date: 2024-02-10
+date: 2024-02-12
 author_profile: false
 excerpt: "BitcoinRuns: Where Bitcoin's Proof of Work Inspires GPS Artistry"
 header:
@@ -8,7 +8,6 @@ header:
   og_image: /assets/images/blog/proof-of-work-through-gps-art/bitcoinruns-sun-inspires-gps-art-1920x1080.jpeg
 permalink: /blog/exploring-proof-of-work-through-gps-art/
 ---
-
 
 In recent years, two seemingly disparate phenomena have gained significant traction: the rise of Bitcoin
 and the emergence of GPS art. While on the surface these may appear unrelated, a deeper exploration reveals

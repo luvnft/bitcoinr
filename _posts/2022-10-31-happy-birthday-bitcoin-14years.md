@@ -4,7 +4,7 @@ date: 2022-10-31
 permalink: "/blog/happy-14th-birthday-bitcoin"
 author_profile: true
 published: true
-excerpt: "Today there are 14 years since the Bitcoin White Paper has been published. Coincidence or not we have 14 #bitcoinruns at this point in time 🙏"
+description: "Today there are 14 years since the Bitcoin White Paper has been published. Coincidence or not we have 14 #bitcoinruns at this point in time 🙏"
 post_thumbnail: /assets/images/blog/happy-14th-birthday-bitcoin/email-screenshot-31-october-2008-300x300.jpeg
 header:
   og_image: /assets/images/blog/happy-14th-birthday-bitcoin/email-screenshot-31-october-2008.jpeg

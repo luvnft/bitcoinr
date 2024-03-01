@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Bruxelles Bitcoin Run ₿ 🏃‍♂️ 🇧🇪
-excerpt: "First bitcoin run in Belgium, in Brussels (Fr. Bruxelles), the heart of Europe."
+description: "First bitcoin run in Belgium, in Brussels (Fr. Bruxelles), the heart of Europe."
 header:
   video:
     bitcoinrunzoomin: "/assets/images/runs/20-bruxelles/video/20-bruxelles-zoomin-low-1080p.m4v"

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Austin, TX Bitcoin Run ₿ 🏃‍♂️ 🇺🇸
-excerpt: "#bitcoinruns in Austin, Texas, the heart of Bitcoin in US."
+description: "#bitcoinruns in Austin, Texas, the heart of Bitcoin in US."
 header:
   video:
     bitcoinrunzoomin: "/assets/images/runs/21-austin/video/21-austin-zoomin-low-1080p.m4v"

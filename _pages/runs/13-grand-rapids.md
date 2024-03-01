@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Grand Rapids, Michigan Bitcoin Run ₿ 🏃‍♂️ 🇺🇸
-excerpt: "Second bitcoin run in the USA was in Grand Rapids, Michigan. First time a duo run."
+description: "Second bitcoin run in the USA was in Grand Rapids, Michigan. First time a duo run."
 header:
   video:
     bitcoinrunzoomin : "/assets/images/runs/grand-rapids/video/13-grand-rapids-bitcoinruns-zoomin-1920x1080.m4v"

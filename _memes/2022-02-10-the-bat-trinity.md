@@ -7,7 +7,7 @@ author_profile: true
 header:
   og_image: /assets/images/memes/bat-trinity/bat-trinity-900x900.png
 date: 2022-02-08
-excerpt: "The BAT trinity: Brendan Eich (the father), Brave Browser (the son) and Attention token (the holy ghost)"
+description: "The BAT trinity: Brendan Eich (the father), Brave Browser (the son) and Attention token (the holy ghost)"
 tags:
 - cryptomeme
 ---

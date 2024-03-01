@@ -6,8 +6,8 @@ published: true
 author_profile: true 
 header:
   og_image: /assets/images/memes/lessons-about-hard-money-fed-vs-satoshi/lessons-about-hard-money-fed-vs-satoshi-1200x1488.jpeg
-date: 2021-10-28 
-excerpt: "Who do you want to learn about hard money from - FED or Satoshi?"
+date: 2021-10-28
+description: "Who do you want to learn about hard money from - FED or Satoshi?"
 ---
 
 Who do you want to learn about **hard money** from - FED or Satoshi?

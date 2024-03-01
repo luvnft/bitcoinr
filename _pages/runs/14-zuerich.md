@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Zürich Bitcoin Run ₿ 🏃‍♂️ 🇨🇭
-excerpt: "Third Bitcoin Run in Switzerland was in Zürich, another
+description: "Third Bitcoin Run in Switzerland was in Zürich, another
 of my favorite cities in Switzerland. See my run details and pictures of the best sights in town."
 header:
   video:
@@ -13,7 +13,7 @@ date: 2022-09-18
 author_profile: true
 ---
 
-My third run in Switzerland was in Zürich, one of the most beautiful and richest cities in Switzerland.
+The third run in Switzerland was in Zürich, one of the most beautiful and richest cities in Switzerland.
 
 <figure class="image">
   <a href="https://connect.garmin.com/modern/activity/9630221438">

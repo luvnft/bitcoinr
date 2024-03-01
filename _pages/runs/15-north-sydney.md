@@ -1,7 +1,7 @@
 ---
 title: North Sydney Bitcoin Run ₿ 🏃‍♂ 🇦🇺
 layout: single
-excerpt: "Second Run in Australia this time in North Sydney, thanks to the athlete Peter H 💪👏🙏. Follow the 
+description: "Second Run in Australia this time in North Sydney, thanks to the athlete Peter H 💪👏🙏. Follow the 
  strava link to see his effort."
 header:
   video:

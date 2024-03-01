@@ -4,7 +4,7 @@ date: 2021-10-31
 permalink: "/blog/bitcoin-golden-october-2021"
 author_profile: true
 published: true
-excerpt: "Bitcoin structures energy, makes it unbreakable and easily portable. People are starting to realize this."
+description: "Bitcoin structures energy, makes it unbreakable and easily portable. People are starting to realize this."
 post_thumbnail: /assets/images/blog/btc-golden-october-2021/bitcoin-out-of-leaves-thumbnail-300x300.jpeg
 header:
   image: /assets/images/blog/btc-golden-october-2021/leaves-bed-to-bitcoin-header-2048x1106.jpeg

@@ -7,7 +7,7 @@ author_profile: true
 header:
   og_image: /assets/images/memes/btc-trinity/btc-trinity-900x900.png
 date: 2022-02-09
-excerpt: "The BTC trinity: Satoshi Nakamoto (the father), Bitcoin (the son) and Lightning Network (the holy ghost)"
+description: "The BTC trinity: Satoshi Nakamoto (the father), Bitcoin (the son) and Lightning Network (the holy ghost)"
 tags:
 - cryptomeme
 - bitcoin

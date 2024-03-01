@@ -2,7 +2,7 @@
 title: "Celebrating the 21 #bitcoinruns Milestone: A Fusion of Energy and Innovation 💪 🙏 🍾"
 date: 2024-02-07
 author_profile: false
-excerpt: "Celebrating the 21 #bitcoinruns Milestone: A Fusion of Energy and Innovation 💪 🙏 🍾"
+description: "Celebrating the 21 #bitcoinruns Milestone: A Fusion of Energy and Innovation 💪 🙏 🍾"
 header:
   image: /assets/images/blog/21-bitcoinruns-milestone/world-view-21-runs-with-all-runs-1200x582.jpeg
   og_image: /assets/images/blog/21-bitcoinruns-milestone/world-view-21-runs-with-all-runs-2060x990.jpeg

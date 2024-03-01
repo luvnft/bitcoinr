@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Bern Bitcoin Run ₿ 🏃‍♂️ 🇨🇭
+description: "The first bitcoin run was minted in Bern, the capital of Switzerland."
 header:
   video:
     bitcoinrunzoomin : "/assets/images/runs/bern/video/bern-bitcoin-run-zoomin-HD-1080p-high.m4v"
@@ -11,7 +12,7 @@ date: 2021-07-03
 author_profile: true
 ---
 
-My first bitcoin run was in Bern, the city I ❤️ and have been living in for six and half years now.
+First bitcoin run was in Bern, the city I ❤️ and have been living in for six and half years now.
  It took me around 53 minutes for around 7 km - complete details 👇 : 
 
 <figure class="image">

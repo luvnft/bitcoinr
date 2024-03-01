@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Basel Bitcoin Run ₿ 🏃‍♂️ 🇨🇭
-excerpt: "Fourth Bitcoin Run in Switzerland was in Basel, third-most populous city in the country.
+description: "Fourth Bitcoin Run in Switzerland was in Basel, third-most populous city in the country.
 See the effort on strava and pictures from the bitcoin run."
 header:
   video:

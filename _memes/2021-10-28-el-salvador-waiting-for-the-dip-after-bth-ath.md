@@ -7,7 +7,7 @@ author_profile: true
 header:
   og_image: /assets/images/memes/btc-el-salvador-buying-the-dip-after-ath/el-salvador-waiting-the-dip-after-ath-1500x900.png
 date: 2021-10-28
-excerpt: "El Salvador, silently and happily waiting for the Bitcoin dip after ATH."
+description: "El Salvador, silently and happily waiting for the Bitcoin dip after ATH."
 ---
 
 After Bitcoin reached an ATH last week, helped of course by our [last push](/memes/what-helped-bitcoin-climb-to-new-all-time-high),

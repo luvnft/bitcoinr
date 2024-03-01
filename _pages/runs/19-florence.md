@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Florence Bitcoin Run ₿ 🏃‍♂️ 🇮🇹
-excerpt: "First bitcoin run in Italy, in the beautiful city of Florence (ital: Firenze), the capital city of Tuscany."
+description: "First bitcoin run in Italy, in the beautiful city of Florence (ital: Firenze), the capital city of Tuscany."
 header:
   video:
     bitcoinrunzoomin: "/assets/images/runs/19-florence/video/19-bitcoinruns-florence-zoomin-low-1080p.m4v"

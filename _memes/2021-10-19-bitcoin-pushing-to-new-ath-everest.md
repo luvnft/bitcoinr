@@ -7,7 +7,7 @@ author_profile: true
 header:
   og_image: /assets/images/memes/btc-ath-everest-last-push/bitcoin-ath-everest-queue-meme-one-last-push-1500x900.jpeg
 date: 2021-10-20
-excerpt: "Neither Bitcoin Futures ETF launch, nor inflation worries helped Bitcoin climb to new all time highs, but this."
+description: "Neither Bitcoin Futures ETF launch, nor inflation worries helped Bitcoin climb to new all time highs, but this."
 ---
 
 Some say it was the Bitcoin Futures ETF launch or other say inflation worries,

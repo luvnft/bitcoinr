@@ -1,7 +1,7 @@
 ---
 title: Son Bou, Menorca ₿ 🏃‍♂️🇪🇸
 layout: single
-excerpt: "Bitcoinruns has reached Menorca for the first time, on the beautiful beach of Son Bou. 
+description: "Bitcoinruns has reached Menorca for the first time, on the beautiful beach of Son Bou. 
 See the effort on strava and pictures of the surroundings"
 header:
   video:

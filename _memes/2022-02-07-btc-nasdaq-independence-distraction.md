@@ -7,7 +7,7 @@ author_profile: true
 header:
   og_image: /assets/images/memes/distracted-bitcoin-nasdaq/distracted-bitcoin-nasdaq
 date: 2022-02-07
-excerpt: "Bitcoin flirting with the great decoupling from traditional markets in the first trading week of February 2022."
+description: "Bitcoin flirting with the great decoupling from traditional markets in the first trading week of February 2022."
 ---
 
 In the first week of February 2022 we've witnessed a more serious tentative of Bitcoin to decouple from traditional stock markets,

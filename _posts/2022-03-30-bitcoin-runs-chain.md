@@ -1,7 +1,7 @@
 ---
 title: "🏃‍♂️ 🔗 Bitcoin Runs Chain"
 date: 2022-03-30
-excerpt: "Bitcoin Runs Chain ₿ 🏃‍♂️ 🔗 - chaining together bitcoin runs chronologically"
+description: "Bitcoin Runs Chain ₿ 🏃‍♂️ 🔗 - chaining together bitcoin runs chronologically"
 header:
   image: /assets/images/chain/header-chain-tiles-2000x700.jpeg
   og_image: /assets/images/chain/header-chain-tiles-2000x700.jpeg

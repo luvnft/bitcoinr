@@ -1,7 +1,7 @@
 ---
 title: Mahón, Menorca ₿ 🏃‍♂️🇪🇸
 layout: single
-excerpt: "Bitcoinruns for the second in Menorca, in Mahon, the main city of the island with 
+description: "Bitcoinruns for the second in Menorca, in Mahon, the main city of the island with 
 the famous natural port. See the effort on strava and pictures of the surroundings."
 header:
   video:

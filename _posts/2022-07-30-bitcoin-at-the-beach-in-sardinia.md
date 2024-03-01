@@ -1,7 +1,7 @@
 ---
 title: "₿ 🏖️ 🕶️ Bitcoin Walks in water at the beach in Sardinia, Italy"
 date: 2022-07-30
-excerpt: "Bitcoin Runs on holiday in the south of Sardinia, Italy, making some gpsart at the beach ₿ 🏖️ 🕶️️"
+description: "Bitcoin Runs on holiday in the south of Sardinia, Italy, making some gpsart at the beach ₿ 🏖️ 🕶️️"
 header:
   image: /assets/images/blog/sardinia-bitcoin-beach-walks-in-water/bitcoinruns-sardinia-beaches-header.jpeg
   og_image: /assets/images/blog/sardinia-bitcoin-beach-walks-in-water/bitcoinruns-sardinia-beaches-header.jpeg

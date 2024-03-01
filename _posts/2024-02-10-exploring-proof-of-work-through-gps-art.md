@@ -2,7 +2,7 @@
 title: "Exploring Proof of Work Through GPS Art"
 date: 2024-02-12
 author_profile: false
-excerpt: "BitcoinRuns: Where Bitcoin's Proof of Work Inspires GPS Artistry"
+description: "BitcoinRuns: Where Bitcoin's Proof of Work Inspires GPS Artistry"
 header:
   image: /assets/images/blog/proof-of-work-through-gps-art/bitcoinruns-sun-inspires-gps-art-1920x1080.jpeg
   og_image: /assets/images/blog/proof-of-work-through-gps-art/bitcoinruns-sun-inspires-gps-art-1920x1080.jpeg

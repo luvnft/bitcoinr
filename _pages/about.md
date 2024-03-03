@@ -66,6 +66,9 @@ Once a run is completed and accepted it is added to the [Bitcoin Runs Chain ₿ 
 "closed" for the chain.
 
 The chain has currently the following bitcoin runs in reverse order chronologically:
+
+- [San Francisco v2.0 🇺🇸](/san-francisco-v2)
+- [Austin,TX 🇺🇸](/austin)
 - [Bruxelles, Belgium 🇧🇪](/bruxelles)
 - [Basel, Switzerland 🇨🇭](/basel)
 - [Mahon, Menorca 🇪🇸](/mahon)

@@ -13,7 +13,7 @@ permalink: /blog/
     <img src="{{ site.url }}{{ site.baseurl }}{{ post.post_thumbnail }}" alt="" class="align-left thumbnail-img">
   </a> 
   
-  <div>{{ post.excerpt }}</div>
+  <div>{{ post.description }}</div>
   
   <div class="clear"></div>
   

@@ -7,7 +7,7 @@ header:
   video:
     bitcoinrunzoomin : "/assets/images/runs/22-san-francisco-v2/video/22-san-francisco-v2-zoomin-min-1080p.m4v"
     poster: "/assets/images/runs/22-san-francisco-v2/video/22-san-francisco-v2-google-earth-label-author-1080p.jpeg"
-  og_image: /assets/images/runs/22-san-francisco-v2/video/22-san-francisco-v2-strava-overlay-with-author-1280x600.jpeg
+  og_image: /assets/images/runs/22-san-francisco-v2/page/22-san-francisco-v2-strava-overlay-with-author-1280x600.jpeg
 date: 2024-02-29
 permalink: /san-francisco-v2/
 author_profile: true

@@ -5,7 +5,7 @@ date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.55"
-  overlay_image: /assets/images/homepage/world-map-bitcoin-runs-14-zuerich-2078x1166.jpeg
+  overlay_image: /assets/images/homepage/world-view-21-runs-2060x990.jpeg
   actions:
     - label: "Learn More"
       url: "/about/"

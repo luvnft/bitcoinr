@@ -3,8 +3,8 @@ layout: single
 title: About ₿ 🏃 
 permalink: /about/
 header:
-  image: /assets/images/about/word-map-bitcoin-runs.jpeg
-  og_image: /assets/images/about/word-map-bitcoin-runs.jpeg
+  image: /assets/images/about/world-view-21-runs-1600x544.jpeg
+  og_image: /assets/images/homepage/world-view-21-runs-2060x990.jpeg
 gallery:
   - url: /assets/images/about/berne-basemap-pace-1200x900.png
     image_path: /assets/images/about/berne-basemap-pace-600x450.png
@@ -50,7 +50,7 @@ Tell us if your community accepts Bitcoin donations, and we will display the pub
 Do you want your community on the Bitcoin Runs Map? Do a Bitcoin shaped run, take pictures (with location on)
 and [get in contact with us ✉️](mailto:bitcoinruns@protonmail.com). 
  
-> 👉 We have sketched [a list of proposals](/proposals) you might consider in cities like [Miami](/miami/), [Oslo](/oslo/), [Sibiu](/sibiu/) etc.
+> 👉 We have sketched [a list of TODO routes](/todo) you might consider from Hollywood to Liima and Oslo
  
 Then you have two options:
  - **if you are a "techie"** you can submit directly a pull request on this

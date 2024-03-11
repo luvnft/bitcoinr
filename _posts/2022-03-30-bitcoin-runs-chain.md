@@ -6,6 +6,7 @@ header:
   image: /assets/images/chain/header-chain-tiles-2000x700.jpeg
   og_image: /assets/images/chain/header-chain-tiles-2000x700.jpeg
 permalink: /chain/
+author_profile: false
 ---
 
 The Bitcoin Runs are "chained" together chronologically.

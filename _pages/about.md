@@ -62,32 +62,10 @@ We are looking forward to your joining #BitcoinRuns 🙏🏽 🙏
 
 ## Bitcoin Runs Chain ₿ 🏃‍♂️ 🔗
 
-Once a run is completed and accepted it is added to the [Bitcoin Runs Chain ₿ 🏃‍♂️ 🔗](/chain). The location is then considered
-"closed" for the chain.
+Once a run is completed and accepted it is added to the [Bitcoin Runs Chain ₿ 🏃‍♂️ 🔗](/chain).
 
-The chain has currently the following bitcoin runs in reverse order chronologically:
+{% include btc-runs-chain-video.html videoId="jU9aioxfJZI" showTitle=false %}
 
-- [San Francisco v2.0 🇺🇸](/san-francisco-v2)
-- [Austin,TX 🇺🇸](/austin)
-- [Bruxelles, Belgium 🇧🇪](/bruxelles)
-- [Basel, Switzerland 🇨🇭](/basel)
-- [Mahon, Menorca 🇪🇸](/mahon)
-- [Son Bou, Menorca 🇪🇸](/son-bou)
-- [North Sydney, Australia 🇦🇺](/north-sydney)
-- [Zürich, Switzerland 🇨🇭](/zuerich)
-- [Bangkok, Thailand 🇹🇭](/bangkok)
-- [Bengaluru, India 🇮🇳](/bengaluru)
-- [Kaohsiung, Taiwan 🇹🇼](/kaohsiung)
-- [Melbourne, Victoria, Australia 🇦🇺](/melbourne)
-- [Kuantan, Malaysia 🇲🇾](/kuantan)
-- [Tsukubamirai, Ibaraki Pref. 🇯🇵](/tsukubamirai)
-- [Barcelona](/barcelona)
-- [San Francisco 🇺🇸](/san-francisco)
-- [Lucerne 🇨🇭](/lucerne)
-- [Bucharest 🇷🇴](/bucharest)
-- [Campulung 🇷🇴](/campulung)
-- [Bern 🇨🇭](/bern)
-
-How fast can we make it to 21 💪?
+{% include bitcoinruns-list-chrono-desc.html %}
 
 {% include donate.html %}

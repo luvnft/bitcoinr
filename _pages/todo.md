@@ -97,7 +97,7 @@ header:
 - [Seattle, USA 🇺🇸 - 7.2km](https://www.strava.com/routes/3134848700521983552)
 - [Toronto, Canada 🇨🇦 - 14.9km](https://www.strava.com/routes/3180058502515084062)
 - [Vancouver, Canada 🇨🇦 - 14.9km](https://www.strava.com/routes/3180058502515084062)
-- [Washignton DC, USA 🇺🇸 - 10km](https://www.strava.com/routes/3184434820741594876)
+- [Washington DC, USA 🇺🇸 - 10km](https://www.strava.com/routes/3184434820741594876)
 
 ## South America 🌎
 

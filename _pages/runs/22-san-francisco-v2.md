@@ -45,6 +45,12 @@ You can relive with Lenny his second bitcoin run gps art below:
 
 {% include btc-runs-chain-video.html videoId="jU9aioxfJZI" %}
 
+### Strava Club Posts
+
+- [BitcoinRuns](https://www.strava.com/clubs/1039851/discussion)
+- [Strava Art](https://www.strava.com/clubs/437423/posts/28356267)
+- [Strava Art Creator](https://www.strava.com/clubs/505331/posts/28337172)
+
 ### Previous runs
 
 - [21 Austin,TX 🇺🇸](/austin)

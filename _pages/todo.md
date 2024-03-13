@@ -44,6 +44,8 @@ header:
 ## Asia 🌏
 
 - [Baku, Azerbaijan 🇦🇿 - 9.25km](https://www.strava.com/routes/3180468702929403238)
+  - Download 📁 - [gpx](/assets/gpx/todo/asia/baku-9.25km.gpx) & [tcx](/assets/gpx/todo/asia/baku-9.25km.tcx)
+  - Club proposal - [Baku Runners](https://www.strava.com/clubs/52397/posts/27302862)
 - [Beijing, China 🇨🇳 - 17km](https://www.strava.com/routes/3185129806717178436)
 - [Dhaka, Bangladesh 🇧🇩 - 5km](https://www.strava.com/routes/3180085707601974046)
 - [Dhaka, Bangladesh 🇧🇩 - 9.7km](https://www.strava.com/routes/3180084667448145494)
@@ -62,6 +64,8 @@ header:
 ## Australia/Oceania 🌏
 
 - [Adelaide, Australia 🇦🇺 - 13.6km](https://www.strava.com/routes/3180833052322975852)
+  - Download 📁 - [gpx](/assets/gpx/todo/australia-oceania/adelaide-13.6km.gpx) & [tcx](/assets/gpx/todo/australia-oceania/adelaide-13.6km.tcx)
+  - Club proposal - [Adelaide Strava Runners](https://www.strava.com/clubs/53249/posts/27319931)
 - [Honolulu, Hawaii 🇺🇸 - 8.7km](https://www.strava.com/routes/3179727281287684694)
 - [Perth, Australia 🇦🇺 - 9km](https://www.strava.com/routes/3177923943086360636)
 - [Sydney, Australia 🇦🇺 - 6.2km](https://www.strava.com/routes/2969844639468681472)
@@ -86,6 +90,9 @@ header:
 - [Paris, France 🇫🇷 - 14.2km](https://www.strava.com/routes/3157361418321156430)
 - [Prague, Czechia 🇨🇿 - 7.35km](https://www.strava.com/routes/3182638455649022794)
 - [Stockholm, Sweden 🇸🇪 - 8km](https://www.strava.com/routes/3179705238303305782)
+- [Vienna, Austria  🇦🇹 - 6.4km](https://www.strava.com/routes/3190299425999983284)
+  - Download 📁 - [gpx](/assets/gpx/todo/europe/vienna-6.4km.gpx) & [tcx](/assets/gpx/todo/europe/vienna-6.4km.tcx)
+  - Club proposal - [RunInc.](https://www.strava.com/clubs/161368/posts/27821601)
 
 ## North  America 🌎
 
@@ -98,11 +105,17 @@ header:
 - [Houston, USA 🇺🇸 - 10km](https://www.strava.com/routes/3133737891465551424)
 - [Lincoln Nebraska, USA 🇺🇸 - 9.2km](https://www.strava.com/routes/3134797286331317440)
 - [New York City, USA 🇺🇸 - 18.5km](https://www.strava.com/routes/2970330587840185780)
+- [Mexico City, Mexico 🇲🇽 - 11km](https://www.strava.com/routes/3200110623970037854)
+  - Download 📁 - [gpx](/assets/gpx/todo/north-america/mexico-city-10.4km.gpx) & [tcx](/assets/gpx/todo/north-america/mexico-city-10.4km.tcx)
+  - Club proposal - [Running Addict](https://www.strava.com/clubs/809622/posts/28278433)
 - [Miami Beach, USA 🇺🇸 - 11km](https://www.strava.com/routes/3185203553587896138)
 - [Montreal, Canada 🇨🇦 - 11km](https://www.strava.com/routes/3202682897485686648)
   - Download 📁 - [gpx](/assets/gpx/todo/north-america/montreal-11km.gpx) & [tcx](/assets/gpx/todo/north-america/montreal-11km.tcx)
   - Club proposal - [Running Addict](https://www.strava.com/clubs/174624/posts/28404611) & [100km in March](https://www.strava.com/clubs/1220280/posts/28404788)
 - [San Salvador, El Salvador 🇸🇻 - 7km](https://www.strava.com/routes/3179757653811707478)
+- [Sacramento, USA 🇺🇸 - 7.3km](https://www.strava.com/routes/3202944830521042330)
+  - Download 📁 - [gpx](/assets/gpx/todo/north-america/sacramento-7.3km.gpx) & [tcx](/assets/gpx/todo/north-america/sacramento-7.3km.tcx)
+  - Club proposal - [Sacramento Running Association](https://www.strava.com/clubs/338553/posts/28417689) & [Fleet Feet Sacramento Run Crew](https://www.strava.com/clubs/279728/posts/28417708)
 - [Seattle, USA 🇺🇸 - 7.2km](https://www.strava.com/routes/3134848700521983552)
 - [Toronto, Canada 🇨🇦 - 14.9km](https://www.strava.com/routes/3180058502515084062)
 - [Vancouver, Canada 🇨🇦 - 14.9km](https://www.strava.com/routes/3180058502515084062)

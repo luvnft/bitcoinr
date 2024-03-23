@@ -85,3 +85,16 @@ Vuthinand️:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/vuthinand/"
+
+
+Katy Rozanova:
+  name        : "Katy Rozanova"
+  bio         : "life athlete + runner + gym girl + teetotaller"
+  avatar      : "/assets/images/authors/katy-rozanova.jpg"
+  links:
+    - label: "Strava"
+      icon: "fab fa-fw fa-strava"
+      url: "https://www.strava.com/athletes/93857794"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/katyrozanova/"

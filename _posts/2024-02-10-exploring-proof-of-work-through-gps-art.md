@@ -32,18 +32,16 @@ showcasing the creativity and ingenuity of participants.
 
 4. **Global Reach**: Both Bitcoin and BitcoinRuns.org have a global presence, transcending geographical boundaries.
 Bitcoin has gained traction on a global scale, with nodes and users spanning across continents,
-while BitcoinRuns.org boasts runs on four continents, demonstrating its worldwide appeal.
-This global reach fosters a sense of community and inclusivity, bringing together individuals from diverse backgrounds 
-and locations.
+while BitcoinRuns.org boasts runs on four continents. This global reach fosters a sense of community and inclusivity,
+bringing together individuals from diverse backgrounds  and locations.
 
 5. **Decentralization and Community-Driven**: Decentralization lies at the core of both Bitcoin and BitcoinRuns.org.
 Bitcoin operates on a decentralized network, free from central authority or control,
-while BitcoinRuns.org is driven by its community of runners who contribute to the platform's growth and creativity. 
-This decentralization empowers individuals, fosters collaboration, and promotes innovation within their respective communities.
+while BitcoinRuns.org is driven by its community of runners who contribute to the platform's growth and creativity.
 
 6. **Symbolism of Freedom and Inclusion**: Both Bitcoin and BitcoinRuns.org symbolize ideals of freedom, liberty, and inclusion.
-Bitcoin's decentralized nature aligns with principles of financial sovereignty and inclusivity,
-providing access to financial services for individuals worldwide. Similarly, BitcoinRuns.org promotes the freedom of expression
+Bitcoin's decentralized nature aligns with principles of financial sovereignty and inclusivity, providing access
+to financial services for individuals worldwide. Similarly, BitcoinRuns.org promotes the freedom of expression
 through physical activity, encouraging people of all backgrounds and abilities to participate in a global community
 centered around fitness and creativity.
 

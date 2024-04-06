@@ -8,7 +8,7 @@ header:
   video:
     bitcoinrunzoomin : "/assets/images/runs/26-denver/video/26-denver-zoomin-min-1080p.mp4"
     poster: "/assets/images/runs/26-denver/video/26-denver-google-earth-label-day-1080p.jpg"
-  og_image: /assets/images/runs/26-denver/page/25-nyc-strava-simple-both-runners-label-1500x900.jpg
+  og_image: /assets/images/runs/26-denver/page/26-denver-strava-screenshot-both-authors-label-1340x750.jpeg
 permalink: /denver/
 date: 2024-03-30
 ---

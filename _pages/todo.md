@@ -74,6 +74,10 @@ header:
 
 - [Aarhus, Denmark 🇩🇰 - 3.86km](https://www.strava.com/routes/3181164228819301194)
 - [Amsterdam, Netherlands 🇳🇱 - 16km](https://www.strava.com/routes/3013838867497697270)
+  - Download 📁 - [gpx](/assets/gpx/todo/europe/amsterdam-17.8km.gpx) & [tcx](/assets/gpx/todo/europe/amsterdam-17.8km.tcx)
+  - Club proposal 
+    - [Dutch STRAVA Runners](https://www.strava.com/clubs/2323/posts/29014292)
+    - [Mizuno Half Marathon Amsterdam](https://www.strava.com/clubs/296651/posts/29014521)
 - [Budapest, Hungary 🇭🇺 - 7.7km](https://www.strava.com/routes/3157369095624113286)
 - [Constance, Germany 🇩🇪 - 4km](https://www.strava.com/routes/3180814880125825622)
 - [Copenhagen, Denmark 🇩🇰 - 7.14km](https://www.strava.com/routes/3179714067650366282)
@@ -83,6 +87,10 @@ header:
 - [Kyiv, Ukraine 🇵🇱- 10km](https://www.strava.com/routes/3184560712387238730)
 - [Lisbon, Portugal 🇵🇹 - 6.7km](https://www.strava.com/routes/3179695169616996950)
 - [Madrid, Spain 🇪🇸 - 12.8km](https://www.strava.com/routes/3014126973501968308)
+  - Download 📁 - [gpx](/assets/gpx/todo/europe/madrid-12.7km.gpx) & [tcx](/assets/gpx/todo/europe/madrid-12.7km.gpx)
+  - Club proposal 
+    - [Instagram Strava Running](https://www.strava.com/clubs/470135/posts/29013791)
+    - [Strava Madrid](https://www.strava.com/clubs/316001/posts/29013908)
 - [Moscow, Russia 🇷🇺- 9.1km](https://www.strava.com/routes/3184566750682685014)
 - [Munich, Germany 🇩🇪 - 9.5km](https://www.strava.com/routes/3179480366239533110)
 - [Oslo, Norway 🇳🇴 - 6.3km](https://www.strava.com/routes/3159095289308439230)

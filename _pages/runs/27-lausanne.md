@@ -12,7 +12,7 @@ date: 2024-04-14
 author_profile: true
 ---
 
-The fifth Bitcoin run in Switzerland 🇨🇭 was minted in [Lausanne](https://en.wikipedia.org/wiki/Lausanne) 🎉,
+The sixth Bitcoin run in Switzerland 🇨🇭 was minted in [Lausanne](https://en.wikipedia.org/wiki/Lausanne) 🎉,
 the capital and largest city of the Swiss French-speaking canton of Vaud, also home of the International Olympic Committee 
 and many other international sport organizations.
 

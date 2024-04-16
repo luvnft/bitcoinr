@@ -17,6 +17,10 @@ feature_row:
 intro: 
   - excerpt: 'Get connected [<i class="fab fa-fw fa-strava"></i>](https://www.strava.com/clubs/bitcoinruns) [<i class="fab fa-fw fa-instagram"></i>](https://www.instagram.com/BitcoinRuns) [<i class="fab fa-fw fa-github"></i>](https://github.com/BitcoinRuns) [<i class="fab fa-fw fa-twitter-square"></i>](https://twitter.com/BitcoinRuns) [<i class="fab fa-youtube"></i>](https://www.youtube.com/channel/UCDGX_yT8K6-oAgGldr8xDWw)  [<i class="fab fa-tiktok"></i>](https://www.tiktok.com/@bitcoinruns)'
 gallery_completed:
+  - url: /lausanne/
+    image_path: /assets/images/homepage/27-lausanne-strava-640x480.jpeg
+    alt: "Lausanne Bitcoin Run"
+    title: "Lausanne Bitcoin Run"
   - url: /denver/
     image_path: /assets/images/homepage/26-denver-strava-640x480.jpeg
     alt: "Denver Bitcoin Run"

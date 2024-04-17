@@ -41,8 +41,23 @@ I stopped quite often to take pictures. Few pictures below 📷👇:
 
 ### Approaching Lausanne
 
-When you take the train from Bern to Lausanne, you are rewarded with 
+When you take the train from Bern to Lausanne, you are rewarded with
 amazing views of the Lake Geneva, the vineyards and the Alps.
+
+#### Alps view from train
+
+Amazing views of the Lake Geneva, the vineyards and the Alps.
+
+<figure class="image">
+  <a href="/assets/images/runs/27-lausanne/city/0-lake-geneva-alps-view-watermark-1200x900.jpg">
+    <img src="/assets/images/runs/27-lausanne/city/0-lake-geneva-alps-view-watermark-1200x900.jpg" alt="Alps view from train">
+  </a>
+  <figcaption>Alps view from train</figcaption>
+</figure>
+
+### Lausanne views from the train
+
+Did you notice the guys chilling and taking pictures?
 
 <figure class="image">
   <a href="/assets/images/runs/27-lausanne/city/1-approaching-lausanne-watermark-1200x900.jpg">

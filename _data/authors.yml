@@ -98,3 +98,11 @@ Katy Rozanova:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/katyrozanova/"
+
+Matias Conti:
+  name        : "Matias Conti"
+  avatar      : "/assets/images/authors/matias-conti.jpg"
+  links:
+    - label: "Strava"
+      icon: "fab fa-fw fa-strava"
+      url: "https://www.strava.com/athletes/20284999"

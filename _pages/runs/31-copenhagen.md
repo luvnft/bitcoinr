@@ -19,7 +19,7 @@ Check out the strava effort 👇:
 
 <figure class="image">
   <a href="https://www.strava.com/activities/11882643474">
-    <img src="/assets/images/runs/31-copenhagen/page/copenhagen-strava-standard-label-1490x870.jpg" alt="Prague Bitcoin Run Strava Art">
+    <img src="/assets/images/runs/31-copenhagen/page/copenhagen-strava-standard-label-1490x870.jpg" alt="Copenhagen Bitcoin Run Strava Art">
   </a>
   <figcaption>Bitcoin Run Copenhagen ₿ 🏃‍♂️ 🇩🇰</figcaption>
 </figure>
